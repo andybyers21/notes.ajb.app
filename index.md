@@ -13,7 +13,7 @@ permalink: /
 
 In the past I’ve worked in the energy sector, retail & leisure sectors and non-profit sector in both multi-national organisations as well as grass-roots family businesses.
 
-THIS IS A LINK TEST [[A Customised Approach to Asset Allocation]]
+THIS IS A LINK TEST [[A Customised Approach to Asset Allocation]] ***Links only work on `layout: note` YAML tagged pages.***
 
 I use this page to expand on my thoughts on self-education, personal knowledge management (PKM), productivity, entrepreneurship, strategy, marketing, finance, and whichever rabbit holes I find myself in this week. In an effort to connect with curious, creative, and ambitious minds I’ve committed to sharing my findings with the world. *There should be a link to [my notes](/andybnet/notes) in this text here and a small description to be expanded upon in the [about these notes](/andybnet/notes) page. Also should be some gibberish about my [longform writing](/andybnet/essays)* If you’re willing to let people access your life, they’ll find what they need to help you succeed.
 

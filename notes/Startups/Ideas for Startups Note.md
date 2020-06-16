@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Ideas For Startups
+title: Ideas For Startups Note
 parent: Startups
 grand_parent: Working Notes
 nav_exclude: true
