@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: note
 title: What is a Startup
 parent: Startups
 grand_parent: Working Notes

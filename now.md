@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Now
 nav_order: 5
 permalink: /now

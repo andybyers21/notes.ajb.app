@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: note
 title: Fuzzy Vision = Fuzzy Motivation
 parent: Startups
 grand_parent: Working Notes

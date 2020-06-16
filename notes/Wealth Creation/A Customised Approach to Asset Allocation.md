@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: note
 title: A Customised Approach to Asset Allocation
 parent: Wealth Creation
 grand_parent: Working Notes

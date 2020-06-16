@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: note
 title: What are Hedge Funds
 parent: Wealth Creation
 grand_parent: Working Notes

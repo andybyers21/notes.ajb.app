@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: note
 title: Ideas For Startups
 parent: Startups
 grand_parent: Working Notes

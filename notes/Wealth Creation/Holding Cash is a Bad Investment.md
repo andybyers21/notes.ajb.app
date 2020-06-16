@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: note
 title: Why Holding Cash is a Bad Investment
 parent: Wealth Creation
 grand_parent: Working Notes
