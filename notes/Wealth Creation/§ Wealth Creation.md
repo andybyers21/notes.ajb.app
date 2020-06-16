@@ -4,6 +4,8 @@ title: Wealth Creation
 parent: Working Notes
 has_children: true
 permalink: notes/Wealth Creation
+has_toc: false
+
 ---
 # Wealth Creation
 Over time the economy and the population grows and workers become more productive. This rising economic tide makes businesses more profitable, which drives up stock prices. The challenge is to stay in the market long enough to enjoy these gains. Since the dot com bubble, housing market crash etc - [[Young people are adverse to investing in the market]]
