@@ -43,7 +43,7 @@ Over time the economy and the population grows and workers become more productiv
 
 ### Asset Allocation
 - [[Asset Allocation]]
-	- [[A Customised Approach to Asset Allocation]]
+	- [A Customised Approach to Asset Allocation](./A Customised Approach to Asset Allocation)
 - [[Rebalancing]]
 - [[TK - Diversified Returns]]
 - [[Holding Cash is a Bad Investment]]
