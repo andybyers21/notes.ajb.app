@@ -1,3 +1,5 @@
+# gem 'wikilinks'
+
 source "https://rubygems.org"
 gemspec
 

@@ -6,22 +6,22 @@ module Jekyll
         name, title = inner.split('|', 2)
         self.new(name, title)
       end
-      
+
       attr_accessor :name, :title
       attr_reader :match
-      
+
       def initialize(name, title)
         @name = name.strip
         @title = title
       end
-      
+
       def title
         if @title.nil?
           if not @match.nil?
             match_title @match
           else
             @name
-          end  
+          end
         else
           @title
         end
@@ -32,29 +32,29 @@ module Jekyll
 	  m.data['title']
 	end
       end
-      
+
       def url
         @match.url
       end
-      
+
       def has_match?
         not @match.nil?
       end
-      
+
       def match_post(posts)
         @match = posts.find { |p| p.slug.downcase == @name.downcase or match_title(p) == name }
       end
-      
+
       def match_page(pages)
         @match = pages.find { |p| p.basename.downcase == @name.downcase or match_title(p) == name }
       end
-      
+
       def markdown
         @match.nil? ? "\\[\\[#{title}\\]\\]" : "[#{title}](#{url})"
       end
     end
   end
-  
+
   module Convertible
     alias old_transform transform
 

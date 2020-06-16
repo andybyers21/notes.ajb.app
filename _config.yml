@@ -54,6 +54,7 @@ color_scheme: nil
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+#  - wikilinks
 
 compress_html:
   clippings: all
