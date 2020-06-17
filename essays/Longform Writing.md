@@ -6,7 +6,7 @@ nav_order: 2
 permalink: /essays
 ---
 
-# Essays
+# Longform Writing
 {: .fs-9 }
 
 Here are some words and things about my essays.
