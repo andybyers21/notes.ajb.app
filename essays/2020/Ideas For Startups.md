@@ -1,18 +1,16 @@
 ---
 layout: post
 title:  "Ideas For Startups"
-date:   2020-06-14
+date:   2020-05-28
 parent: Longform Writing
-nav_order: 9998
-categories: jekyll update
+nav_order: 9996
+categories: growth, startups
 ---
 
 # Ideas For Startups
 {: .no_toc }
-###### date: 2020-06-14
-{: .no_toc }
-<br/>
-{: .no_toc .text-delta }
+**date: 2020-05-28**
+{: .fs-3 }
 
 1. TOC
 {:toc}
@@ -28,7 +26,7 @@ In every startup you will always need three things to be successful:
 
 Let's break that down:
 
-**Good people.** This is number one for a reason. Even if it's just you in your business, you still need a support network. Even if it's just an encouraging wife, a good friend who knows a bit about the tax system and some people sharing knowledge on [Twitter](https://twitter.com/AndyByers21). If you think you don't have good people around you start [here](https://andybyers.net/creating-a-contact-management-strategy-for-growth)
+**Good people.** This is number one for a reason. Even if it's just you in your business, you still need a support network. Even if it's just an encouraging wife, a good friend who knows a bit about the tax system and some people sharing knowledge on [Twitter](https://twitter.com/AndyByers21). If you think you don't have good people around you start [here](/essays/2020/Creating a Contact Management Strategy For Growth)
 
 **Customers.** Most people would put product here but it's very easy to spend a whole lot of time and money developing a product that nobody actually needs or wants. I'm willing to bet large amounts of money that a lot of startups failed because they did this. In fact, "no market need" took the number one spot on  [CB Insights](https://www.cbinsights.com/research/startup-failure-reasons-top/) Top 20 reasons why startups fail.
 
@@ -56,7 +54,7 @@ Each phase requires a different skillset from the entrepreneur or the team. A st
 We’re in a service economy now. Service businesses (e.g., consultants, software companies, wedding planners, graphic designers, and hundreds of others) don’t require much to get going. If you’re running a business like that, avoid outside funding. What is your prehistory? Do you work in sales? Then help those that are building to sell. Are you a web developer for a large corporation who knows there are slicker, less convoluted ways to build web apps? Build them. Do you work in customer services but can't find that "big idea" that's going to get you out? Figure out how to make your employers customer service the best it can possibly be. Then sell that to other companies. Everybody has something to build on. Build a company that builds up others.
 
 > ‘What’s so hard about pulling a sword out of a stone? The real work’s already been done. You ought to make yourself useful and find the man who put the sword in the stone in the first place.’
-> --_Terry Pratchett, Men at Arms_
+> --*Terry Pratchett, Men at Arms*
 
 A lot of startups think they need to be new and shiny and never before seen. But you just need to be the best at what you know. You don't need amazing ideas to start. Focus on what isn't changing, not what is. Just offer people an incremental improvement on what's already available. That's all you need to start. Then you can offer further improvements, additional features and add-ons in the same manner. It's a lot easier to make an inexpensive product more powerful than it is to make a powerful product cheaper. If you’re one of two campers attacked by a bear you don't need to be faster than the bear. You better be damn sure your faster than the other camper though. **The monies in the execution, not the idea.**
 
@@ -81,8 +79,6 @@ Build your community before you even think about releasing your product and keep
 
 ### Fads
 Can you create a business process that involves watching the market for the latest trend and constantly iterating and rebranding for the latest market, then jumping on it ASAP? Then do this repeatedly for the life of your business. If your business is trends and fads that's ok. If your business **IS** the latest trend then go home now. How many fidget spinners and myspace apps are still selling today.
-
-==image 2==
 
 Think of all the businesses that started in the dot-com bubble. The ones who survived had the staying power because they looked for things that would make their user's problems go away. PayPal, Amazon, Google etc. The ones who failed looked at the online landscape and formulated ideas that would fit into that bubble. See [pets.com](https://en.wikipedia.org/wiki/Pets.com) if you don't believe me.
 
@@ -111,7 +107,7 @@ Key points:
 You don’t need to write a personal statement. You don’t need to write about yourself, your demographics, your market analysis, your SWOT, your fancy charts and graphs. All of that will come later. Get the fundamentals in place and go create a solid product. Worry about the finer details once it's proven. Organization to strategy to recruiting, funding to public relations. These are all part of the process. These all come after your ideas. Why waste your time producing all this stuff before you know you have a product that will actually sell?
 
 ## Ask Yourself
-Building a company requires patience and fortitude. Lots and lots of patience, just as much as it relies on boldness or courage. Are you able to be a teacher and a student? [Are there habits or systems that are holding you back](https://andybyers.net/5-ways-to-work-smarter-not-harder)? What groundwork can you carry out now to get your feet on the first steps of that ladder? What will be the prehistory of your company?
+Building a company requires patience and fortitude. Lots and lots of patience, just as much as it relies on boldness or courage. Are you able to be a teacher and a student? [Are there habits or systems that are holding you back](/essays/2020/5 Ways to Work Smarter, Not Harder)? What groundwork can you carry out now to get your feet on the first steps of that ladder? What will be the prehistory of your company?
 
 Everyday things can be made better and brighter by everyday people. A business shouldn't be all about making bank. It should be about making dreams come true for others, as well as your own. Starting a company is a great way to improve the world while improving yourself. You might not have the next big idea but it's more than possible to build a framework that will put you in a position to succeed.
 

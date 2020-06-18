@@ -47,3 +47,14 @@ $logo: "{{ site.logo | absolute_url }}";
 @import "./code";
 @import "./utilities/utilities";
 @import "./overrides";
+
+
+
+//
+// image padding
+//
+
+img {
+  max-width: 100%;
+  padding: 7px;
+}
