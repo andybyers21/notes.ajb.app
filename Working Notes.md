@@ -15,3 +15,9 @@ These link back to my ideation area and will become live in due time.
 I will put some links to note examples in wikilink format here.
 
 *Why is my table of contents in a different order to my menu bar??* *Both should have no `nav_order`*
+
+I've deliberately not used a table of contents in order to facilitate serindipidous connections.
+
+Only breaking up notes into topics,however there is cross references in many notes taking you into the tunnels of other topics.
+
+See the note that has the but about tunnels and curves for more on about these notes. 

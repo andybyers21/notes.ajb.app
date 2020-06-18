@@ -13,6 +13,8 @@ permalink: /now
 <br/>
 **This needs updated**
 
+"Add what is a now page to now page."
+
 Right now I’m working on building and growing our consultancy services at [maykind](https://maykind.com) and developing the turnkey solutions.
 
 Working on Website Development
