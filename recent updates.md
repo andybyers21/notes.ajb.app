@@ -9,17 +9,17 @@ permalink: /updates
 {: .fs-9 }
 
 ## 2020-06-15
-Uploaded some early ideation to my evergreen notes on [startup companies](/notes/Startups)
+- Uploaded some early ideation to my evergreen notes on [startup companies](/notes/Startups)
 
 ## 2020-06-15
 - Added [evergreen notes](/notes) on [Wealth Creation](/notes/Wealth Creation)
-- Added [Macbook Help](/notes/Macbook Help) notes
+- Added [Macbook Help](/notes/Macbook Help) and [Web Development](/notes/Web Development) notes
 
 ## date
 - Transferred from WordPress to a Jekyll site. (word this proper good)
 
 ## 2020-06-11
-- Published some ideas on [how to theme your days for maximum productivity](/essays/2020/themeing your days)
+- Published some ideas on [how to theme your days for maximum productivity](/essays/2020/theming your days)
 
 ## 2020-05-28
 - Posted some of my [Ideas For Startups](/essays/2020/ideas for startups) in a longform essay

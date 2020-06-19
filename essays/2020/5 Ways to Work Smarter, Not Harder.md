@@ -24,7 +24,7 @@ As an entrepreneur, we are here to build. By definition, we are here to bring pe
 >I would rather earn 1% off a 100 people’s efforts than 100% of my own efforts.”
 > -- _John D. Rockefeller_
 
-A smart person, on the other hand, will leverage other people’s experiences. Surround yourself with kick-ass people. Talk about ideas, not other people. Work with mastermind groups. All kinds of people, each with a distinct and valuable perspective are critical to success. A collaborative framework promises maximum use of resources. Feedback will help you build frameworks for managing yourself. By doing this you can learn from others experience and you can avoid the pitfalls that have already become them. Saving years and delivering enormous results. Across the board, extremely productive and accomplished teams capitalize on the power of community.
+A smart person, on the other hand, will leverage other people’s experiences. Surround yourself with kick-ass people. Talk about ideas, not other people. Work with mastermind groups. All kinds of people, each with a distinct and valuable perspective are critical to success. A collaborative framework promises maximum use of resources. Feedback will help you build frameworks for managing yourself. By doing this you can learn from others experience and you can avoid the pitfalls that have already become them. Saving years and delivering enormous results. Across the board, extremely productive and accomplished teams capitalise on the power of community.
 
 Have an open mind. Tinker and play as much as possible to create as many opportunities as you can. Aggressive trial and error can yield many unseen opportunities.
 

@@ -11,9 +11,9 @@ Alternative Investments are any investments other than stocks, bonds, and cash i
 
 Most alternative assets are fairly illiquid, especially compared to their conventional counterparts. For example, investors are likely to find it considerably more difficult to sell an 80-year old bottle of wine compared to 1,000 shares of Apple Inc., due to the limited number of buyers. Investors may have difficulty valuing alternative investments, since the assets, and transactions involving them, are often rare. For example, a seller of a 1933 Saint-Gaudens Double Eagle $20 gold coin may have difficulty determining its value, as there are only 13 known to exist.
 
-Many alternative investments have high minimum buy-in and fee structures, especially when compared to [[Index Funds]], [[Bonds]] and [[Mutual Funds]]. These investments also have less opportunity to publish verifiable performance data and advertise to potential investors. 
+Many alternative investments have high minimum buy-in and fee structures, especially when compared to [[Index Funds]], [[Bonds]] and [[Mutual Funds]]. These investments also have less opportunity to publish verifiable performance data and advertise to potential investors.
 
-Transaction costs can vary wildly depending on the traded asset, for example gold has fairly low transaction costs, low tax, no selelr fees. But fine art will have a high buyer/ seller cost such as auction house fees. Assets such as real estate and classic cars will also have maintainice and/or repair costs attached in order to realise the full value.
+Transaction costs can vary wildly depending on the traded asset, for example gold has fairly low transaction costs, low tax, no seller fees. But fine art will have a high buyer/ seller cost such as auction house fees. Assets such as real estate and classic cars will also have maintenance and/or repair costs attached in order to realise the full value.
 
 Gold produces very little income and is not a critical resource. Warren Buffett said, “Gold gets dug out of the ground in Africa, or someplace. Then we melt it down, dig another hole, bury it again, and pay people to stand around guarding it. It has no utility. Anyone watching from Mars would be scratching their head.”
 

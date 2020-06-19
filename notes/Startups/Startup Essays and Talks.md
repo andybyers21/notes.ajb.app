@@ -8,6 +8,10 @@ nav_exclude: true
 ---
 # Startup Essays and Talks
 
-This is a link to a database of brilliant essays and talks on [[Startups]] by startupschool.org, from smart folks like Paul Graham, Drew Houston, Mark Zuckerberg, Elon Musk, Naval and many others. 
+This is a link to a database of brilliant essays and talks on [[Startups]] by startupschool.org, from smart folks like Paul Graham, Drew Houston, Mark Zuckerberg, Elon Musk, Naval and many others.
 
 **[Link](https://www.startupschool.org/library)**
+
+---
+
+My personal essay on Ideas For Startups can be found **[here](/essays/2020/Ideas for Startups)**

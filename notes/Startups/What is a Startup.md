@@ -20,7 +20,7 @@ Employees, office spaces, Company cars/ vans, fancy "things" are often a choice 
 
 [[TK - Why do Startups Fail]]? Most startups that fail do it because they fail at one of these three things. A startup that does all three will probably succeed. There are no more magical steps than this. **The three steps are doable. Hard, but doable**
 
-What should drive people to start a startup should be looking at existing technology/ products/ services and thinking, don't these guys realize they should be doing x, y, and z?
+What should drive people to start a startup should be looking at existing technology/ products/ services and thinking, don't these guys realise they should be doing x, y, and z?
 
 If you want [Ideas for Startups](/essays/2020/Ideas for Startups), one of the most valuable things you could do is find a middle-sized non-technology company and spend a couple weeks just watching what they do. Define their processes and figure out how you can help improve it for them. Why chose a middle size company, a small company or another startup will be too strapped for cash to pay you and try getting past the gatekeepers at a multi-national.
 

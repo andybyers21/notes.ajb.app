@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Themeing Your Days for Maximum Productivity"
+title:  "Theming Your Days for Maximum Productivity"
 date:   2020-06-11
 parent: Longform Writing
 nav_order: 9995
 categories: organisation, productivity
 ---
 
-# Themeing Your Days for Maximum Productivity
+# Theming Your Days for Maximum Productivity
 {: .no_toc }
 **date: 2020-06-11**
 {: .fs-3 }
@@ -50,7 +50,7 @@ Wednesday is also the time to review all of our user feedback and to put it into
 
 ### Thursdays Are Dedicated to Content Creation
 {: .no_toc}
-On Thursdays, I'll work typically work on content creation for [the newsletter](/newsletter) or a [longform essay](/essays). Alternatively, I might have to work on business plans, procedures, processes or copywrite For product offerings. Either way, you'll find me in front of a keyboard for the bulk of the day. I usually have several drafts on the go with collected snippets of information and ideas and today I will put that into context and finalise my work.
+On Thursdays, I'll work typically work on content creation for [the newsletter](/newsletter) or a [longform essay](/essays). Alternatively, I might have to work on business plans, procedures, processes or copy-write for product offerings. Either way, you'll find me in front of a keyboard for the bulk of the day. I usually have several drafts on the go with collected snippets of information and ideas and today I will put that into context and finalise my work.
 
 ### Friday Are Wobbly
 {: .no_toc}

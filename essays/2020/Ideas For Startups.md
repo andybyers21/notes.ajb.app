@@ -99,7 +99,7 @@ Key points:
 - Who is your customer?
 - Why will they come to you over your competition?
 - In what scalable way will you acquire these customers?
-- How will you monetize those customers? (Specifically, how will you monetise your fans at a significantly higher level than your cost of acquisition).
+- How will you monetise those customers? (Specifically, how will you monetise your fans at a significantly higher level than your cost of acquisition).
 - When will you go to market? Even if your working in isolation you need to set yourself firm goals.
 - What are the risks involved? If the risks outweigh the benefits then it's time to start over. If not then build > release > iterate.
 - What are your key metrics, how will you measure that?
