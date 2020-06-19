@@ -7,8 +7,16 @@ permalink: notes/Startups
 has_toc: false
 
 ---
+# Startups
+## Essays
+- [[Ideas For Startups]]
+- [[Startup Essays and Talks]]
 
-# What is a Startup
+## What is a Startup?
 - [[What is a Startup]]
-  - [[Fuzzy Vision = Fuzzy Motivation]]
-    - [[Ideas for Startups Note]]
+
+## Pre-Startup
+- [[TK - The Prehistory of a Company]]
+
+## Running a Startup
+- [[TK - Why do Startups Fail]]

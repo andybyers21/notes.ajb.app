@@ -8,12 +8,15 @@ permalink: /updates
 # Recent Updates
 {: .fs-9 }
 
-## date
-- Transferred from WordPress to a Jekyll site. (word this proper good)
+## 2020-06-15
+Uploaded some early ideation to my evergreen notes on [startup companies](/notes/Startups)
 
 ## 2020-06-15
-- Uploaded my [evergreen notes](/notes) on [Wealth Creation](/notes/Wealth Creation)
-- Uploaded my [evergreen notes](/notes) on [Startups](/notes/Startups)
+- Added [evergreen notes](/notes) on [Wealth Creation](/notes/Wealth Creation)
+- Added [Macbook Help](/notes/Macbook Help) notes
+
+## date
+- Transferred from WordPress to a Jekyll site. (word this proper good)
 
 ## 2020-06-11
 - Published some ideas on [how to theme your days for maximum productivity](/essays/2020/themeing your days)
