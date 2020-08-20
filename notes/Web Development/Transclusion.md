@@ -5,16 +5,7 @@ parent: Web Development
 nav_exclude: true
 ---
 # Transclusion
-Transclusion is the inclusion of a document (or prat of a document) within another document by referance.
-
-For example:
-```shell
-[Links](https://maykind.com)
-```
--or-
-```shell
-Backlinks [[Web Development]]
-```
+[[Launch and Run Jekyll Site in Terminal]]
 
 https://en.wikipedia.org/wiki/Transclusion
 
