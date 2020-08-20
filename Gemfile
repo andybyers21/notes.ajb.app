@@ -3,6 +3,8 @@
 source "https://rubygems.org"
 gemspec
 
+gem "github-pages", group: :jekyll_plugins
+
 gem 'liquid'
 gem 'wiki_lib'
 
