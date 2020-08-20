@@ -9,7 +9,7 @@ permalink: /
 # Hi, I'm Andy Byers
 {: .fs-9 }
 
-![Andy Byers](assets/images/AndyByers1.png){: style="float: right"}
+![Andy Byers](images/AndyByers1.png){: style="float: right"}
 
 *I'm a software developer with a focus on building knowlege management for the web.*
 

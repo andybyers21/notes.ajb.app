@@ -3,7 +3,6 @@ layout: note
 title: Transclusion
 parent: Web Development
 nav_exclude: true
-
 ---
 # Transclusion
 Transclusion is the inclusion of a document (or prat of a document) within another document by referance.
