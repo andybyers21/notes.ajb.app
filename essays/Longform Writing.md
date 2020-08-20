@@ -11,6 +11,8 @@ permalink: /essays
 
 Here are some words and things about my essays.
 
+[[cd too many arguments error in shell]]
+
 I see no changes wake up in the morning and I ask myself
 Is life worth living should I blast myself?
 I'm tired of bein' poor and even worse I'm black
