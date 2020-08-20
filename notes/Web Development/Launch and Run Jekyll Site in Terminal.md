@@ -6,7 +6,10 @@ nav_exclude: true
 
 ---
 # Launch and Run Jekyll Site in Terminal
-Type `bundle exec jekyll serve --watch` at the command line to start running your website locally. You’d visit ***localhost:4000*** in a browser to see your local site.
+```shell
+bundle exec jekyll serve --watch
+``` 
+at the command line to start running your website locally. You’d visit ***localhost:4000*** in a browser to see your local site.
 
 Hit **control-c** at the command line to stop running the website locally.
 

@@ -11,6 +11,8 @@ permalink: /
 
 ![Andy Byers](assets/images/AndyByers1.png){: style="float: right"}
 
+*I'm a software developer with a focus on building knowlege management for the web.*
+
 I’m the founder of [Maykind](https://maykind.com). A personal growth engine disguised as a business consultancy where I work with small businesses, helping them achieve results in areas such as strategy, growth, organisational design and productivity. I also work with retail in the non-profit sector for [Stellas Voice](https://stellasvoice.org.uk).
 
 [[What is a Startup]] - testing a wikilink.
@@ -30,7 +32,7 @@ I don't write a weekly newsletter called the heads-up where I share packets of k
 ## About These Notes
 {: .fs-9 }
 
-An eternal work in progress
+An eternal work in progress. Evergreen notes loosely based on the Zettleklasten principals. **Checks Spelling**
 
 These are my live evergreen notes and here is some information about them. Note: Some rare notes may have dead links. Where a link is prepended by "TK" or ***TK*** this is a work in progerss and link back to my ideation area which will become live in due time.
 

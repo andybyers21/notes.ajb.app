@@ -1,20 +1,17 @@
 ```
 ---
-layout: note
+layout: default
 title: A Title
-nav_order: 4
+nav_order: 99
 has_children: true
-permalink: notes/Macbook Help
 has_toc: false
 ---
 ```
 
-# MacBook Help
-- [[How to Reset SMC On a Non-T2 Based MacBook]]
-- [[iPad constantly disconnecting and reconnecting when linked to your Mac]]
-- [[Mac-book Apps to Download]] when setting up a new machine
-- [[Markdown References]]
+# Title
+- [Advanced Markdown Concepts](../Advanced Markdown Concepts/)
 
-## Terminal
-- [[Advanced Markdown Concepts]]
-- [[cd too many arguments error in shell]]
+## Sub-Topic
+- [Transclusion](../Transclusion/)
+	- Consider also adding transclusion implementation on the web.
+

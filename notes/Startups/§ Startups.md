@@ -1,11 +1,9 @@
 ---
-layout: note
+layout: default
 title: Startups
 nav_order: 99
 has_children: true
-# permalink: notes/Startups
 has_toc: false
-
 ---
 # Startups
 ## Essays

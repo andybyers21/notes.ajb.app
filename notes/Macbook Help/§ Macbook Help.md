@@ -1,12 +1,9 @@
 ---
-layout: note
+layout: default
 title: Macbook Help
 nav_order: 99
 has_children: true
-# permalink: notes/Macbook Help
-
 has_toc: false
-
 ---
 # MacBook Help
 - [[How to Reset SMC On a Non-T2 Based MacBook]]
