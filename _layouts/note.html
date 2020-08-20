@@ -56,7 +56,10 @@ layout: table_wrappers
                   {% endif %}
                   <li class="breadcrumb-nav-list-item"><span>{{ page.title }}</span></li>
                 </ol>
-                {% assign contentarray = page.content | split:'[[' %}
+              </nav>
+
+              <!-- Wikilinks -->
+              {% assign contentarray = page.content | split:'[[' %}
                 {% for item in contentarray %}
                     {% if forloop.index > 1 %}
                         {% assign itemparts = item | split:']]' %}
@@ -85,7 +88,8 @@ layout: table_wrappers
                 {% endfor %}
 
                 {{ replacedcontent | markdownify }}
-              </nav>
+              <!-- END Wikilinks -->
+
             {% endif %}
           {% endunless %}
 

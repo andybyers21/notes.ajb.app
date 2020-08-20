@@ -2,7 +2,6 @@
 layout: note
 title: What is a Startup
 parent: Startups
-grand_parent: Working Notes
 nav_exclude: true
 
 ---

@@ -2,7 +2,6 @@
 layout: note
 title: Terminal Reference Guide
 parent: Macbook Help
-grand_parent: Working Notes
 nav_exclude: true
 
 ---

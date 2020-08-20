@@ -1,23 +1,18 @@
 ---
-layout: note
+layout: default
 title: Web Development
-parent: Working Notes
+nav_order: 99
 has_children: true
-permalink: notes/Web Development
-has_toc: false
+# permalink: notes/Web Development
+# has_toc: false
 
 ---
 # Web Development
 
-## Mac Shell
-- [[Terminal Reference Guide]]
-- [[cd too many arguments error in shell]]
+- [Advanced Markdown Concepts](/notes/Web Development/Advanced Markdown Concepts/)
 
-## Ruby
-- [[TK - Ruby Coding Links Index]]
 
-## Markdown
-- [[Advanced Markdown Concepts]]
+
 - By default, Jekyll uses the [kramdown](https://kramdown.gettalong.org) Markdown processor with stock settings, but you can enable other kramdown options or even switch Jekyll to another Markdown processor. See the [Jekyll Markdown configuration options](https://jekyllrb.com/docs/configuration/markdown/) documentation for more information. You can change Jekyll’s kramdown settings in the *_config.yml* file.
 
 ## Jekyll

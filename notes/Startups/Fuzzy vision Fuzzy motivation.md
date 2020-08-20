@@ -2,9 +2,7 @@
 layout: note
 title: Fuzzy vision Fuzzy motivation
 parent: Startups
-grand_parent: Working Notes
 nav_exclude: true
-
 ---
 # Fuzzy vision = Fuzzy motivation
 - With fuzzy vision comes fuzzy motivation. Have you ever wondered why you’re not always motivated or consistent? Part of the reason is you aren’t clear on why you’re doing what you’re doing. If you don’t know where you are going, then I can guarantee you’ll end up somewhere other than where you want to be.

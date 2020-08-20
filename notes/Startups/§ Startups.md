@@ -1,9 +1,9 @@
 ---
 layout: note
 title: Startups
-parent: Working Notes
+nav_order: 99
 has_children: true
-permalink: notes/Startups
+# permalink: notes/Startups
 has_toc: false
 
 ---

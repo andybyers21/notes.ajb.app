@@ -2,7 +2,6 @@
 layout: note
 title: How to Reset SMC On a Non-T2 Based Macbook
 parent: Macbook Help
-grand_parent: Working Notes
 nav_exclude: true
 
 ---

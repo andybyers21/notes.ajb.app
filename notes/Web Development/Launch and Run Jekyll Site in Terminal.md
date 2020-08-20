@@ -2,7 +2,6 @@
 layout: note
 title: Launch and Run Jekyll Site in Terminal
 parent: Web Development
-grand_parent: Working Notes
 nav_exclude: true
 
 ---

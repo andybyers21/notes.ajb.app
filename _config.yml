@@ -45,7 +45,7 @@ aux_links:
 footer_content: "Copyright &copy; 2020, Purple Orange Publishing."
 
 # Color scheme currently only supports "dark" or nil (default)
-color_scheme: nil
+color_scheme: dark
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89

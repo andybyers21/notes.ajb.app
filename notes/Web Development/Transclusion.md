@@ -2,7 +2,6 @@
 layout: note
 title: Transclusion
 parent: Web Development
-grand_parent: Working Notes
 nav_exclude: true
 
 ---
@@ -10,9 +9,13 @@ nav_exclude: true
 Transclusion is the inclusion of a document (or prat of a document) within another document by referance.
 
 For example:
+```shell
 [Links](https://maykind.com)
+```
 -or-
+```shell
 Backlinks [[Web Development]]
+```
 
 https://en.wikipedia.org/wiki/Transclusion
 

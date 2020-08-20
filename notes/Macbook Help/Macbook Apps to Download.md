@@ -2,7 +2,6 @@
 layout: note
 title: Macbook Apps to Download
 parent: Macbook Help
-grand_parent: Working Notes
 nav_exclude: true
 
 ---

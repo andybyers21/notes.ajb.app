@@ -1,9 +1,10 @@
 ---
 layout: note
 title: Macbook Help
-parent: Working Notes
+nav_order: 99
 has_children: true
-permalink: notes/Macbook Help
+# permalink: notes/Macbook Help
+
 has_toc: false
 
 ---

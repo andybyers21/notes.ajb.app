@@ -2,9 +2,7 @@
 layout: note
 title: Startup Essays and Talks
 parent: Startups
-grand_parent: Working Notes
 nav_exclude: true
-
 ---
 # Startup Essays and Talks
 

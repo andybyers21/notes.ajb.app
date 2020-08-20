@@ -2,7 +2,6 @@
 layout: note
 title: Advanced Markdown Concepts
 parent: Web Development
-grand_parent: Working Notes
 nav_exclude: true
 
 ---
@@ -16,3 +15,6 @@ Add `&nbsp;` to quoted line. For example:
 ---
 
 `![[some note]]` will show the note inline in the preview
+
+
+This is a backlink to another folder [[Terminal Reference Guide]]

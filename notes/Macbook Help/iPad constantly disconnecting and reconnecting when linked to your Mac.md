@@ -2,7 +2,6 @@
 layout: note
 title: iPad constantly disconnecting and reconnecting when linked to your Mac
 parent: Macbook Help
-grand_parent: Working Notes
 nav_exclude: true
 
 ---
