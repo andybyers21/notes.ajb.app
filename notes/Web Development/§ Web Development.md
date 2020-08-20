@@ -7,9 +7,9 @@ has_toc: false
 
 ---
 # Title
-- [Advanced Markdown Concepts](../Advanced Markdown Concepts/)
+- [Advanced Markdown Concepts](notes/Web Development/Advanced Markdown Concepts/)
 
 ## Sub-Topic
-- [Transclusion](../Transclusion/)
+- [Transclusion](notes/Web Development/Transclusion/)
 	- Consider also adding transclusion implementation on the web.
 
