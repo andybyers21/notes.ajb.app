@@ -8,25 +8,28 @@ has_toc: false
 ---
 
 # C#
-## Arrays and Lists
-- lists-collections.cs
-
-## DOTNET
-- [ASP.NET](../csharp/asp-dotnet)
-- [.NET](../csharp/dotnet)
+A place to store my notes on C# as I learn the syntax
 
 ## Numbers
-- numbers.cs
+- [Numbers](../csharp/numbers)
+- [Number Types](../csharp/number-types)
+
+## Types
+- [Simple Types](../csharp/simple-types)
+    - [Strings](../csharp/strings)
+- [Access Modifiers](../csharp/access-modifiers)
+
+## Arrays and Lists
+- [Lists](../csharp/lists)
+
+## Branches & Loops
+- [Branches & Loops](../csharp/branches-and-loops)
 
 ## OOP
 - [Methods](../csharp/methods)
 - [Object Oriented Programming](../csharp/object-oriented-programming)
 - [Properties](../csharp/properties)
 
-## Types
-- simple-types.cs
-- [Access Modifiers](../csharp/access-modifiers)
-
-## Random Stuff
-- branches-and-loops.cs
-- strings.cs
+## DOTNET
+- [ASP.NET](../csharp/asp-dotnet)
+- [.NET](../csharp/dotnet)

@@ -1,0 +1,64 @@
+---
+layout: note
+title: Number Types
+parent: C#
+nav_exclude: true
+---
+
+# Number Types
+All types will be stored in multiples of 8 bits (1 byte).
+
+C# intergers have min an max limits:
+```cs
+int max = int.MaxValue;
+int min = int.MinValue;
+Console.WriteLine($"The range of integers is {min} to {max}"); // The range of integers is -2147483648 to 2147483647
+```
+
+If you tried:
+```cs
+int what = max + 3;
+Console.WriteLine($"An example of overflow: {what}");
+```
+You would return: `An example of overflow: -2147483646`. This is an example of "overflow" because the code has overflowed the max value by +3 and looped back to the start of it's number sequence starting at -2147483648
+
+The range of floating point numbers is much larger than whole integers. 
+```cs
+double max = double.MaxValue;
+double min = double.MinValue;
+Console.WriteLine($"The range of double is {min} to {max}"); // The range of double is -1.79769313486232E+308 to 1.79769313486232E+308
+```
+*NOTE: that E+308 is representing a number TO THE POWER OF 308.*
+
+The decimal type has a smaller range than double but greater precision. An M suffix is used to denote decimal types. E.g:
+```cs
+double a = 1.0;
+double b = 3.0;
+Console.WriteLine(a / b); // 0.333333333333333
+
+decimal c = 1.0M;
+decimal d = 3.0M;
+Console.WriteLine(c / d); // 0.3333333333333333333333333333
+```
+
+## Integral types
+Storing whole numbers. (Smallest > largest):
+```cs 
+sbyte mySByte; // -128 to 127, signed 8 bit
+byte myByte; // 0 to 255, unsigned 8 bit
+short myShort; // -32,768 to 32,767, signed 16 bit
+ushort myUShort; // 0 to 65,535, unsigned 16 bit
+int myInt; // -2,147,483,648 to 2,147,483,647 signed 32 bit
+uint myUInt; // 0 to 4,294,967,295 unsigned 32 bit
+long myLong; // -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 signed 64 bit
+ulong myULong; // 0 to 18,446,744,073,709,551,615 unsigned 64 bit
+```
+
+## Floating point numbers
+Decimals will be rounded off to the below:
+```cs
+float myFloat; // Approx 6-9 digits, 32 bit
+double myDouble; // Approx 15-17 digits, 64 bit
+decimal myDecimal; // Approx 28-29 digits, 128 bit
+```
+Floating point types cannot be unsigned (this is due to CPU operation rather than a C# limitation, most languages also have this limitation).

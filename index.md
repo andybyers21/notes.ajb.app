@@ -8,17 +8,11 @@ description: "Hi, I'm Andy Byers. I use this page for stuff"
 # Hi, I'm Andy Byers
 {: .fs-9 }
 
-![Andy Byers](images/AndyByers1.png){: style="float: right"}
-
 *I'm a software developer with a focus on building knowlege management for the web.*
 
-I’m the founder of [Maykind](https://maykind.com). A personal growth engine disguised as a business consultancy where I work with small businesses, helping them achieve results in areas such as strategy, growth, organisational design and productivity. I also work with retail in the non-profit sector for [Stellas Voice](https://stellasvoice.org.uk).
-
-[[What is a Startup]] - testing a wikilink.
+I’m the founder of [Maykind](https://maykind.com). A personal growth engine disguised as a business consultancy where I work with small businesses, helping them achieve results in areas such as strategy, growth, organisational design and productivity.
 
 In the past I’ve worked in the energy sector, retail & leisure sectors and non-profit sector in both multi-national organisations as well as grass-roots family businesses.
-
-***wikilinks only work on `layout: note` YAML tagged pages.***
 
 I use this page to expand on my thoughts on self-education, personal knowledge management (PKM), productivity, entrepreneurship, strategy, marketing, finance, and whichever rabbit holes I find myself in this week. In an effort to connect with curious, creative, and ambitious minds I’ve committed to sharing my findings with the world. If you’re willing to let people access your life, they’ll find what they need to help you succeed.
 
@@ -29,17 +23,12 @@ I try to learn from everything and everyone. It’s what keeps this page, and my
 I don't write a weekly newsletter called the heads-up where I share packets of knowledge. Book notes, what I’m working on, what I’ve learned this week, new skills and ideas. No sales, no gimmicks, no bonuses, Just one e-mail a week.
 
 ## About These Notes
-{: .fs-9 }
+
+**Experimental page, if you want to view the code...**
 
 An eternal work in progress. Evergreen notes loosely based on the Zettleklasten principals. **Checks Spelling**
 
 These are my live evergreen notes and here is some information about them. Note: Some rare notes may have dead links. Where a link is prepended by "TK" or ***TK*** this is a work in progerss and link back to my ideation area which will become live in due time.
-
-*Something about create speculative outlines as you write*
-
-*I will put some links to note examples in wikilink format here.*
-
-*Why is my table of contents in a different order to my menu bar??* *Both should have no `nav_order`*
 
 I've deliberately not used a table of contents in order to facilitate serendipitous connections.
 
@@ -47,8 +36,4 @@ Only breaking up notes into topics, however there is cross references in many no
 
 See the note that has the but about tunnels and curves for more on about these notes.
 
-## C# Study Notes
-
-A place to store my notes on C# as I learn the syntax, saved in .cs format with multiple comments.
-
-- If you happen to stumble across these note please be aware that they are written based on a Mac developer environment.
+- If you happen to stumble across my notes on learning to code please be aware that they are written on a Mac developer environment.
