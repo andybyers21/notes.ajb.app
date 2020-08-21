@@ -16,7 +16,7 @@
 title: notes.AndyByers.net
 email: andy@maykind.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://notes.andybyers.net/static-notes/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://andybyers21.github.io/static-notes/." # the base hostname & protocol for your site, e.g. http://example.com
 description: >- # this means to ignore newlines until "baseurl:"
   # TODO
   Write an awesome description for your new site here. You can edit this
