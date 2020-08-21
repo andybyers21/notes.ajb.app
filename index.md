@@ -46,3 +46,9 @@ I've deliberately not used a table of contents in order to facilitate serendipit
 Only breaking up notes into topics, however there is cross references in many notes taking you into the tunnels of other topics.
 
 See the note that has the but about tunnels and curves for more on about these notes.
+
+## C# Study Notes
+
+A place to store my notes on C# as I learn the syntax, saved in .cs format with multiple comments.
+
+- If you happen to stumble across these note please be aware that they are written based on a Mac developer environment.
