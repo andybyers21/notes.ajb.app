@@ -1,7 +1,7 @@
 ---
 layout: note
 title: Folder Links
-parent: TOC
+parent: Test Folder
 nav_exclude: true
 ---
 # FOlder Loinks

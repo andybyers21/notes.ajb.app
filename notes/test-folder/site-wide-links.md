@@ -1,12 +1,12 @@
 ---
 layout: note
 title: Site Links
-parent: TOC
+parent: Test Folder
 nav_exclude: true
 ---
 # Site Loinks
 
-[[Launch and Run Jekyll Site in Terminal]]
+[[.NET]]
 
 ```shell
 bundle exec jekyll serve --watch
