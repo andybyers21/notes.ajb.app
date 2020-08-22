@@ -18,7 +18,7 @@
 
 title: notes.ajb.app
 email: a@ajb.app
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://affectionate-goldstine-d6699d.netlify.app" # the subpath of your site, e.g. /blog
 url: "https://notes.ajb.app" # the base hostname & protocol for your site, e.g. http://example.com
 description: >- 
   Write an awesome description for your new site here. You can edit this
