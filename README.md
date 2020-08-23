@@ -5,7 +5,7 @@ This is the data for my Evergreen notes vault hosted at [notes.ajb.app](https://
 [![Netlify Status](https://api.netlify.com/api/v1/badges/43f05955-0f84-4186-bbd5-14175f0919fa/deploy-status)](https://app.netlify.com/sites/affectionate-goldstine-d6699d/deploys)
 
 It's built on the excellent [Just the Docs](https://pmarsceill.github.io/just-the-docs/) framework by [
-Patrick Marsceill](https://github.com/pmarsceill).
+Patrick Marsceill](https://github.com/pmarsceill). Search is made possible by [Lunr.js](https://lunrjs.com/).
 
 Notes are written in markdown format and I can easily create links to related thoughts using **[[Wikilinks]]**. 
 
