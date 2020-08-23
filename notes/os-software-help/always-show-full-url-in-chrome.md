@@ -1,7 +1,7 @@
 ---
 layout: note
 title: Always Show Full URLs in Google Chrome
-parent: OS and Program help
+parent: OS and Software Help
 nav_exclude: true
 ---
 

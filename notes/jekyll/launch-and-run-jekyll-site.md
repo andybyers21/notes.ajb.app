@@ -1,19 +1,20 @@
 ---
 layout: note
-title: Site Links
-parent: Test Folder
+title: Launch and Run Jekyll Site Locally
+parent: Jekyll
 nav_exclude: true
 ---
-# Site Loinks
 
-[[.NET]]
+# Launch and Run Jekyll Site Locally
 
 ```shell
 bundle exec jekyll serve --watch
 ``` 
-at the command line to start running your website locally. You’d visit ***localhost:4000*** in a browser to see your local site.
+To start running your website locally. You’d visit *localhost:4000* in a browser to see your local site.
 
-Hit **control-c** at the command line to stop running the website locally.
+Pass the `--watch` flag to auto-rebuild your Jekyll site when a file changes. (pre-installed with Jekyll 2.1 or greater).
+
+Hit *control + C* at the command line to stop running the website locally.
 
 While the site is running, after making changes to website files: save the files and refresh the webpage to see the changes —except for the *_config.yml file*, for which you must stop running the website and restart running the website to see changes.
 
