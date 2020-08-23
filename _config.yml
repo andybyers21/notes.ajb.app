@@ -21,9 +21,7 @@ email: a@ajb.app
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://notes.ajb.app" # the base hostname & protocol for your site, e.g. http://example.com
 description: >- 
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This page is my personal research environment and an experiment in learning, loosely based on the zettelkasten system. The is no good reason to silo your knowledge portfolio anymore.
 # permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 
