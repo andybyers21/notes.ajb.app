@@ -1,0 +1,21 @@
+---
+layout: note
+title: Inflation
+parent: Wealth Creation
+nav_exclude: true
+---
+
+# What is Inflation
+As prices rise, a single unit of currency loses it's value as it buys fewer goods and services. This loss of purchasing power impacts the general cost of living which ultimately leads to a deceleration in economic growth. Inflation is the rate at which the general level of prices for goods and services is rising and, consequently, the purchasing power of currency is falling. The most commonly used inflation indexes are the Consumer Price Index (CPI) and the Wholesale Price Index (WPI).
+
+Standard inflation allows companies to pass the increased costs of their own raw materials on to customers, but high inflation wreaks havoc-forcing customers to slash their purchases, depressing activity throughout the economy.
+
+When your [[Asset Allocation]] allows holding tangible assets, like property or stocked commodities, you may like to see some inflation as that raises the value of your assets.
+
+[[Holding Cash is a Bad Investment]]? Natural inflation erodes the value of cash holdings. [[Diversified Returns]] can help to decrease the risk of that happening.
+
+On a macro level, an optimum level of inflation is required to promote spending to a certain extent instead of saving, thereby nurturing economic growth.
+
+To guard against inflation, a common advice is to invest in [[Stock Markets]], but stocks failed to keep up with inflation about one-fifth of the time.
+
+* To combat inflation, additionally look into REITs, and government bonds.
