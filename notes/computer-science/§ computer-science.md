@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Computer Science
-nav_order: 99
+nav_order: 4
 has_children: true
 has_toc: false
 ---

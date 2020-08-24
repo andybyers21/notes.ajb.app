@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Coding Fundamentals
-nav_order: 99
+nav_order: 3
 has_children: true
 has_toc: false
 ---

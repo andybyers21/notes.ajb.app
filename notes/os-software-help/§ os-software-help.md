@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OS and Software Help
-nav_order: 99
+nav_order: 6
 has_children: true
 has_toc: false
 ---

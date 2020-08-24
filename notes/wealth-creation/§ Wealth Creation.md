@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wealth Creation
-nav_order: 99
+nav_order: 7
 has_children: true
 has_toc: false
 ---
