@@ -16,7 +16,6 @@ A place to store my notes on C# as I learn the syntax
 ## Types
 - [Simple Types](../csharp/simple-types)
     - [Strings](../csharp/strings)
-- [Access Modifiers](../csharp/access-modifiers)
 - [Var Data Type and Anonymous Type](../csharp/var)
 
 ## Arrays and Lists
@@ -26,8 +25,13 @@ A place to store my notes on C# as I learn the syntax
 - [Branches & Loops](../csharp/branches-and-loops)
 
 ## OOP
-- [Organizing Your Code](../csharp/organising-your-code)
-- [Object Oriented Programming](../csharp/object-oriented-programming)
+- [Structuring Your Code](../csharp/structuring-your-code)
+    - [Classes](../csharp/classes)
+    - [Methods](../csharp/methods)
+        - [Access Modifiers](../csharp/access-modifiers)
+    - [Constructors](../csharp/constructors)
+    - [Properties](../csharp/properties)
+- [Object Oriented Programming](../coding-fundamentals/object-oriented-programming)
 
 ## DOTNET
 - [ASP.NET](../csharp/asp-dotnet)
