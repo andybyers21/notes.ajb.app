@@ -17,6 +17,7 @@ A place to store my notes on C# as I learn the syntax
 - [Simple Types](../csharp/simple-types)
     - [Strings](../csharp/strings)
 - [Access Modifiers](../csharp/access-modifiers)
+- [Var Data Type and Anonymous Type](../csharp/var)
 
 ## Arrays and Lists
 - [Lists](../csharp/lists)
