@@ -16,3 +16,4 @@ has_toc: false
 
 ## Practices
 - [Refactoring](../coding-fundamentals/Refactoring)
+- [Object Oriented Programming](../coding-fundamentals/object-oriented-programming)
