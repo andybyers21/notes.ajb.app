@@ -19,10 +19,10 @@ Items highlighted in **Bold** are first priority.
 - Update highlight colors for `strong` and `em` in `./_sass/overrides.scss`
     - Create a note on why these colors are used (ref; [Progressive Summarization](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/#:~:text=Progressive%20Summarization%20focuses%20therefore%20on,little%20as%20the%20information%20deserves.) by Tiago Forte).
 - Look into table formatting.
+- **Footnotes**
 - Add a main menu section for longform essays & link to them from their respective topic folders.
 - **Differentiate internal & external links.**
 - Open external links in new tabs by default (with js) currently not possible due to markdownify parsing internal & external links to html.
-
 ```js
 // Open all links in new tab by default
 window.onload = function () {

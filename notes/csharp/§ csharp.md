@@ -17,6 +17,7 @@ A place to store my notes on C# as I learn the syntax
 - [Simple Types](../csharp/simple-types)
     - [Strings](../csharp/strings)
 - [Var Data Type and Anonymous Type](../csharp/var)
+- [Default Values](../csharp/default-values)
 
 ## Arrays and Lists
 - [Lists](../csharp/lists)

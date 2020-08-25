@@ -6,11 +6,13 @@ nav_exclude: true
 ---
 
 # Methods
-In C# every statement is executed within a method. Methods are blocks of code that carry out a single, pre-defined function. They can be defined inside of [[Classes]], structures and interfaces. e.g.
+**Methods are reusable units of work in a self contained code-block.** In C# every statement is executed within a method. Methods are blocks of code that carry out a single, pre-defined function. They can be defined inside of [[Classes]], structures and interfaces.
 
-- `=>` Arrow functions should not be used for methods
-    - Works well with `.this`
-Methods should end with arguments`()`.
+[[Access Modifiers]] controls access to methods. ^[Defaults to private if not defined.] 
+
+- `=>` Arrow functions should not be used for methods.
+- Methods should end with arguments`()`.
+- Methods should be named in PaschalCase. 
 
 [[Object Oriented Programming]]
 

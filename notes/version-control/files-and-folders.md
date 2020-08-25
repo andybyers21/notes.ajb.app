@@ -1,0 +1,19 @@
+---
+layout: note
+title: Dealing With Files and Folders
+parent: Version Control
+nav_exclude: true
+---
+
+# Dealing With Files and Folders
+**When you are working on a website locally you should keep all the related files in a single folder that mirrors the published website's file structure on the server.** This folder can live anywhere you like, but you should put it somewhere where you can easily find it, maybe on your Desktop, in your Home folder, or at the root of your hard drive. Create a folder called web-projects or something similar. This is where all your website projects will live.
+
+**Folders and files should be completely in lowercase with no spaces.** Many computers, particularly web servers, are case-sensitive. Browsers, web servers and programming languages do not handle spaces consistently^[For example, if you use spaces in your filename, some systems may treat the filename as two filenames. Some servers will replace the areas in your filenames with "%20" (the character code for spaces in URL's), resulting in all your links being broken.]. **It's better to separate words with dashes, rather than underscores:** my-file.html vs. my_file.html. Google treats a hyphen as a word separator but does not regard an underscore that way. It is best to get into the habit of writing your folder and file names lowercase with no spaces and with words separated by dashes, at least until you know what you're doing. That way you'll bump into fewer problems later down the road.
+
+A basic website folder should be structured as follows. The most common things we'll have on any website project we create are an index HTML file and folders to contain images, style files, and script files:
+	- **index.html:** This file will generally contain your homepage content, that is, the text and images that people see when they first go to your site. 
+	- **images folder:** *Or assets folder*, which should contain all the images and other media that you use on your site. 
+	- **styles folder:** This folder will contain the CSS code used to style your content (for example, setting text and background colors). 
+	- **scripts folder:** This folder will contain all the JavaScript code used to add interactive functionality to your site (e.g. buttons that load data when clicked). 
+	
+
