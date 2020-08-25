@@ -26,9 +26,8 @@ A place to store my notes on C# as I learn the syntax
 - [Branches & Loops](../csharp/branches-and-loops)
 
 ## OOP
-- [Methods](../csharp/methods)
+- [Organizing Your Code](../csharp/organising-your-code)
 - [Object Oriented Programming](../csharp/object-oriented-programming)
-- [Properties](../csharp/properties)
 
 ## DOTNET
 - [ASP.NET](../csharp/asp-dotnet)
