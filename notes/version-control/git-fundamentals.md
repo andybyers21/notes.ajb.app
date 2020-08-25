@@ -6,7 +6,7 @@ nav_exclude: true
 ---
 
 # Git Fundamentals
-ref:- [[Git Command Line References]]
+ref:- [[Git Command Line Reference]]
 
 Git is different from many other version control systems (VCS) in the way it handles data. Most other systems (CVS, Subversion, Perforce, Bazaar, and so on) work by saving a copy of your data, then saving a document of the changes made to your files at any given time. This is commonly described as delta-based version control.
 
