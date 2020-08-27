@@ -18,6 +18,7 @@ Console.WriteLine(hello);
 string myDog = "Dave";
 Console.WriteLine($"Hello {myDog}"); // "Hello Dave"
 ```
+As long as the expression inside of the `{ }` produces a value it will work, for example `{ 2 + 2 }`. However it is much more common to use a variable making it much easier to manipulate should you need to in the future.
 
 **String [[Methods]]:**
 ```cs
@@ -57,4 +58,4 @@ Console.WriteLine(aBlockOfText.EndsWith("Corleone")); // true
 
 Console.WriteLine(aBlockOfText.StartsWith("friendship")); // false
 ```
-*NOTE: that most sentances will probbaly end with a period "."*
+*NOTE that when searching strings that full sentences will probably end with a period "."*
