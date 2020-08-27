@@ -20,4 +20,6 @@ One important notion, there will be very few straight lines within this platform
 
 If you want to view the code you can do so [here.](https://github.com/andybyers21/notes.ajb.app) You can see my TO-DO list for the site [here](./notes/site-info/site-todos). If you want to get in touch with me or have any comments, you can do so by emailing me at <a href="mailto:a@ajb.app">a@ajb.app</a>
 
-*P.S. If you happen to stumble across my notes on learning to code please be aware that they are written on an Apple developer environment.*
+*P.S. As these are my personal notes some of them may not make any sense to you or be part complete. My intent for is to use them for developing ideas over time.*
+
+*If you happen to stumble across my notes on learning to code please be aware that they are written on an Apple developer environment.*
