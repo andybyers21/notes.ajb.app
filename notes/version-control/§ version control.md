@@ -20,5 +20,6 @@ has_toc: false
 - [Using Git Collaboratively](../version-control/using-git-collaboratively)
 - [GitHub Cheatsheet](../version-control/gitHub-cheatsheet)
 
-- [Git add-commit Shortcut](../version-control/git-add-commit-shortcut)
+## Mods
+- **[Git add-commit Shortcut](../version-control/git-add-commit-shortcut)**
 	

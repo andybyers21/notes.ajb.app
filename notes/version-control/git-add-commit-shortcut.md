@@ -13,11 +13,10 @@ $ git add .
 $ git commit -m "an awful lot of typing"
 ```
 
-Run the following command:
+Run the following command to use aliases:
 ```shell
 $ git config --global alias.ac '!git add . && git commit -m'
 ```
-to use aliases.
 
 Then you can type:
 ```shell
