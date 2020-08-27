@@ -8,6 +8,7 @@ nav_exclude: true
 # Branches & Loops
 
 ## If...Else Statements
+*(One time evaluation statements)*
 If...else statements are commonly written as follows:
 ```cs
 int a = 5;
@@ -24,7 +25,7 @@ else
   Console.WriteLine("Or the first number is not equal to the second");
 }
 ```
-
+*Recursive Bugs* - Returning to the method in an if else statement is a bad idea, the code will create a copy of the method in the stack causeing a stack overflow.
 Brackets are not required when there is only one condition:
 ```cs
 if (index != -1)
@@ -50,6 +51,16 @@ do
   Console.WriteLine($"Hello World! The counter is {counter}");
   counter++;
 } while (counter < 10);
+```
+
+Note;
+```cs
+int counter = 0;
+while (counter < 10)
+```
+Can be written as;
+```cs
+while (counter++ < 10)
 ```
 
 ## For loops
