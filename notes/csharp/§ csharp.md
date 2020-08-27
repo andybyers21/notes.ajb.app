@@ -17,7 +17,7 @@ A place to store my notes on C# as I learn the syntax
 - [Var Data Type and Anonymous Type](../csharp/var)
 - [Default Values](../csharp/default-values)
 
-# Manipulating Data
+## Manipulating Data
 - [Literals](../csharp/literals)
 - [Parsing](../csharp/parsing)
 

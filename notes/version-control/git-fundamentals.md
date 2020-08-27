@@ -8,6 +8,8 @@ nav_exclude: true
 # Git Fundamentals
 ref:- [[Git Command Line Reference]]
 
+ref:- [[Git Glossary]]
+
 Git is different from many other version control systems (VCS) in the way it handles data. Most other systems (CVS, Subversion, Perforce, Bazaar, and so on) work by saving a copy of your data, then saving a document of the changes made to your files at any given time. This is commonly described as delta-based version control.
 
 Git, on the other hand stores your data as a series of snapshots of the filesystem. Essentially, every time you **commit**, Git takes a picture of what your data looks like in comparison to the previous images. To be efficient, if any of the files haven't changed it won't bother taking a picture of that document again and will provide a link to the previous file that is already in storage. This makes Git more like a mini filesystem (with some powerful tools built on top) rather than "just" a VCS. 

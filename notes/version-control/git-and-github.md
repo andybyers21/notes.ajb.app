@@ -13,3 +13,5 @@ Git is free and open source software. GitHub is a for profit website. In additio
 	- Bug tracking 
 	- Task management 
 	- Project wikis
+
+[[Git Glossary]]

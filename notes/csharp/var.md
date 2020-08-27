@@ -27,6 +27,14 @@ decimal yetMore = 3.0M;
 ```
 
 ## When to use Var?
+- `var` is only applicable under local scope where declaration and initiation are in the same place.
+
+- Since compiler has to know data type immediate based upon data to be assigned. If the variable is not immediately assigned then compiler will throw an error.
+
+- `var` cannot be used at class or global level.
+
+- `var` cannot be used in initialization expression
+
 Use implicit typing for local variables when the type of the variable is obvious from the right side of the assignment, or when the precise type is not important. Use of var is encouraged if it aids readability by avoiding type names that are noisy, obvious, or unimportant:
 
 When the type is obvious:

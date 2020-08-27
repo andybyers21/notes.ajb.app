@@ -12,10 +12,13 @@ has_toc: false
 - [Git Workflows](../version-control/git-workflows)
 - [Local Storage](../version-control/local-storage)
 	- [Dealing With Files and Folders](../version-control/files-and-folders)
+- [Git Command Line References](../version-control/git-command-line-referance)
+- [Git Glossary](../version-control/git-glossary)
+
+## Using Git Collaboratively
 - [Git and GitHub](../version-control/git-and-github)
 - [Using Git Collaboratively](../version-control/using-git-collaboratively)
-- [Git Command Line References](../version-control/git-command-line-referance)
+- [GitHub Cheatsheet](../version-control/gitHub-cheatsheet)
 
-
-
+- [Git add-commit Shortcut](../version-control/git-add-commit-shortcut)
 	
