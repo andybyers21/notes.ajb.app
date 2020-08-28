@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Clients and Servers
+title: Clients & Servers
 parent: Web Infrastructure
 nav_exclude: true
 ---
