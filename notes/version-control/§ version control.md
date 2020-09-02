@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Version Control
-nav_order: 6
+nav_order: 10
 has_children: true
 has_toc: false
 ---
