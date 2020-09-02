@@ -297,3 +297,5 @@ jtd.onReady(function(){
 })(window.jtd = window.jtd || {});
 
 {% include js/custom.js %}
+
+// Open external links in new tab
