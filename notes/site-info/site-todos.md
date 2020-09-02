@@ -10,7 +10,7 @@ has_toc: false
 
 Items highlighted in **Bold** are first priority.
 
-- Add backlinks to notes pages.
+- Add [backlinks](https://github.com/andymatuschak/note-link-janitor) to notes pages.
 - **Bugs in auto sort menu alphabetically**
 - Add a TOC to longer notes and essays.
 - Review `README.md` and `index.md`.
