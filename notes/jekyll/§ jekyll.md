@@ -11,4 +11,5 @@ has_toc: false
 - [Official Jekyll Documentation](https://jekyllrb.com/docs/)
     - [GitHub repo's here](https://github.com/jekyll)
 - [Launch and Run Jekyll Site Locally](../jekyll/launch-and-run-jekyll-site)
-- [Common Jekyll Commands](../jekyll/common-jekyll-commands)
+- [Jekyll Updates](../jekyll/update-jekyll)
+- [Other Common Jekyll Commands](../jekyll/common-jekyll-commands)
