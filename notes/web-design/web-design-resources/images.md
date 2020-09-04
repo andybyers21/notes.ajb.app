@@ -5,9 +5,14 @@ parent: Web Design
 nav_exclude: true
 ---
 
-# Design Resources
-## images
+# Web Design Resources
+## Images
 
-
-
-[Freepik](https://freepik.com)
+|Link | Comments
+|-----------------|---------------------
+| [Unsplash](https://unsplash.com/) |
+| [Free Images](https://freeimages.com/) |
+| [Pixabay](https://pixabay.com/) |
+| [Pexels](https://pexels.com/) |
+| [Photos.icons8](https://photos.icons8.com/) | Stock photos & photo creator/ editing tool.
+| [Freepik](https://freepik.com) |

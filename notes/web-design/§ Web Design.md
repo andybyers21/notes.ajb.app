@@ -13,14 +13,12 @@ has_toc: false
 ## Web Design Resources
 ### Where to find free, good quality illustrations/images or icons for your websites?
 
-[GitHub Repo](https://github.com/andybyers21/Illustrations-Images-and-Icons-for-the-Web/blob/master/README.md)
-
 - [Illustrations](../web-design/web-design-resources/illustrations)
-- [Backgrounds & Banner Templates]()
-- [Animations]()
-- [Images]()
-- [Icons]()
-- [Video & Music]()
-- [CSS Effects]()
-- [Color Pallets]()
-- [Curated Lists]()
+- [Backgrounds & Banner Templates](../web-design/web-design-resources/backgrounds)
+- [Animations](../web-design/web-design-resources/animations)
+- [Images](../web-design/web-design-resources/images)
+- [Icons](../web-design/web-design-resources/icons)
+- [Video & Music](../web-design/web-design-resources/video-and-music)
+- [CSS Effects](../web-design/web-design-resources/css-effects)
+- [Color Pallets](../web-design/web-design-resources/color-pallets)
+- [Curated Lists](../web-design/web-design-resources/curated-lists)
