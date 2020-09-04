@@ -6,7 +6,7 @@ nav_order: 1
 
 # Hi, I'm Andy Byers
 
-I'm a software developer from the UK with goals around building knowledge management for the web.
+I'm a software developer from the UK with goals around building knowledge management for the web. You can view my portfolio at [ajb.app](https://ajb.app)
 
 ## About These Notes
 
