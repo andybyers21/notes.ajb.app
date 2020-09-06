@@ -7,6 +7,7 @@ nav_exclude: true
 
 # Jekyll Updates
 **Stay Up to Date**
+
 *Update Jekyll as often as possible to benefit from the latest bug fixes.*
 
 If you installed Bundler, run `bundle update jekyll` or simply `bundle update` and all your gems will update to the latest versions.
