@@ -8,4 +8,4 @@ has_toc: false
 
 # Python
 
-- [String Interpolation](../string-interpolation)
+- [String Interpolation](../python/string-interpolation)

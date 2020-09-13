@@ -18,12 +18,27 @@
 
 title: notes.ajb.app
 email: a@ajb.app
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://notes.ajb.app" # the base hostname & protocol for your site, e.g. http://example.com
-description: >- 
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: 'https://notes.ajb.app' # the base hostname & protocol for your site, e.g. http://example.com
+description: >-
   This page is my personal research environment and an experiment in learning, loosely based on the zettelkasten system. The is no good reason to silo your knowledge portfolio anymore.
 # permalink: pretty
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+exclude:
+  [
+    'node_modules/',
+    '*.gemspec',
+    '*.gem',
+    'Gemfile',
+    'Gemfile.lock',
+    'package.json',
+    'package-lock.json',
+    'script/',
+    'LICENSE.txt',
+    'lib/',
+    'bin/',
+    'README.md',
+    'Rakefile',
+  ]
 
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/assets/images/circle-cropped.ico"
@@ -39,11 +54,11 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Join me on Twitter":
-    - "https://twitter.com/AndyByers21"
+  'Join me on Twitter':
+    - 'https://twitter.com/AndyByers21'
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "0.2.2"
+footer_content: '0.2.3'
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: dark
