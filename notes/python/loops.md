@@ -6,3 +6,8 @@ nav_exclude: true
 ---
 
 # Loops
+
+`else`
+`in`
+`for`
+`while`
