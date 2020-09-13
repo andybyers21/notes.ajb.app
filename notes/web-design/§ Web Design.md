@@ -1,16 +1,18 @@
 ---
 layout: default
 title: Web Design
-nav_order: 15
+nav_order: 16
 has_children: true
 has_toc: false
 ---
 
 # Web Design
+
 - [The differences between development and design](../web-design/design-v-developer)
 - [In design, you create affordances](../web-design/affordances)
 
 ## Web Design Resources
+
 ### Where to find free, good quality illustrations/images or icons for your websites?
 
 - [Illustrations](../web-design/web-design-resources/illustrations)
