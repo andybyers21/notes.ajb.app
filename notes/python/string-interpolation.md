@@ -1,3 +1,9 @@
+---
+layout: note
+title: String Interpolation
+parent: Python
+nav_exclude: true
+---
 
 # String Interpolation
 
@@ -10,8 +16,9 @@
 - `%x`/`%X` Integers in hex representation (lowercase/uppercase)
 
 followed by:
+
 - `% variable_name` to be interpolated.
-*Use brackets if using multiple variables*
+  _Use brackets if using multiple variables_
 
 ```py
 name = "Andy"
@@ -23,6 +30,7 @@ string = "Hello my name is %s %s, I am %s years old" % (name, surname,  age)
 ```
 
 ## f-String
+
 ```py
 name = "Andy"
 surname = "Byers"
