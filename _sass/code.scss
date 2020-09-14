@@ -30,212 +30,173 @@ figure.highlight {
   border-radius: $border-radius;
 }
 
-.highlight .c {
-  color: #586e75;
-} // comment //
-.highlight .err {
-  color: #93a1a1;
-} // error //
-.highlight .g {
-  color: #93a1a1;
-} // generic //
-.highlight .k {
-  color: #859900;
-} // keyword //
-.highlight .l {
-  color: #93a1a1;
-} // literal //
-.highlight .n {
-  color: #93a1a1;
-} // name //
-.highlight .o {
-  color: #859900;
-} // operator //
-.highlight .x {
-  color: #cb4b16;
-} // other //
-.highlight .p {
-  color: #93a1a1;
-} // punctuation //
-.highlight .cm {
-  color: #586e75;
-} // comment.multiline //
-.highlight .cp {
-  color: #859900;
-} // comment.preproc //
-.highlight .c1 {
-  color: #586e75;
-} // comment.single //
-.highlight .cs {
-  color: #859900;
-} // comment.special //
-.highlight .gd {
-  color: #2aa198;
-} // generic.deleted //
-.highlight .ge {
-  font-style: italic;
-  color: #93a1a1;
-} // generic.emph //
-.highlight .gr {
-  color: #dc322f;
-} // generic.error //
-.highlight .gh {
-  color: #cb4b16;
-} // generic.heading //
-.highlight .gi {
-  color: #859900;
-} // generic.inserted //
-.highlight .go {
-  color: #93a1a1;
-} // generic.output //
-.highlight .gp {
-  color: #93a1a1;
-} // generic.prompt //
-.highlight .gs {
-  font-weight: bold;
-  color: #93a1a1;
-} // generic.strong //
-.highlight .gu {
-  color: #cb4b16;
-} // generic.subheading //
-.highlight .gt {
-  color: #93a1a1;
-} // generic.traceback //
-.highlight .kc {
-  color: #cb4b16;
-} // keyword.constant //
-.highlight .kd {
-  color: #268bd2;
-} // keyword.declaration //
-.highlight .kn {
-  color: #859900;
-} // keyword.namespace //
-.highlight .kp {
-  color: #859900;
-} // keyword.pseudo //
-.highlight .kr {
-  color: #268bd2;
-} // keyword.reserved //
-.highlight .kt {
-  color: #dc322f;
-} // keyword.type //
-.highlight .ld {
-  color: #93a1a1;
-} // literal.date //
-.highlight .m {
-  color: #2aa198;
-} // literal.number //
-.highlight .s {
-  color: #2aa198;
-} // literal.string //
-.highlight .na {
-  color: #555;
-} // name.attribute //
-.highlight .nb {
-  color: #b58900;
-} // name.builtin //
-.highlight .nc {
-  color: #268bd2;
-} // name.class //
-.highlight .no {
-  color: #cb4b16;
-} // name.constant //
-.highlight .nd {
-  color: #268bd2;
-} // name.decorator //
-.highlight .ni {
-  color: #cb4b16;
-} // name.entity //
-.highlight .ne {
-  color: #cb4b16;
-} // name.exception //
-.highlight .nf {
-  color: #268bd2;
-} // name.function //
-.highlight .nl {
-  color: #555;
-} // name.label //
-.highlight .nn {
-  color: #93a1a1;
-} // name.namespace //
-.highlight .nx {
-  color: #555;
-} // name.other //
-.highlight .py {
-  color: #93a1a1;
-} // name.property //
-.highlight .nt {
-  color: #268bd2;
-} // name.tag //
-.highlight .nv {
-  color: #268bd2;
-} // name.variable //
-.highlight .ow {
-  color: #859900;
-} // operator.word //
-.highlight .w {
-  color: #93a1a1;
-} // text.whitespace //
-.highlight .mf {
-  color: #2aa198;
-} // literal.number.float //
-.highlight .mh {
-  color: #2aa198;
-} // literal.number.hex //
-.highlight .mi {
-  color: #2aa198;
-} // literal.number.integer //
-.highlight .mo {
-  color: #2aa198;
-} // literal.number.oct //
-.highlight .sb {
-  color: #586e75;
-} // literal.string.backtick //
-.highlight .sc {
-  color: #2aa198;
-} // literal.string.char //
-.highlight .sd {
-  color: #93a1a1;
-} // literal.string.doc //
-.highlight .s2 {
-  color: #2aa198;
-} // literal.string.double //
-.highlight .se {
-  color: #cb4b16;
-} // literal.string.escape //
-.highlight .sh {
-  color: #93a1a1;
-} // literal.string.heredoc //
-.highlight .si {
-  color: #2aa198;
-} // literal.string.interpol //
-.highlight .sx {
-  color: #2aa198;
-} // literal.string.other //
-.highlight .sr {
-  color: #dc322f;
-} // literal.string.regex //
-.highlight .s1 {
-  color: #2aa198;
-} // literal.string.single //
-.highlight .ss {
-  color: #2aa198;
-} // literal.string.symbol //
-.highlight .bp {
-  color: #268bd2;
-} // name.builtin.pseudo //
-.highlight .vc {
-  color: #268bd2;
-} // name.variable.class //
-.highlight .vg {
-  color: #268bd2;
-} // name.variable.global //
-.highlight .vi {
-  color: #268bd2;
-} // name.variable.instance //
-.highlight .il {
-  color: #2aa198;
-} // literal.number.integer.long //
+/* Dracula Theme v1.2.5
+ *
+ * https://github.com/zenorocha/dracula-theme
+ *
+ * Copyright 2016, All rights reserved
+ *
+ * Code licensed under the MIT license
+ * http://zenorocha.mit-license.org
+ *
+ * @author Rob G <wowmotty@gmail.com>
+ * @author Chris Bracco <chris@cbracco.me>
+ * @author Zeno Rocha <hi@zenorocha.com>
+ * @author Piruin Panichphol <piruin.p@gmail.com>
+ */
+
+/*
+ * Variables
+ */
+
+$dt-gray-dark: #282a36; // Background
+$dt-gray: #44475a; // Current Line & Selection
+$dt-gray-light: #f8f8f2; // Foreground
+$dt-blue: #6272a4; // Comment
+$dt-cyan: #8be9fd;
+$dt-green: #50fa7b;
+$dt-orange: #ffb86c;
+$dt-pink: #ff79c6;
+$dt-purple: #bd93f9;
+$dt-red: #ff5555;
+$dt-yellow: #f1fa8c;
+
+/*
+ * Styles
+ */
+
+.highlight {
+  background: $dt-gray-dark;
+  color: $dt-gray-light;
+
+  .hll,
+  .s,
+  .sa,
+  .sb,
+  .sc,
+  .dl,
+  .sd,
+  .s2,
+  .se,
+  .sh,
+  .si,
+  .sx,
+  .sr,
+  .s1,
+  .ss {
+    color: $dt-yellow;
+  }
+
+  .go {
+    color: $dt-gray;
+  }
+
+  .err,
+  .g,
+  .l,
+  .n,
+  .x,
+  .p,
+  .ge,
+  .gr,
+  .gh,
+  .gi,
+  .gp,
+  .gs,
+  .gu,
+  .gt,
+  .ld,
+  .no,
+  .nd,
+  .ni,
+  .ne,
+  .nn,
+  .nx,
+  .py,
+  .w,
+  .bp {
+    color: $dt-gray-light;
+  }
+
+  .gh,
+  .gi,
+  .gu {
+    font-weight: bold;
+  }
+
+  .ge {
+    text-decoration: underline;
+  }
+
+  .bp {
+    font-style: italic;
+  }
+
+  .c,
+  .ch,
+  .cm,
+  .cpf,
+  .c1,
+  .cs {
+    color: $dt-blue;
+  }
+
+  .kd,
+  .kt,
+  .nb,
+  .nl,
+  .nv,
+  .vc,
+  .vg,
+  .vi,
+  .vm {
+    color: $dt-cyan;
+  }
+
+  .kd,
+  .nb,
+  .nl,
+  .nv,
+  .vc,
+  .vg,
+  .vi,
+  .vm {
+    font-style: italic;
+  }
+
+  .na,
+  .nc,
+  .nf,
+  .fm {
+    color: $dt-green;
+  }
+
+  .k,
+  .o,
+  .cp,
+  .kc,
+  .kn,
+  .kp,
+  .kr,
+  .nt,
+  .ow {
+    color: $dt-pink;
+  }
+
+  .m,
+  .mb,
+  .mf,
+  .mh,
+  .mi,
+  .mo,
+  .il {
+    color: $dt-purple;
+  }
+
+  .gd {
+    color: $dt-red;
+  }
+}
 
 //
 // Code examples (rendered)

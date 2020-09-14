@@ -11,7 +11,7 @@ When you create a function, the variables and various other items defined within
 
 For example, say you have an HTML file that is calling in two external JavaScript files, and both of them have a variable and a function defined that use the same name:
 
-```js
+```html
 <!-- Excerpt from my HTML -->
 <script src="first.js"></script>
 <script src="second.js"></script>
