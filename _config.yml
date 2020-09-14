@@ -58,7 +58,7 @@ aux_links:
     - 'https://twitter.com/AndyByers21'
 
 # Footer content appears at the bottom of every page's main content
-footer_content: '0.2.3'
+footer_content: '0.2.4'
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: dark
