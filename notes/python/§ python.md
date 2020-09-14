@@ -10,7 +10,7 @@ has_toc: false
 
 - [An Overview of the Python Language](../python/python-overview)
 - [PEP 8, The Python Style Guide](../python/pep-8)
-  - [Naming Conventions](../python/naming-conventions)
+  - [Python Naming Conventions](../python/naming-conventions)
 
 ## Python Basics
 

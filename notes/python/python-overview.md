@@ -7,4 +7,12 @@ nav_exclude: true
 
 # An Overview of the Python Language
 
-Python can be functional or OOP or procedural, read into this a bit and make a new note on the python programming language
+Python is a _high-level_, _interpreted_, _interactive_ and _object-oriented_ scripting language, designed to be highly readable. It uses English keywords frequently as oppose to other languages which use punctuation. It has fewer syntactical constructions than other languages.
+
+Python has a broad standard library which is very portable and cross-platform compatible on UNIX, Windows, and Mac. You can add low-level modules to the Python interpreter and interface to all major commercial databases. Python supports GUI applications, libraries and windows systems
+
+- **It supports functional and structured programming methods as well as OOP.**
+- It can be used as a scripting language or can be compiled to byte-code for building large applications.
+- It provides very high-level dynamic data types and supports dynamic type checking.
+- It supports automatic garbage collection.
+- It can be **easily integrated with C, C++, COM, ActiveX, CORBA, and Java.**
