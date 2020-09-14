@@ -1,0 +1,41 @@
+---
+layout: note
+title: JavaScript Functions
+parent: JavaScript
+nav_exclude: true
+---
+
+# Functions Summary
+
+- [JavaScript Functions](../javascript/JavaScript Functions)
+  - [Anonymous Functions](../javascript/Anonymous Functions)
+  - [Function Parameters](../javascript/Function Parameters)
+  - [Function Scope and Conflicts](../javascript/Function Scope and Conflicts)
+  - [Function Return Values](../javascript/Function Return Values)
+  - [Default Values in Functions](../javascript/Default Values in Functions)
+- [Functions Summary](../javascript/Functions Summary)
+- [Function Expressions](../javascript/Function Expressions)
+  - [[Callback Functions]]
+
+Functions are the main building blocks of scripts. A function declaration looks like this:
+
+```javascript
+function name(parameters, delimited, by, comma) {
+  /* code */
+}
+```
+
+- **Values passed to a function as parameters are copied to its local variables.**
+- A function may access outer variables. But it works only from inside out. The code outside of the function doesn’t see its local variables.
+- **A function can return a value. If it doesn’t, then its result is undefined.** see [[Default Values in Functions]]
+- **To make the code clean and easy to understand, it’s recommended to use mainly local variables and parameters in the function, not outer variables.**
+
+It is always easier to understand a function which gets parameters, works with them and returns a result than a function which gets no parameters, but modifies outer variables as a side-effect.
+
+## Function Naming:
+
+[[Naming a Function]]
+
+- A name should clearly describe what the function does. When we see a function call in the code, a good name instantly gives us an understanding what it does and returns.
+- A function is an action, so function names are usually verbal.
+- There exist many well-known function prefixes like create…, show…, get…, check… and so on. Use them to hint what a function does.

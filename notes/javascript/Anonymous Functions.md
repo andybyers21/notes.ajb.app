@@ -1,0 +1,65 @@
+---
+layout: note
+title: Anonymous Functions
+parent: JavaScript
+nav_exclude: true
+---
+
+# Anonymous Functions
+
+Sometimes you will see a function that has no name. This is called an anonymous function, It won't do anything on it's own but will often be used with an event handler:
+
+```javascript
+function() {
+  alert('hello');
+}
+```
+
+For example the following would run the code inside the function whenever the associated button is clicked:
+
+```javascript
+const myButton = document.querySelector('button');
+
+myButton.onclick = function () {
+  alert('hello');
+};
+```
+
+The above example would require there to be a `<button>` element available on the page to select and click.
+
+You can also **assign an anonymous function to be the value of a variable**, for example:
+
+```javascript
+const myGreeting = function () {
+  alert('hello');
+};
+```
+
+This function could now be invoked using:
+
+```javascript
+myGreeting();
+```
+
+This effectively gives the function a name; you can also assign the function to be the value of multiple variables, for example:
+
+```javascript
+let anotherGreeting = myGreeting;
+```
+
+This function could now be invoked using either of:
+
+```javascript
+myGreeting();
+anotherGreeting();
+```
+
+But this would just be confusing, so don't do it! When creating functions. You will mainly use anonymous functions to just run a load of code in response to an event firing — like a button being clicked — using an event handler. Again, this looks something like this:
+
+```javascript
+myButton.onclick = function () {
+  alert('hello');
+  // I can put as much code
+  // inside here as I want
+};
+```
