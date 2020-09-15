@@ -24,7 +24,7 @@
       margin-top: 0.3em;
       margin-left: -0.8em;
       color: rgba($body-text-color, 0.3);
-      content: "- ";
+      content: '- ';
     }
 
     &.active {
@@ -58,6 +58,7 @@
   display: block;
   padding-top: $sp-1;
   padding-bottom: $sp-1;
+  font-size: 85%;
 
   &.active {
     font-weight: 600;
@@ -109,12 +110,12 @@
     margin-right: $sp-2;
     margin-left: $sp-2;
     color: $grey-dk-000;
-    content: "/";
+    content: '/';
   }
 
   &:last-child {
     &::after {
-      content: "";
+      content: '';
     }
   }
 }
