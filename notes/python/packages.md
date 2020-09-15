@@ -6,3 +6,24 @@ nav_exclude: true
 ---
 
 # Packages
+
+**Packages are namespaces that contain multiple packages and modules.** It's a directory with a twist. Each package is a directory and as such must contain `__init__.py` to indicate that the directory contains a python package. (This can be blank). For example:
+
+- directory foo, package name
+- module bar, within foo
+
+to use `bar`
+
+```py
+import foo.bar
+```
+
+This way we must use the prefix `foo` each time we wish to access the module (`bar`)
+
+_- or -_
+
+```py
+import foo from bar
+```
+
+This way we've imported the module first so don't need to specify the prefix every time we call it.

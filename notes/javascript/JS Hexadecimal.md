@@ -1,0 +1,21 @@
+---
+layout: note
+title: JS Hexadecimal
+parent: JavaScript
+nav_exclude: true
+---
+
+# JS Hexadecimal
+
+By default, JavaScript displays numbers as base 10 decimals. But you can use the `toString()` method to output numbers from base 2 to base 36.
+
+- Hexadecimal is base 16. Decimal is base 10. Octal is base 8. Binary is base 2.
+
+```js
+let lotsOfDecimal = 1.766584958675746364;
+lotsOfDecimal;
+let twoDecimalPlaces = lotsOfDecimal.toFixed(2);
+twoDecimalPlaces;
+```
+
+**Do not create Number objects. It slows down execution speed. The new keyword complicates the code. This can produce some unexpected results**

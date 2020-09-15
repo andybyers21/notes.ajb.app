@@ -6,3 +6,58 @@ nav_exclude: true
 ---
 
 # Tuples and Lists
+
+```py
+list = []
+tuple = ()
+```
+
+You can use the `type()` object to see what it is your working with.
+
+```py
+print(type(list_or_tuple))
+```
+
+The key difference being:
+
+- **Lists are mutable**
+
+- **Tuples are immutable**
+
+You can modify a list once declared but not a tuple.
+
+- **Since lists are mutable they cannot be used in [[Dictionaries]].**
+
+- **Since Tuples are mutable they cannot be copied.**
+
+If you try to copy a tuple it will simply return itself. If you run `tuple(tuple_name)`, it will immediately return itself:
+
+```py
+names = (‘Nicholas’, ‘Michelle’, ‘Alex’)
+copyNames = tuple(names)
+print(names is copyNames)
+```
+
+Outputs:
+
+```py
+True
+```
+
+The two are the same.
+
+In contrast, `list(list_name)` requires copying of all data to a new list, for example:
+
+```py
+names = [‘Nicholas’, ‘Michelle’, ‘Alex’]
+copyNames = list(names)
+print(names is copyNames)
+```
+
+Outputs
+
+```py
+False
+```
+
+Memory is allocated to tuples in larger blocks with a low overhead, because they are immutable. Tuples will use less memory than a dynamic list. **A list has a variable size, a tuple is allocated a fixed size.**

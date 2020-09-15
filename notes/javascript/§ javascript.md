@@ -35,8 +35,8 @@ message = 123456;
 
 ### Numbers and Arithmetic
 
-- [JS Hexadecimal]
-- [Numbers and Arithmetic in JavaScript]
+- [JS Hexadecimal](../javascript/JS Hexadecimal)
+- [Numbers and Arithmetic in JavaScript](../javascript/Numbers and Arithmetic in JavaScript)
   - [Adding Numbers and Strings]
   - [Arithmetic in JavaScript]
 - [JavaScript Precision]
