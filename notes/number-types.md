@@ -1,7 +1,7 @@
 ---
 layout: note
 title: Number Types
-parent: C#
+parent: C-Sharp
 grand_parent: Home
 ---
 
@@ -9,7 +9,7 @@ grand_parent: Home
 
 All types will be stored in multiples of 8 bits (1 byte).
 
-C# intergers have min an max limits:
+C-Sharp intergers have min an max limits:
 
 ```cs
 int max = int.MaxValue;
@@ -73,18 +73,20 @@ double myDouble; // Approx 15-17 digits, 64 bit
 decimal myDecimal; // Approx 28-29 digits, 128 bit
 ```
 
-Floating point types cannot be unsigned (this is due to CPU operation rather than a C# limitation, most languages also have this limitation).
+Floating point types cannot be unsigned (this is due to CPU operation rather than a C-Sharp limitation, most languages also have this limitation).
 
 (Ref: [[Numbers]]).
 
 ---
 
 ## Backlinks
+* [[Numbers]]
+	* (Ref: [[Number Types]])
+* [[Simple Types]]
+	* In addition to [[Number Types]] there are three more basic types:
+	* Many other types exist in C-Sharp. However those are all made up of the above simple types in combination with [[Number Types]]
+* [[Var Data Type and Anonymous Type]]
+	* When using var you need to give the compiler enough information in the assigned value to determine the correct type to be assigned. [[Number Types]] should be given the correct literal suffix so that the compiler can understand.
+* [[C-Sharp]]
+	* [[Number Types]]
 
-- [[Numbers]]
-  - ### [[Number Types]]
-- [[Simple Types]]
-  - In addition to [[Number Types]] there are three more basic types:
-  - Many other types exsist in C#. However those are all made up of the above simple types in combination with [[Number Types]]
-- [[Var Data Type and Anonymous Type]]
-  - When using var you need to give the compiler enough information in the assigned value to determine the correct type to be assigned. [[Number Types]] should be given the correct literal suffix so that the compiler can understand.

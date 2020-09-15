@@ -1,13 +1,13 @@
 ---
 layout: note
 title: Literals
-parent: C#
+parent: C-Sharp
 grand_parent: Home
 ---
 
 # Literals
 
-With the exception of interface and dynamic (and one or two edge cases), every type in C# should be derived from objects ([[Object Oriented Programming]]).
+With the exception of interface and dynamic (and one or two edge cases), every type in C-Sharp should be derived from objects ([[Object Oriented Programming]]).
 
 ## String Literals
 
@@ -29,3 +29,8 @@ String literals can be multiline which removes the need for line breaks `\n` and
 (WIP)
 
 ---
+
+## Backlinks
+* [[C-Sharp]]
+	* [[Literals]]
+

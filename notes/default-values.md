@@ -1,7 +1,7 @@
 ---
 layout: note
 title: Default Values
-parent: C#
+parent: C-Sharp
 grand_parent: Home
 ---
 
@@ -14,3 +14,8 @@ Debugging start with default values until passed.
 - Bools default to `false`.
 
 ---
+
+## Backlinks
+* [[C-Sharp]]
+	* [[Default Values]]
+

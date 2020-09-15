@@ -1,7 +1,7 @@
 ---
 layout: note
 title: Simple Types
-parent: C#
+parent: C-Sharp
 grand_parent: Home
 ---
 
@@ -15,7 +15,7 @@ Types are specific forms of data with specific structure & set limits.
 In addition to [[Number Types]] there are three more basic types:
 
 ```cs
-bool myBool; // True || False logical type (8 bit, the smallest value C# will allow you to store)
+bool myBool; // True || False logical type (8 bit, the smallest value C-Sharp will allow you to store)
 
 char myChar; // A single 'Character' represents unicode characters(16 bit, 65,535 possible characters stored)
 // Character literals should be written with 'single quotes'
@@ -26,7 +26,7 @@ string myString; // An array of char's.
 
 - (Further info on [[Strings]] here).
 
-Many other types exist in C#. However those are all made up of the above simple types in combination with [[Number Types]]
+Many other types exist in C-Sharp. However those are all made up of the above simple types in combination with [[Number Types]]
 
 ```cs
 DateTime myDate;
@@ -41,8 +41,10 @@ TimeSpan myTime;
 ---
 
 ## Backlinks
+* [[Literals]]
+	* All [[Simple Types]], by default, have the [[Methods]] `.ToString()` which returns the fully qualified name of the type of the Object.
+* [[Var Data Type and Anonymous Type]]
+	* `var` is used to declare an implicitly typed *local* variable, basically this means that the computer has to figure out what type of variable it is at completion time. It can make your code smaller, more structured and standardized, and easier to maintain by allowing you to replace explicit [[Simple Types]] (`int, bool, string` etc.) with a universal keyword.
+* [[C-Sharp]]
+	* [[Simple Types]]
 
-- [[Literals]]
-  - All [[Simple Types]], by default, have the [[Methods]] `.ToString()` which returns the fully qualified name of the type of the Object.
-- [[Var Data Type and Anonymous Type]]
-  - `var` is used to declare an implicitly typed _local_ variable, basically this means that the computer has to figure out what type of variable it is at completion time. It can make your code smaller, more structured and standardized, and easier to maintain by allowing you to replace explicit [[Simple Types]] (`int, bool, string` etc.) with a universal keyword.

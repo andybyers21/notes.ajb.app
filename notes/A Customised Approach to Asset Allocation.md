@@ -22,8 +22,6 @@ In reality, the type of assets you own should be matched to what you personally 
 6. **[[Rebalancing]]** Bring your portfolio back to your original asset allocation on a regular basis. At least once a year.
 
 ## Backlinks
-* [[Stock Markets]]
-	* [[A Customised Approach to Asset Allocation]]
 * [[Asset Allocation]]
 	* **See also: [[A Customised Approach to Asset Allocation]]**## Backlinks
 	* [[A Customised Approach to Asset Allocation]]

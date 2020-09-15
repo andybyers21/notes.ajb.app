@@ -17,3 +17,7 @@ A basic website folder should be structured as follows. The most common things w
 	- **scripts folder:** This folder will contain all the JavaScript code used to add interactive functionality to your site (e.g. buttons that load data when clicked). 
 	
 
+## Backlinks
+* [[HTML File Paths]]
+	* Remember to follow the conventions in [[Dealing With Files and Folders]]
+

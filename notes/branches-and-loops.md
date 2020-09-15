@@ -1,7 +1,7 @@
 ---
 layout: note
 title: Branches and Loops
-parent: C#
+parent: C-Sharp
 grand_parent: Home
 ---
 
@@ -110,3 +110,8 @@ Console.Write(sum);
 ```
 
 ---
+
+## Backlinks
+* [[C-Sharp]]
+	* [[Branches & Loops]]
+

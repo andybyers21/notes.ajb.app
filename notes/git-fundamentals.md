@@ -27,3 +27,7 @@ When working on a project stored in Git, Git provides clarity on **when you chan
 - **The working tree**, also know as the working directory, are where the files are pulled from the database for you to work on. 
 - **The staging area**, is a file in you Git directory that stores information on what will go into your next commit. (Sometimes known as an "index").
 - **The Git directory** is where Git stores the *metadata* and *object database* for your project. This is the most important part of Git. (It is what is copied when you clone a repository from another computer).
+## Backlinks
+* [[Git Glossary]]
+	* [[Git Fundamentals]]
+

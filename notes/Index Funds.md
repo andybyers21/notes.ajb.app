@@ -24,3 +24,10 @@ Index funds can be highly profitble in a [[Bear Markets]] (or [[Corrections]]) t
 * [[Asset Allocation]]
 	* [[What are Index Funds]]
 
+## Backlinks
+* [[Asset Allocation]]
+	* [[What are Index Funds]]
+* [[What are Index Funds]]
+	* [[What are Index Funds]]
+	* [[What are Index Funds]]
+

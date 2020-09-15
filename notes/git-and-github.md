@@ -14,4 +14,7 @@ Git is free and open source software. GitHub is a for profit website. In additio
 	- Task management 
 	- Project wikis
 
-[[Git Glossary]]
+[[Git Glossary]]## Backlinks
+* [[Git Glossary]]
+	* [[Git and GitHub]]
+

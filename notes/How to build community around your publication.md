@@ -38,3 +38,7 @@ Your shared activity should have the following traits:
 Your writing is a beacon for like-minded readers, even if you don’t know who they all are yet! Giving your readers the chance to get to know you, as well as their fellow subscribers, can be a powerful experience. Once you know who your audience is, the what’s and how’s of building your community will easily follow.
 
 ---
+## Backlinks
+* [[Audience building]]
+	* [[How to Build Community Around Your Publication]]
+

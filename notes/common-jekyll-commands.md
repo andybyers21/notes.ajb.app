@@ -32,4 +32,7 @@ $ jekyll command [argument] [option] [argument_to_option]
 
 `jekyll doctor` Outputs any deprecation or configuration issues.
 
-**Typically you’ll use jekyll serve while developing locally and jekyll build when you need to generate the site for production.**
+**Typically you’ll use jekyll serve while developing locally and jekyll build when you need to generate the site for production.**## Backlinks
+* [[Launch and Run Jekyll Site Locally]]
+	* [[Common Jekyll Commands]]
+

@@ -1,13 +1,13 @@
 ---
 layout: note
 title: Methods
-parent: C#
+parent: C-Sharp
 grand_parent: Home
 ---
 
 # Methods
 
-**Methods are reusable units of work in a self contained code-block.** In C# every statement is executed within a method. Methods are blocks of code that carry out a single, pre-defined function. They can be defined inside of [[Classes]], structures and interfaces.
+**Methods are reusable units of work in a self contained code-block.** In C-Sharp every statement is executed within a method. Methods are blocks of code that carry out a single, pre-defined function. They can be defined inside of [[Classes]], structures and interfaces.
 
 [[Access Modifiers]] controls access to methods. ^[Defaults to private if not defined.]
 
@@ -27,3 +27,19 @@ Console.WriteLine("Hello World");
 ```
 
 ---
+
+## Backlinks
+* [[Access Modifiers]]
+	* `void` nothing is returned, we're just executing code inside the [[Methods]]
+* [[Literals]]
+	* All [[Simple Types]], by default, have the [[Methods]] `.ToString()` which returns the fully qualified name of the type of the Object.
+* [[Parsing]]
+	* **The parse [[Methods]] is specific in that it only converts [[Strings]] to other types.** (Use the `ToString()` method to convert other types to strings). The purpose of `.Parse` is to make a string representation of other types.
+* [[Structuring Your Code]]
+	* [[Access Modifiers]] [[Methods]]
+	* Statements call [[Methods]] inside of [[Classes]].
+* [[Handling strings in C-Sharp]]
+	* **String [[Methods]]:**
+* [[C-Sharp]]
+	* [[Methods]]
+

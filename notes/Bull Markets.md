@@ -14,3 +14,7 @@ Every ber market ([[Bear Markets]]) in history has eventually become a bull mark
 * [[Stock Markets]]
 	* [[What are Bull Markets]]
 
+## Backlinks
+* [[What are Bull Markets]]
+	* [[What are Bull Markets]]
+

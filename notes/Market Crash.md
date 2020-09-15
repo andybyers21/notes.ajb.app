@@ -23,3 +23,10 @@ Throughout a crash continue to invest heavily in the stock market. Take profits 
 * [[Bonds]]
 	* [[What is a Market Crash]]
 
+## Backlinks
+* [[Bonds]]
+	* [[What is a Market Crash]]
+* [[What is a Market Crash]]
+	* [[What is a Market Crash]]
+	* [[What is a Market Crash]]
+

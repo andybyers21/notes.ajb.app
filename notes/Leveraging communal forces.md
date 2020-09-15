@@ -13,7 +13,8 @@ I have found that, across the board, extremely productive and accomplished peopl
 ---
 
 ## Backlinks
+* [[Audience is a Super Power]]
+	* **Audience building = Community Building.** - [How to Build Community Around Your Publication](<../Audience Building/How to build community around your publication>) - [[Leveraging Communal Forces]]
+* [[Audience building]]
+	* [[Leveraging Communal Forces]]
 
-- [[Audience is a Super Power]]
-  - **Audience building = Community Building.**
-    \- [[Leveraging Communal Forces]]

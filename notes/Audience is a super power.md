@@ -31,3 +31,7 @@ People connect the most when you're authentic with your story, the mistake you m
 Tell the story or teach and just switch between the 2 as you see fit.
 
 ---
+## Backlinks
+* [[Audience building]]
+	* [[Audience is a Super Power]]
+

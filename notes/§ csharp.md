@@ -1,14 +1,14 @@
 ---
 layout: note
-title: C#
+title: C-Sharp
 parent: Home
 has_children: true
 has_toc: false
 ---
 
-# C#
+# C-Sharp
 
-A place to store my notes on C# as I learn the syntax
+A place to store my notes on C-Sharp as I learn the syntax
 
 ## Types
 

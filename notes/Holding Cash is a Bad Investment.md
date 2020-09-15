@@ -16,8 +16,6 @@ At least bonds provide some income. As I see it, bonds are now the cleanest dirt
 
 
 ## Backlinks
-* [[Stock Markets]]
-	* [[Why Holding Cash is a Bad Investment]]
 * [[Asset Allocation]]
 	* [[Why Holding Cash is a Bad Investment]]
 

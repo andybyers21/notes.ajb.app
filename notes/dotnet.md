@@ -1,13 +1,13 @@
 ---
 layout: note
 title: .NET
-parent: C#
+parent: C-Sharp
 grand_parent: Home
 ---
 
 # .NET
 
-.Net is an open source developer platform. (A platform simply means that it contains the languages and libraries needed to build your apps.) Supported languages are C#, F#, and VB.
+.Net is an open source developer platform. (A platform simply means that it contains the languages and libraries needed to build your apps.) Supported languages are C-Sharp, F#, and VB.
 
 **NuGet** is a package manager for .NET
 
@@ -47,3 +47,8 @@ $ dotnet run
 Runs the application in terminal
 
 ---
+
+## Backlinks
+* [[C-Sharp]]
+	* [[.NET]]
+

@@ -15,6 +15,8 @@ Attributes should always have the following: - A space between it and the elemen
 ---
 
 ## Backlinks
+* [[HTML]]
+	* [[Attributes]]
+* [[CSS Basics]]
+	* The examples above use element selectors, which select all elements of a given type. But we can make more specific selections as well such as [[Attributes]] and class selectors. There are many more selectors to discover. To learn more, see the [MDN Selectors guide](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors).
 
-- [[CSS Basics]]
-  - The examples above use element selectors, which select all elements of a given type. But we can make more specific selections as well such as [[Attributes]] and class selectors. There are many more selectors to discover. To learn more, see the [MDN Selectors guide](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors).

@@ -18,8 +18,6 @@ Create a list of simple rules that spell out where you’re trying to go as an i
 
  Share your flight plan with someone you trust. Ideally, a sophisticated financial advisor. He or she can help you stick with the program by making sure you don’t violate your own rules with impulsive survival-brain decisions.
 ## Backlinks
-* [[Being Unshakable (in regards to investing)]]
-	* [[Investment Goals]]
 * [[Compound Interest]]
 	* Compounding is a force that can catapult you to a life of total financial freedom. If you stay in the market long enough (see: [[Investment Goals]]) compounding works its magic, and you end up with a healthy return. Even if your timing was hopelessly unlucky. It isn’t about getting a perfect score. Even small improvements in our behavior can deliver enormous rewards. If your returns improve by, say, 2 or 3 percentage points a year, the cumulative impact over decades is astounding, thanks to the power of compounding.
 * [[A Customised Approach to Asset Allocation]]

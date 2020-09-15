@@ -18,3 +18,9 @@ Unsuccessful investors tend to buy the thing that’s gone up and sell the thing
 * [[Asset Allocation]]
 	* [[Don't sell out. Rebalance]]
 
+## Backlinks
+* [[Asset Allocation]]
+	* [[Don't sell out. Rebalance]]
+* [[Don't sell out. Rebalance]]
+	* [[Don't sell out. Rebalance]]
+

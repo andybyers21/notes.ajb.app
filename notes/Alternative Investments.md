@@ -20,3 +20,9 @@ While it is possible to profit from investing directly in residential property, 
 * [[Bonds]]
 	* [[Alternative Investments]]
 
+## Backlinks
+* [[Bonds]]
+	* [[Alternative Investments]]
+* [[Alternative Investments]]
+	* [[Alternative Investments]]
+

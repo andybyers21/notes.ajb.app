@@ -74,3 +74,7 @@ showCount(0); // 0
 showCount(null); // unknown
 showCount(); // unknown
 ```
+## Backlinks
+* [[Functions Summary]]
+	* **A function can return a value. If it doesn’t, then its result is undefined.** see [[Default Values in Functions]]
+

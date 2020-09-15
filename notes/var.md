@@ -1,7 +1,7 @@
 ---
 layout: note
 title: Var Data Type and Anonymous Type
-parent: C#
+parent: C-Sharp
 grand_parent: Home
 ---
 
@@ -98,3 +98,8 @@ var listOfItems = GetList();
 ```
 
 ---
+
+## Backlinks
+* [[C-Sharp]]
+	* [[Var Data Type and Anonymous Type]]
+

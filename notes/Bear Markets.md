@@ -23,3 +23,7 @@ Bear markets are likely to continue happening every few years, whether we like i
 * [[Stock Markets]]
 	* [[What are Bear Markets]]
 
+## Backlinks
+* [[What are Bear Markets]]
+	* [[What are Bear Markets]]
+

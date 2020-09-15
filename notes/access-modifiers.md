@@ -1,7 +1,7 @@
 ---
 layout: note
 title: Access Modifiers
-parent: C#
+parent: C-Sharp
 grand_parent: Home
 ---
 
@@ -22,10 +22,12 @@ Access modifiers for types & type members...
 ---
 
 ## Backlinks
+* [[Methods]]
+	* [[Access Modifiers]] controls access to methods. ^[Defaults to private if not defined.]
+* [[Classes]]
+	* [[Access Modifiers]]
+* [[Structuring Your Code]]
+	* [[Access Modifiers]] [[Methods]]
+* [[C-Sharp]]
+	* [[Access Modifiers]]
 
-- [[Methods]]
-  - [[Access Modifiers]] controls access to methods. ^[Defaults to private if not defined.]
-- [[Classes]]
-  - [[Access Modifiers]]
-- [[Structuring Your Code]]
-  - [[Access Modifiers]] [[Methods]]

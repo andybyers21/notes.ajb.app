@@ -1,7 +1,7 @@
 ---
 layout: note
 title: ASP.NET
-parent: C#
+parent: C-Sharp
 grand_parent: Home
 ---
 
@@ -26,3 +26,8 @@ This will install the the ASP.NET Core HTTPS development certificate on your sys
 - index HTML can be modified at _Pages/Index.cshtml_
 
 ---
+
+## Backlinks
+* [[C-Sharp]]
+	* [[ASP.NET]]
+

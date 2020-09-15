@@ -1,7 +1,7 @@
 ---
 layout: note
 title: Classes
-parent: C#
+parent: C-Sharp
 grand_parent: Home
 ---
 
@@ -22,9 +22,11 @@ The single place where an application will begin.
 ---
 
 ## Backlinks
+* [[Methods]]
+	* **Methods are reusable units of work in a self contained code-block.** In C-Sharp every statement is executed within a method. Methods are blocks of code that carry out a single, pre-defined function. They can be defined inside of [[Classes]], structures and interfaces.
+* [[Structuring Your Code]]
+	* [[Classes]]
+	* Statements call [[Methods]] inside of [[Classes]].
+* [[C-Sharp]]
+	* [[Classes]]
 
-- [[Methods]]
-  - **Methods are reusable units of work in a self contained code-block.** In C# every statement is executed within a method. Methods are blocks of code that carry out a single, pre-defined function. They can be defined inside of [[Classes]], structures and interfaces.
-- [[Structuring Your Code]]
-  - [[Classes]]
-  - Statements call [[Methods]] inside of [[Classes]].

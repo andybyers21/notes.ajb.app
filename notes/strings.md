@@ -1,13 +1,13 @@
 ---
 layout: note
 title: Strings
-parent: C#
+parent: C-Sharp
 grand_parent: Home
 ---
 
-# Handling strings in C#
+# Handling strings in C-Sharp
 
-Variables in C# are typed:
+Variables in C-Sharp are typed:
 
 ```cs
 string hello = "Hello Baby";

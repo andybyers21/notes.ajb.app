@@ -44,3 +44,7 @@ _- or -_
 ```py
 phonebook.pop["Bill"]
 ```
+## Backlinks
+* [[Tuples and Lists]]
+	* **Since lists are mutable they cannot be used in [[Dictionaries]].**
+

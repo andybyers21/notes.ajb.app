@@ -19,6 +19,8 @@ A number of maxims have gained currency among the builders and users of the Unix
 ---
 
 ## Backlinks
+* [[Object Oriented Programming]]
+	* An object could be defined as a self contained program ([[The Unix Philosophy]]) At their core, programs are algorithms + data structures. Objects should communicate with each other in a defined way to create complex operations.
+* [[Coding Fundamentals]]
+	* [[The Unix Philosophy]]
 
-- [[Object Oriented Programming]]
-  - An object could be defined as a self contained program ([[The Unix Philosophy]]) At their core, programs are algorithms + data structures. Objects should communicate with each other in a defined way to create complex operations.

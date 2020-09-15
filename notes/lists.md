@@ -1,7 +1,7 @@
 ---
 layout: note
 title: Lists
-parent: C#
+parent: C-Sharp
 grand_parent: Home
 ---
 
@@ -90,3 +90,8 @@ Console.WriteLine($"Hello {name.ToUpper()}!");
 ```
 
 ---
+
+## Backlinks
+* [[C-Sharp]]
+	* [[Lists]]
+

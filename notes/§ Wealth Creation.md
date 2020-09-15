@@ -47,3 +47,13 @@ has_toc: false
 - [Rebalancing](../wealth-creation/rebalancing)
 - [Diversified Returns](../wealth-creation/Diversified Returns)
 - [Holding Cash is a Bad Investment](../wealth-creation/Holding Cash is a Bad Investment)
+## Backlinks
+* [[Being Unshakable (in regards to investing)]]
+	* **Psychology either makes you or breaks you, so it’s imperative to have a robust system that enables you to stay on target.** [[Wealth Creation]] is 80% Psychology & 20% Mechanics
+
+## Backlinks
+* [[Wealth Creation]]
+	* **Psychology either makes you or breaks you, so it’s imperative to have a robust system that enables you to stay on target.** [[Wealth Creation]] is 80% Psychology & 20% Mechanics
+* [[Being Unshakable (in regards to investing)]]
+	* **Psychology either makes you or breaks you, so it’s imperative to have a robust system that enables you to stay on target.** [[Wealth Creation]] is 80% Psychology & 20% Mechanics
+

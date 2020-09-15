@@ -26,3 +26,9 @@ When you’re truly unshakeable, you have unwavering confidence even amidst the 
 But how are you going to get there? First, you’ve got to save and invest, **become an owner, not just a consumer.** Pay yourself first by taking a percentage of your income and having it deducted automatically from your paycheck or bank account. This will build your Freedom Fund: the source of lifetime income that will allow you to never have to work again.
 
 **”The ability to invest without fear is critically important.”**
+## Backlinks
+* [[Wealth Creation]]
+	* [[Being Unshakable (in regards to investing)]]
+* [[Investment Goals]]
+	* Create a list of simple rules that spell out where you’re trying to go as an investor, what you have to watch out for, and how you plan to navigate the journey securely, so that when things get emotional, you stay the course and keep [[Being Unshakable (in regards to investing)]]. 
+

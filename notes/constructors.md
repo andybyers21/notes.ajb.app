@@ -1,7 +1,7 @@
 ---
 layout: note
 title: Constructors
-parent: C#
+parent: C-Sharp
 grand_parent: Home
 ---
 
@@ -16,6 +16,8 @@ When a constructor creates a new object this is called an _instance_. `instanceo
 ---
 
 ## Backlinks
+* [[Structuring Your Code]]
+	* [[Constructors]]
+* [[C-Sharp]]
+	* [[Constructors]]
 
-- [[Structuring Your Code]]
-  - [[Constructors]]

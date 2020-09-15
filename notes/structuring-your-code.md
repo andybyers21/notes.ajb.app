@@ -1,7 +1,7 @@
 ---
 layout: note
 title: Structuring Your Code
-parent: C#
+parent: C-Sharp
 grand_parent: Home
 ---
 
@@ -21,3 +21,8 @@ Data,
 Functions
 
 ---
+
+## Backlinks
+* [[C-Sharp]]
+	* [[Structuring Your Code]]
+

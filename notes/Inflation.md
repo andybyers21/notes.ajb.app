@@ -24,3 +24,10 @@ To guard against inflation, a common advice is to invest in [[Stock Markets]], b
 * [[Asset Allocation]]
 	* [[What is Inflation]]
 
+## Backlinks
+* [[Asset Allocation]]
+	* [[What is Inflation]]
+* [[What is Inflation]]
+	* [[What is Inflation]]
+	* [[What is Inflation]]
+

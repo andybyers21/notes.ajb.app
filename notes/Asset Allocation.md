@@ -29,8 +29,6 @@ There’s almost always an asset class or a country or a market that’s getting
 	* Over the course of the year, the market value of each security within your portfolio earned a different return, resulting in a weighting change. You find that the weighting of each asset class in your portfolio has changed. Rrebalancing entails bringing your portfolio back to your original [[Asset Allocation]] on a regular basis.
 
 ## Backlinks
-* [[Stock Markets]]
-	* [[Asset Allocation]]
 * [[Asset Allocation]]
 	* [[Asset Allocation]] will be the biggest factor in determining your investment returns. So, deciding on the right balance of stocks, [[Bonds]], and alternatives is the most important investment decision you’ll ever make. **Make sure you diversify globally across multiple asset classes. Never bet your future on one country or one asset class.**
 	* Holding cash is a poor [[Asset Allocation]] strategy. Does not provide you with [[Diversified Returns]] and does not [[Compound Interest]] over time. 
@@ -42,12 +40,15 @@ There’s almost always an asset class or a country or a market that’s getting
 	* [[Asset Allocation]] will be the biggest factor in determining your investment returns. So, deciding on the right balance of stocks, [[Bonds]], and alternatives is the most important investment decision you’ll ever make. **Make sure you diversify globally across multiple asset classes. Never bet your future on one country or one asset class.**
 * [[A Customised Approach to Asset Allocation]]
 	* [[Asset Allocation]] will be the biggest factor in determining your investment returns. So, deciding on the right balance of stocks, [[Bonds]], and alternatives is the most important investment decision you’ll ever make. **Make sure you diversify globally across multiple asset classes. Never bet your future on one country or one asset class.**
-* [[Why Holding Cash is a Bad Investment]]
-	* Holding cash is a poor [[Asset Allocation]] strategy. Does not provide you with [[Diversified Returns]] and does not [[Compound Interest]] over time. 
-* [[What are Index Funds]]
-	* Index funds take a “passive” approach to [[Asset Allocation]] that eliminates almost all trading activity. nstead of trading in and out of the market, they simply buy and hold every stock in an index
-* [[What is Inflation]]
-	* When your [[Asset Allocation]] allows holding tangible assets, like property or stocked commodities, you may like to see some inflation as that raises the value of your assets.
 * [[Don't sell out. Rebalance]]
 	* Over the course of the year, the market value of each security within your portfolio earned a different return, resulting in a weighting change. You find that the weighting of each asset class in your portfolio has changed. Rrebalancing entails bringing your portfolio back to your original [[Asset Allocation]] on a regular basis.
+	* [[Asset Allocation]]
+* [[What is Inflation]]
+	* When your [[Asset Allocation]] allows holding tangible assets, like property or stocked commodities, you may like to see some inflation as that raises the value of your assets.
+	* [[Asset Allocation]]
+* [[What are Index Funds]]
+	* Index funds take a “passive” approach to [[Asset Allocation]] that eliminates almost all trading activity. nstead of trading in and out of the market, they simply buy and hold every stock in an index
+	* [[Asset Allocation]]
+* [[Why Holding Cash is a Bad Investment]]
+	* Holding cash is a poor [[Asset Allocation]] strategy. Does not provide you with [[Diversified Returns]] and does not [[Compound Interest]] over time. 
 

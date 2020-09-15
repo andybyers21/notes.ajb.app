@@ -1,13 +1,13 @@
 ---
 layout: note
 title: Numbers
-parent: C#
+parent: C-Sharp
 grand_parent: Home
 ---
 
 # Numbers
 
-Numbers in C# have BODMAS precedence.
+Numbers in C-Sharp have BODMAS precedence.
 Division will return only a whole number (definition of an integer).
 
 ```cs
@@ -49,8 +49,10 @@ Console.WriteLine(area); // 19.6349540849362
 ---
 
 ## Backlinks
+* [[Number Types]]
+	* (Ref: [[Numbers]]).
+* [[Default Values]]
+	* Thee default value of all [[Numbers]] is `0`.
+* [[C-Sharp]]
+	* [[Numbers]]
 
-- [[Number Types]]
-  - ([[Numbers]]).
-- [[Default Values]]
-  - Thee default value of all [[Numbers]] is `0`.
