@@ -17,10 +17,11 @@ Servers are computers that store the websites, pages and app data. When a client
 	* Although the terms are used interchangeably there is a difference. The internet is the technical infrastructure that connects all of the computers on the web. Among these computers are [[Clients & Servers]]. [[Servers]] send messages to your browser. 
 
 ## Backlinks
+* [[A mental model of the infrastructure of the internet itself.]]
+	* Although the terms are used interchangeably there is a difference. The internet is the technical infrastructure that connects all of the computers on the web. Among these computers are [[Clients & Servers]]. [[Servers]] send messages to your browser. 
+	* [[Clients & Servers]]
 * [[Clients & Servers]]
 	* Although the terms are used interchangeably there is a difference. The internet is the technical infrastructure that connects all of the computers on the web. Among these computers are [[Clients & Servers]]. [[Servers]] send messages to your browser. 
 * [[Servers]]
-	* Although the terms are used interchangeably there is a difference. The internet is the technical infrastructure that connects all of the computers on the web. Among these computers are [[Clients & Servers]]. [[Servers]] send messages to your browser. 
-* [[A mental model of the infrastructure of the internet itself.]]
 	* Although the terms are used interchangeably there is a difference. The internet is the technical infrastructure that connects all of the computers on the web. Among these computers are [[Clients & Servers]]. [[Servers]] send messages to your browser. 
 

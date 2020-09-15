@@ -37,8 +37,6 @@ has_toc: false
 	* Front end coding lives primarily in your browser. When you search or click a link your browser receives [[HTML]] files from the server, which will in turn tell the browser to retreive the [[CSS]], [[JavaScript]] or whatever other files it requires. You browser will the figure out how to put it all together based on the instructions from the HTML.
 * [[Div Tags]]
 	* ***[[HTML]] and [[CSS]] describe the content and appearance of a page, as well as links to other resources.***
-* [[JavaScript]]
-	* Front end coding lives primarily in your browser. When you search or click a link your browser receives [[HTML]] files from the server, which will in turn tell the browser to retreive the [[CSS]], [[JavaScript]] or whatever other files it requires. You browser will the figure out how to put it all together based on the instructions from the HTML.
 * [[CSS Basics]]
 	* **Cascading Style Sheets** are applied to [[HTML]] to define how elements should look. CSS is embedded into the HTML code or can be referenced by link to an HTML page. The style sheet defines the appearance of a web page or app by defining rules and properties that an element must display. **These rules are defined by a selector**. Like HTML, CSS is also not a programming language. Nor is it a markup language (which HTML is). Rather it is a *style sheet language.*
 * [[HTML Templates]]

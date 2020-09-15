@@ -23,8 +23,9 @@ Typing or pasting in `bundle exec jekyll serve --watch` a lot? Instead, you can 
 	* `jekyll serve` or `jekyll s` [[Launch and Run Jekyll Site Locally]].
 
 ## Backlinks
-* [[Launch and Run Jekyll Site Locally]]
-	* `jekyll serve` or `jekyll s` [[Launch and Run Jekyll Site Locally]].
 * [[Common Jekyll Commands]]
+	* `jekyll serve` or `jekyll s` [[Launch and Run Jekyll Site Locally]].
+	* [[Launch and Run Jekyll Site Locally]]
+* [[Launch and Run Jekyll Site Locally]]
 	* `jekyll serve` or `jekyll s` [[Launch and Run Jekyll Site Locally]].
 

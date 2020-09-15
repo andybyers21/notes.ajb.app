@@ -25,6 +25,4 @@ These code files are the building blocks of the web. Together they make **the pu
 ## Backlinks
 * [[Front End vs Back End Coding]]
 	* [[Introduction to Front End Coding]]
-* [[JavaScript]]
-	* [[Introduction to Front End Coding]]
 

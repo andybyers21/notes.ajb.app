@@ -27,7 +27,9 @@ nav_exclude: true
 	* [[Git Glossary]]
 	* ref:- [[Git Glossary]]
 * [[Git and GitHub]]
+	* [[Git Glossary]]## Backlinks
 	* [[Git Glossary]]
 * [[Git Fundamentals]]
 	* ref:- [[Git Glossary]]
+	* [[Git Glossary]]
 
