@@ -8,13 +8,15 @@ has_toc: false
 
 # CSS
 
-- [CSS Basics](../css/css-basics)
-- [Improve Compatibility with Browser Fallbacks](../css/browser-fallbacks)
-- [Attribute Selectors](../css/attribute-selectors)
+- [[CSS Basics]]
+- [[Improve Compatibility with Browser Fallbacks]]
+- [[Attribute Selectors]]
 
 ## Snippets
 
-- [Bullet Point Relationship Lines](../css/bullet-point-relationship-lines)
+- [[Bullet Point Relationship Lines]]
+
+---
 
 ## Backlinks
 

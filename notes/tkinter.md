@@ -23,7 +23,7 @@ btn = tk.Button(text="CLICK ME!", command=phrase_display)
 btn.grid(column=1, row=2)
 ```
 
-<img src="../python/attachments/tkinter-grid.png" alt="Tkinter Grid" style="display: block;
+<img src="./attachments/tkinter-grid.png" alt="Tkinter Grid" style="display: block;
   margin-left: auto;
   margin-right: auto;
   width: 45%;"/>

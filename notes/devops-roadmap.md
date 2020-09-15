@@ -7,4 +7,4 @@ nav_exclude: true
 
 # DevOps Roadmap
 
-![DevOps Roadmap](../web-dev-concepts/attachments/roadmap-devops.png)
+![DevOps Roadmap](./attachments/roadmap-devops.png)
