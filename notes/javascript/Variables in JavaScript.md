@@ -1,0 +1,115 @@
+---
+layout: note
+title: Variables in JavaScript
+parent: JavaScript
+nav_exclude: true
+---
+
+# Variables in JavaScript
+
+Most of the time, a JavaScript application needs to work with information. Here are two examples:
+
+- An online shop – the information might include goods being sold and a shopping cart.
+- A chat application – the information might include users, messages, and much more.
+
+Variables are used to store this information. They are “named storage” containers for data that store values. We can use variables to store data like customer names, email addresses etc.
+
+You start by declaring a variable with the `var` or `let` keyword, followed by the name you give to the variable:
+
+`let myVariable;`
+
+This statement creates (or in other words **declares**) a variable with the name `myVariable`. **JavaScript is case sensitive.** This means `myVariable` is not the same as `myvariable`. If you have problems in your code, check the case!
+
+- A semi-colon `;` at the end of the line indicates that a statement ends. It is only required when you need to separate statements on a single line. However, some people believe it's good practice to have semicolons at the end of each statement.
+- You can name a variable pretty much anything you like. [With some minor execptions](https://mathiasbynens.be/notes/javascript-identifiers-es6). Check your naming [here](https://mothereff.in/js-variables).
+
+After declaring a variable you can give it a value:
+
+```js
+let myVariable = 'Bob';
+```
+
+You retrieve the value by calling the variable name:
+
+```js
+myVariable;
+```
+
+After assigning a variable to a variable you can change the value any time you like in the code:
+
+```js
+let myVariable = 'Bob';
+myVariable = 'Steve';
+```
+
+We put data into a variable by using the assignment operator `=`
+
+```js
+let message;
+message = 'Hello'; // store the string
+```
+
+Once the string is stored in the memory we can call it by using the variable name:
+
+```js
+let message;
+message = 'Hello!';
+
+alert(message); // shows the variable content
+```
+
+To be concise we can combine the variable and the assignment in the same line (as in the above `Bob` example):
+
+```js
+let message = 'Hello!'; // define the variable and assign the value
+
+alert(message); // Hello!
+```
+
+We can also declare multiple variables in one line:
+
+```js
+let user = 'John',
+  age = 25,
+  message = 'Hello';
+```
+
+- This is shorter but not recommended as it makes your code less readable. To make your code easily readable assign one variable to one line:
+
+```js
+let user = 'John';
+let age = 25;
+let message = 'Hello';
+```
+
+You can also use a multiline style:
+
+```js
+let user = 'John',
+  age = 25,
+  message = 'Hello';
+```
+
+Or the comma method:
+
+```js
+let user = 'John',
+  age = 25,
+  message = 'Hello';
+```
+
+Technically the one line method, multiline and comma methods all do the same thing so you can do whatever works for you.
+
+_Older scripts tend to make use of `var` to define a variable. (Instead of `let`). There are minor differences between the two but that doesn't matter too much as a beginner so just stick with `let` for now. _
+
+## Variables may hold values that have different data types:
+
+| Variable | Explanation                                                                                                                       | Example                                                                                                                      |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| String   | This is a sequence of text known as a string. '**To signify that the value is a string, enclose it in single quote marks'**.      | `let myVariable = 'Bob';`                                                                                                    |
+| Number   | This is a number. Numbers don't have quotes around them.                                                                          | `let myVariable = 10;`                                                                                                       |
+| Boolean  | **This is a True/False value.** The words true and false are special keywords that don't need quote marks.                        | `let myVariable = true;`                                                                                                     |
+| Array    | This is a structure that allows you to store multiple values in a single reference.                                               | `let myVariable = [1,'Bob','Steve',10];` Refer to each member of the array like this: `myVariable[0]`, `myVariable[1]`, etc. |
+| Object   | This can be anything. **Everything in JavaScript is an object**, and can be stored in a variable. Keep this in mind as you learn. | `let myVariable = document.querySelector('h1');` All of the above examples too.                                              |
+
+_Variables are necessary to do anything interesting in programming. If values couldn't change, then you couldn't do anything dynamic, like personalize a greeting message or change an image in an image gallery._

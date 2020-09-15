@@ -17,24 +17,12 @@ has_toc: false
 - [JavaScript Comments](../javascript/JavaScript Comments)
 - [JavaScript Events](../javascript/JavaScript Events)
 
-## JavaScript Functions
-
-- [JavaScript Functions](../javascript/JavaScript Functions)
-  - [Anonymous Functions](../javascript/Anonymous Functions)
-  - [Function Parameters](../javascript/Function Parameters)
-  - [Function Scope and Conflicts](../javascript/Function Scope and Conflicts)
-  - [Function Return Values](../javascript/Function Return Values)
-  - [Default Values in Functions](../javascript/Default Values in Functions)
-- [Functions Summary](../javascript/Functions Summary)
-- [Function Expressions](../javascript/Function Expressions)
-  - [Callback Functions](../javascript/Callback Functions)
-
 ## JavaScript Variables
 
-- [Variables in JavaScript]
-  - [Variables in the Real World - JS]
-  - [Constant Variables]
-- [The Difference Between Var and Let]
+- [Variables in JavaScript](../javascript/Variables in JavaScript)
+  - [Variables in the Real World - JS](../javascript/Variables in the Real World - JS)
+  - [Constant Variables](../javascript/Constant Variables)
+- [The Difference Between Var and Let](../javascript/The Difference Between Var and Let)
 
 ## Data Types in JavaScript
 
@@ -89,6 +77,18 @@ In addition to text strings and numbers there are 6 more major data types to be 
 - [The Undefined Value]
 - [Objects and Symbols]
 - [The typeof Operator]
+
+## JavaScript Functions
+
+- [JavaScript Functions](../javascript/JavaScript Functions)
+  - [Anonymous Functions](../javascript/Anonymous Functions)
+  - [Function Parameters](../javascript/Function Parameters)
+  - [Function Scope and Conflicts](../javascript/Function Scope and Conflicts)
+  - [Function Return Values](../javascript/Function Return Values)
+  - [Default Values in Functions](../javascript/Default Values in Functions)
+- [Functions Summary](../javascript/Functions Summary)
+- [Function Expressions](../javascript/Function Expressions)
+  - [Callback Functions](../javascript/Callback Functions)
 
 ## Conditionals Operators in JavaScript
 
