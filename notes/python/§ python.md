@@ -20,6 +20,7 @@ has_toc: false
 - [Loops](../python/loops)
 - [Functions](../python/functions)
 - [Classes and Objects](../python/classes-objects)
+  - A note on [Self](../python/self)
 - [Tuples and Lists](../python/tuples-lists)
 - [Dictionaries](../python/dictionaries)
 

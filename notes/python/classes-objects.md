@@ -7,7 +7,7 @@ nav_exclude: true
 
 # Classes and Objects
 
-**Everything in python is an object.** (Ref: [[Object Oriented Programming]]) Objects are an encapsulation of variables, [[Functions]] etc into a single entity. **Objects get their variables and functions from classes. Classes are a template of your objects.**
+**Everything in python is an object.** (Ref: [[Object Oriented Programming]]) Objects are an encapsulation of variables, [[Functions]] etc into a single entity. **Objects get their variables and functions from classes. Classes are a template of your objects.** Note: Classes cannot be empty, every class must have at least one object. (_use `pass` if your class is empty_).
 
 To assign a class to an object:
 
