@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: note
 title: OS and Software Help
-nav_order: 12
+parent: Home
 has_children: true
 has_toc: false
 ---

@@ -1,7 +1,6 @@
 ---
 layout: note
 title: Audience Building
-nav_order: 4
 parent: Home
 has_children: true
 has_toc: false

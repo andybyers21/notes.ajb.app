@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: note
 title: Python
-nav_order: 13
+parent: Home
 has_children: true
 has_toc: false
 ---

@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: note
 title: Web Infrastructure
-nav_order: 18
+parent: Home
 has_children: true
 has_toc: false
 ---

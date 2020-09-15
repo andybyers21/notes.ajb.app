@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: note
 title: HTML
-nav_order: 9
+parent: Home
 has_children: true
 has_toc: false
 ---

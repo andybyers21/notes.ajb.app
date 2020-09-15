@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: note
 title: Wealth Creation
-nav_order: 15
+parent: Home
 has_children: true
 has_toc: false
 ---

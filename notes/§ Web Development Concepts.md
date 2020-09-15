@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: note
 title: Web Development Concepts
-nav_order: 17
+parent: Home
 has_children: true
 has_toc: false
 ---

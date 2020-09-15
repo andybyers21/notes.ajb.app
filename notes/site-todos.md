@@ -1,9 +1,9 @@
 ---
-layout: default
-title: Site To-Do
-nav_order: 99
-has_children: true
-has_toc: false
+layout: note
+title: Site ToDo's
+parent: Site Info
+nav_exclude: true
+grand_parent: Home
 ---
 
 # Site ToDo's

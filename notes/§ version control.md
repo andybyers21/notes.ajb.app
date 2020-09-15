@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: note
 title: Version Control
-nav_order: 14
+parent: Home
 has_children: true
 has_toc: false
 ---

@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: note
 title: Computer Science
-nav_order: 7
+parent: Home
 has_children: true
 has_toc: false
 ---

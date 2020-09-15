@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: note
 title: JavaScript
-nav_order: 10
+parent: Home
 has_children: true
 has_toc: false
 ---

@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: note
 title: Jekyll
-nav_order: 11
+parent: Home
 has_children: true
 has_toc: false
 ---
