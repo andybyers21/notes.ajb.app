@@ -21,3 +21,9 @@ def fizzbuzz(x, y):
         else:
             print(n)
 ```
+
+## Built in Functions
+
+The Python interpreter has a number of functions and types built into it that are always available.
+
+- [View them here](https://docs.python.org/3/library/functions.html)

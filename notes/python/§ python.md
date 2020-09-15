@@ -23,7 +23,16 @@ has_toc: false
 - [Tuples and Lists](../python/tuples-lists)
 - [Dictionaries](../python/dictionaries)
 
-# Structuring Your Programs
+## Python, Batteries Included
+
+- [[Built In Constants]]
+
+## Handy Tips
+
+- [In interactive mode, the last printed expression is assigned to the variable `_`.](../python/calculator-underscores)
+- [Raw Strings](../python/raw-strings)
+
+## Structuring Your Programs
 
 - [Modules](../python/modules)
 - [Namespaces](../python/namespaces)
