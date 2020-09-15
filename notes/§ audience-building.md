@@ -10,5 +10,7 @@ has_toc: false
 
 - [[Audience is a Super Power]]
   - [[Own Your Distribution]]
-- [[How to Build Community]]
+- [[How to Build Community Around Your Publication]]
 - [[Leveraging Communal Forces]]
+
+---

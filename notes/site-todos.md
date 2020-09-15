@@ -2,7 +2,6 @@
 layout: note
 title: Site ToDo's
 parent: Site Info
-nav_exclude: true
 grand_parent: Home
 ---
 

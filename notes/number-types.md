@@ -2,13 +2,15 @@
 layout: note
 title: Number Types
 parent: C#
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Number Types
+
 All types will be stored in multiples of 8 bits (1 byte).
 
 C# intergers have min an max limits:
+
 ```cs
 int max = int.MaxValue;
 int min = int.MinValue;
@@ -16,21 +18,26 @@ Console.WriteLine($"The range of integers is {min} to {max}"); // The range of i
 ```
 
 If you tried:
+
 ```cs
 int what = max + 3;
 Console.WriteLine($"An example of overflow: {what}");
 ```
+
 You would return: `An example of overflow: -2147483646`. This is an example of "overflow" because the code has overflowed the max value by +3 and looped back to the start of it's number sequence starting at -2147483648
 
-The range of floating point numbers is much larger than whole integers. 
+The range of floating point numbers is much larger than whole integers.
+
 ```cs
 double max = double.MaxValue;
 double min = double.MinValue;
 Console.WriteLine($"The range of double is {min} to {max}"); // The range of double is -1.79769313486232E+308 to 1.79769313486232E+308
 ```
-*NOTE: that E+308 is representing a number TO THE POWER OF 308.*
+
+_NOTE: that E+308 is representing a number TO THE POWER OF 308._
 
 The decimal type has a smaller range than double but greater precision. An M suffix is used to denote decimal types. E.g:
+
 ```cs
 double a = 1.0;
 double b = 3.0;
@@ -42,8 +49,10 @@ Console.WriteLine(c / d); // 0.3333333333333333333333333333
 ```
 
 ## Integral types
+
 Storing whole numbers. (Smallest > largest):
-```cs 
+
+```cs
 sbyte mySByte; // -128 to 127, signed 8 bit
 byte myByte; // 0 to 255, unsigned 8 bit
 short myShort; // -32,768 to 32,767, signed 16 bit
@@ -55,20 +64,27 @@ ulong myULong; // 0 to 18,446,744,073,709,551,615 unsigned 64 bit
 ```
 
 ## Floating point numbers
+
 Decimals will be rounded off to the below:
+
 ```cs
 float myFloat; // Approx 6-9 digits, 32 bit
 double myDouble; // Approx 15-17 digits, 64 bit
 decimal myDecimal; // Approx 28-29 digits, 128 bit
 ```
+
 Floating point types cannot be unsigned (this is due to CPU operation rather than a C# limitation, most languages also have this limitation).
 
-([[Numbers]]).## Backlinks
-* [[Numbers]]
-	* ### [[Number Types]]
-* [[Simple Types]]
-	* In addition to [[Number Types]] there are three more basic types:
-	* Many other types exsist in C#. However those are all made up of the above simple types in combination with [[Number Types]]
-* [[Var Data Type and Anonymous Type]]
-	* When using var you need to give the compiler enough information in the assigned value to determine the correct type to be assigned. [[Number Types]] should be given the correct literal suffix so that the compiler can understand.
+(Ref: [[Numbers]]).
 
+---
+
+## Backlinks
+
+- [[Numbers]]
+  - ### [[Number Types]]
+- [[Simple Types]]
+  - In addition to [[Number Types]] there are three more basic types:
+  - Many other types exsist in C#. However those are all made up of the above simple types in combination with [[Number Types]]
+- [[Var Data Type and Anonymous Type]]
+  - When using var you need to give the compiler enough information in the assigned value to determine the correct type to be assigned. [[Number Types]] should be given the correct literal suffix so that the compiler can understand.

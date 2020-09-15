@@ -2,11 +2,12 @@
 layout: note
 title: Access Modifiers
 parent: C#
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Access Modifiers
-***(WIP)***
+
+**_(WIP)_**
 
 Access Modifiers control the ability of others to discover and call the code inside of a method.
 
@@ -16,11 +17,15 @@ Access modifiers for types & type members...
 
 - Private members can only be accessed within their class.
 
-- `void` nothing is returned, we're just executing code inside the [[Met## Backlinks
-* [[Methods]]
-	* [[Access Modifiers]] controls access to methods. ^[Defaults to private if not defined.] 
-* [[Classes]]
-	* [[Access Modifiers]]
-* [[Structuring Your Code]]
-	* [[Access Modifiers]]  [[Methods]]
+- `void` nothing is returned, we're just executing code inside the [[Methods]]
 
+---
+
+## Backlinks
+
+- [[Methods]]
+  - [[Access Modifiers]] controls access to methods. ^[Defaults to private if not defined.]
+- [[Classes]]
+  - [[Access Modifiers]]
+- [[Structuring Your Code]]
+  - [[Access Modifiers]] [[Methods]]

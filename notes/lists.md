@@ -2,20 +2,22 @@
 layout: note
 title: Lists
 parent: C#
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Lists
 
-Create a new variable. 
+Create a new variable.
 (Note, `List<type>` == `(List<T>)`):
+
 ```cs
 var names = new List<string> { "<name>", "Ana", "Felipe" };
 ```
 
-For each "name" in names, print to the console. 
+For each "name" in names, print to the console.
 (NOTE: `<name>` will default to item if not present):
-```cs 
+
+```cs
 foreach (var name in names)
 {
   Console.WriteLine($"Hello {name.ToUpper()}!");
@@ -25,8 +27,9 @@ foreach (var name in names)
 // Hello FELIPE!
 ```
 
-Modify the List. 
+Modify the List.
 (`.Add` will add the name to the end of a list):
+
 ```cs
 Console.WriteLine();
 names.Add("Bill"); // to the end of the list
@@ -43,17 +46,20 @@ foreach (var name in names) // var name, you are declaring the variable name of 
 ```
 
 Referance items by index:
+
 ```cs
 Console.WriteLine($"My name is {names[0]}."); // My name is <name>.
 Console.WriteLine($"I've added {names[2]} and {names[3]} to the list."); // I've added Bill and George to the list.
 ```
 
 Check how long the list is using the "count" property:
+
 ```cs
 Console.WriteLine(names.Count()); // 4
 ```
 
 `IndoxOf();` returns the list position of an element (the "index of"):
+
 ```cs
 Console.WriteLine(IndoxOf("Bill")); // 2
 ```
@@ -69,8 +75,9 @@ var notFound = names.IndexOf("Not Found");
   Console.WriteLine($"When an item is not found, IndexOf returns {notFound}"); // When an item is not found, IndexOf returns -1
 ```
 
-The "Sort" method can be used to sort items in a list to their normal order. 
+The "Sort" method can be used to sort items in a list to their normal order.
 (Normal order is alphabetically for strings. Numeric order for numbers):
+
 ```cs
 names.Sort();
 foreach (var name in names);
@@ -81,3 +88,5 @@ Console.WriteLine($"Hello {name.ToUpper()}!");
 // Hello FELIPE!
 // Hello GEORGE!
 ```
+
+---

@@ -2,7 +2,7 @@
 layout: note
 title: .NET
 parent: C#
-nav_exclude: true
+grand_parent: Home
 ---
 
 # .NET
@@ -13,20 +13,19 @@ nav_exclude: true
 
 There is a number of .NET implementations depending on what you are working on. The
 
-color is 
-
+color is
 
 ## .NET Core
 
-  Runs on any OS (Mac, Windows, Linux).
+Runs on any OS (Mac, Windows, Linux).
 
 ## .NET Framework
 
-  Supports websites and desktop app building on windows.
+Supports websites and desktop app building on windows.
 
 ## Xamarin / Mono
 
-  .NET for mobile.
+.NET for mobile.
 
 **When using any of the above frameworks you write in the .NET standard** for a hassle free workflow. .NET standard is a base set of API's common to all implementations. Each implementation can also expose API's that are specific to the platform you are working on.
 
@@ -34,14 +33,17 @@ color is
 
 ## Create a .NET apps
 
-  ```
-  $ dotnet new console -o appname
-  ```
-  - Creates a new app with the console template.
-  - `-o` creates the directory 'appname'
+```shell
+$ dotnet new console -o appname
+```
 
-  ```
-  $ dotnet run
-  ```
-  Runs the application in terminal
+- Creates a new app with the console template.
+- `-o` creates the directory 'appname'
 
+```shell
+$ dotnet run
+```
+
+Runs the application in terminal
+
+---

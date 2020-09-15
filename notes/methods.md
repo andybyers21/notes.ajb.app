@@ -2,33 +2,28 @@
 layout: note
 title: Methods
 parent: C#
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Methods
+
 **Methods are reusable units of work in a self contained code-block.** In C# every statement is executed within a method. Methods are blocks of code that carry out a single, pre-defined function. They can be defined inside of [[Classes]], structures and interfaces.
 
-[[Access Modifiers]] controls access to methods. ^[Defaults to private if not defined.] 
+[[Access Modifiers]] controls access to methods. ^[Defaults to private if not defined.]
 
 - `=>` Arrow functions should not be used for methods.
 - Methods should end with arguments`()`.
-- Methods should be named in PaschalCase. 
+- Methods should be named in PaschalCase.
 
 [[Object Oriented Programming]]
 
 ### Calling a Method
+
 Calling the method WriteLine inside of the class Console:
+
 ```cs
 Console.WriteLine("Hello World");
 // Class.Method("Statement")
-```## Backlinks
-* [[Literals]]
-	* All [[Simple Types]], by default, have the [[Methods]] `.ToString()` which returns the fully qualified name of the type of the Object.
-* [[Parsing]]
-	* **The parse [[Methods]] is specific in that it only converts [[Strings]] to other types.** (Use the `ToString()` method to convert other types to strings). The purpose of `.Parse` is to make a string representation of other types. 
-* [[Handling strings in C]]
-	* **String [[Methods]]:**
-* [[Structuring Your Code]]
-	* [[Access Modifiers]]  [[Methods]]
-	* Statements call [[Methods]] inside of [[Classes]].
+```
 
+---

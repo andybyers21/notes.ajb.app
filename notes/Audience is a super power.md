@@ -29,3 +29,5 @@ People wants connection and to get connection you need to tell the full story an
 People connect the most when you're authentic with your story, the mistake you made, the errors, the problems.
 
 Tell the story or teach and just switch between the 2 as you see fit.
+
+---

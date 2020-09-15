@@ -1,26 +1,30 @@
 ---
 layout: note
-title: Structuring Your Code
+title: Classes
 parent: C#
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Classes
+
 The design type where everything is defined.
 
 A class is the blueprint for building objects ([[Object Oriented Programming]]). It specifies what operations objects have, provides the code and specifies how the data is stored. Classes create an object with it's own identity.
 
-> *Organizing code by creating types in the form of classes. Each class should be defined in a different text file to make it easier to manage big projects. Each class contains the code that represents a specific entity*
+> _Organizing code by creating types in the form of classes. Each class should be defined in a different text file to make it easier to manage big projects. Each class contains the code that represents a specific entity_
 
 ## Class `main`
-The single place where an application will begin. 
+
+The single place where an application will begin.
 
 [[Access Modifiers]]
 
-## Backlinks
-* [[Methods]]
-	* **Methods are reusable units of work in a self contained code-block.** In C# every statement is executed within a method. Methods are blocks of code that carry out a single, pre-defined function. They can be defined inside of [[Classes]], structures and interfaces.
-* [[Structuring Your Code]]
-	* [[Classes]]
-	* Statements call [[Methods]] inside of [[Classes]].
+---
 
+## Backlinks
+
+- [[Methods]]
+  - **Methods are reusable units of work in a self contained code-block.** In C# every statement is executed within a method. Methods are blocks of code that carry out a single, pre-defined function. They can be defined inside of [[Classes]], structures and interfaces.
+- [[Structuring Your Code]]
+  - [[Classes]]
+  - Statements call [[Methods]] inside of [[Classes]].

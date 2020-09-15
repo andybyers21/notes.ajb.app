@@ -2,7 +2,6 @@
 layout: note
 title: YAML Tags
 parent: Site Info
-nav_exclude: true
 grand_parent: Home
 ---
 
@@ -15,7 +14,6 @@ grand_parent: Home
 layout: note
 title:
 parent:
-nav_exclude: true
 grand_parent: Home
 ---
 

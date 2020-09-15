@@ -2,14 +2,16 @@
 layout: note
 title: Branches and Loops
 parent: C#
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Branches & Loops
 
 ## If...Else Statements
-*(One time evaluation statements)*
+
+_(One time evaluation statements)_
 If...else statements are commonly written as follows:
+
 ```cs
 int a = 5;
 int b = 3;
@@ -25,15 +27,19 @@ else
   Console.WriteLine("Or the first number is not equal to the second");
 }
 ```
-*Recursive Bugs* - Returning to the method in an if else statement is a bad idea, the code will create a copy of the method in the stack causeing a stack overflow.
+
+_Recursive Bugs_ - Returning to the method in an if else statement is a bad idea, the code will create a copy of the method in the stack causeing a stack overflow.
 Brackets are not required when there is only one condition:
+
 ```cs
 if (index != -1)
   Console.WriteLine($"The name {names[index]} is at index {index}");
 ```
 
 ## While loops
+
 Checks a condition and executes code while the condition is true:
+
 ```cs
 int counter = 0;
 while (counter < 10)
@@ -44,6 +50,7 @@ while (counter < 10)
 ```
 
 do...while loops - executes the code first, then checks the condition:
+
 ```cs
 int counter = 0;
 do
@@ -54,16 +61,20 @@ do
 ```
 
 Note;
+
 ```cs
 int counter = 0;
 while (counter < 10)
 ```
+
 Can be written as;
+
 ```cs
 while (counter++ < 10)
 ```
 
 ## For loops
+
 ```cs
 for (int counter = 0; counter < 10; counter++)
 {
@@ -72,6 +83,7 @@ for (int counter = 0; counter < 10; counter++)
 ```
 
 For loops can be nested:
+
 ```cs
 for (int row = 0; row < 10; row++)
 {
@@ -83,6 +95,7 @@ for (int row = 0; row < 10; row++)
 ```
 
 For example, find the sum of all int's divisible by 3:
+
 ```cs
 int sum = 0;
 for (int i = 1; i <= 20; i++)
@@ -95,3 +108,5 @@ for (int i = 1; i <= 20; i++)
 
 Console.Write(sum);
 ```
+
+---

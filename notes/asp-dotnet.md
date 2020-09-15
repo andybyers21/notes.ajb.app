@@ -2,7 +2,7 @@
 layout: note
 title: ASP.NET
 parent: C#
-nav_exclude: true
+grand_parent: Home
 ---
 
 # ASP.NET
@@ -13,7 +13,7 @@ nav_exclude: true
 
 Trust the HTTPS development certificate:
 
-```
+```shell
 $ dotnet dev-certs https --trust
 ```
 
@@ -24,3 +24,5 @@ This will install the the ASP.NET Core HTTPS development certificate on your sys
 - Run the app with the following command: `dotnet watch run`. After the command has executed you can view your app at `https://localhost:5001`.
 
 - index HTML can be modified at _Pages/Index.cshtml_
+
+---

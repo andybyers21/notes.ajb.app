@@ -2,28 +2,33 @@
 layout: note
 title: Parsing
 parent: C#
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Parsing
-Parsing is taking information from a source and interpreting in in another way. For example, taking a string and parsing it to an integer so you can apply it to a mathematical function. 
 
-**The parse [[Methods]] is specific in that it only converts [[Strings]] to other types.** (Use the `ToString()` method to convert other types to strings). The purpose of `.Parse` is to make a string representation of other types. 
+Parsing is taking information from a source and interpreting in in another way. For example, taking a string and parsing it to an integer so you can apply it to a mathematical function.
+
+**The parse [[Methods]] is specific in that it only converts [[Strings]] to other types.** (Use the `ToString()` method to convert other types to strings). The purpose of `.Parse` is to make a string representation of other types.
 
 For example:
-```cs 
+
+```cs
 public static DateTime Parse (string s);
 ```
+
 Converts the string representation of a date and time to its `DateTime` equivalent by using the conventions of the current thread culture.
 
 ## TryParse
+
 `.TryParse` handles the catch method for us. Instead of crashing the program it will return a `bool` (which can then be assigned to a variable which can be passed into [[If-else Statements]])
 
 ```cs
 .TryParse(param, out param);
 ```
 
-`out` passes a variable instance (a pointer) directly into the method rather than a copy. **Any changes `TryParse` makes to the method passed will directly affect the outside variable. 
+`out` passes a variable instance (a pointer) directly into the method rather than a copy. \*\*Any changes `TryParse` makes to the method passed will directly affect the outside variable.
 
+- _The Parse and TryParse methods ignore white space at the beginning and at the end of the string. But all other characters must be characters that form the appropriate type. (e.g. int, long, ulong, float, decimal for numeric types). Any white space within the string that forms the number will cause an error._
 
-- *The Parse and TryParse methods ignore white space at the beginning and at the end of the string. But all other characters must be characters that form the appropriate type. (e.g. int, long, ulong, float, decimal for numeric types). Any white space within the string that forms the number will cause an error.*
+---

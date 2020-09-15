@@ -12,38 +12,40 @@ A place to store my notes on C# as I learn the syntax
 
 ## Types
 
-- [Simple Types](../csharp/simple-types)
-- [Numbers](../csharp/numbers)
-  - [Number Types](../csharp/number-types)
-- [Strings](../csharp/strings)
-- [Var Data Type and Anonymous Type](../csharp/var)
-- [Default Values](../csharp/default-values)
+- [[Simple Types]]
+- [[Numbers]]
+  - [[Number Types]]
+- [[Strings]]
+- [[Var Data Type and Anonymous Type]]
+- [[Default Values]]
 
 ## Manipulating Data
 
-- [Literals](../csharp/literals)
-- [Parsing](../csharp/parsing)
+- [[Literals]]
+- [[Parsing]]
 
 ## Arrays and Lists
 
-- [Lists](../csharp/lists)
+- [[Lists]]
 
 ## Branches & Loops
 
-- [Branches & Loops](../csharp/branches-and-loops)
-- [[If-else Statements]]
+- [[Branches & Loops]]
+- If-else Statements
 
 ## OOP
 
-- [Structuring Your Code](../csharp/structuring-your-code)
-  - [Classes](../csharp/classes)
-  - [Methods](../csharp/methods)
-    - [Access Modifiers](../csharp/access-modifiers)
-  - [Constructors](../csharp/constructors)
-  - [Properties](../csharp/properties)
-- [Object Oriented Programming](../coding-fundamentals/object-oriented-programming)
+- [[Structuring Your Code]]
+  - [[Classes]]
+  - [[Methods]]
+    - [[Access Modifiers]]
+  - [[Constructors]]
+  - [[Properties]]
+- [[Object Oriented Programming]]
 
 ## DOTNET
 
-- [ASP.NET](../csharp/asp-dotnet)
-- [.NET](../csharp/dotnet)
+- [[.NET]]
+- [[ASP.NET]]
+
+---
