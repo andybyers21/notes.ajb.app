@@ -12,10 +12,12 @@ has_toc: false
 
 ## Concepts
 
-- [The Unix Philosophy](../coding-fundamentals/unix-philosophy)
-- [Transclusion](../coding-fundamentals/transclusion)
+- [[The Unix Philosophy]]
+- [[Transclusion]]
 
 ## Practices
 
-- [Refactoring](../coding-fundamentals/Refactoring)
-- [Object Oriented Programming](../coding-fundamentals/object-oriented-programming)
+- [[Refactoring]]
+- [[Object Oriented Programming]]
+
+---

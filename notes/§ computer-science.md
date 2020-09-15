@@ -8,4 +8,4 @@ has_toc: false
 
 # Computer Science
 
-- [Semantics](../computer-science/semantics)
+- [[Semantics]]

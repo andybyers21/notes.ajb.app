@@ -2,7 +2,7 @@
 layout: note
 title: Div Tags
 parent: HTML
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Div Tags
@@ -25,7 +25,10 @@ Tags can contain tags and this is how pages are put together. The `<div>` tag de
 Lines of code can be indented to make it more astetic and readable by a coder but the browser cares not and ignores multiple spaces. _Clear code is easier to debug and edit_
 
 **_[[HTML]] and [[CSS]] describe the content and appearance of a page, as well as links to other resources._**
-## Backlinks
-* [[CSS Basics]]
-	* In HTML a *class* is an attribute that can be set on an elements [[Div Tags]]. For example `<p class='intro lead'>This is the intro text.</p>` would point to the rule `p` and also `p intro` and `p lead`. You can use anything you like as a class name and can use numerous class's
 
+---
+
+## Backlinks
+
+- [[CSS Basics]]
+  - In HTML a _class_ is an attribute that can be set on an elements [[Div Tags]]. For example `<p class='intro lead'>This is the intro text.</p>` would point to the rule `p` and also `p intro` and `p lead`. You can use anything you like as a class name and can use numerous class's

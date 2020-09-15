@@ -2,13 +2,14 @@
 layout: note
 title: Refactoring
 parent: Coding Fundamentals
-nav_exclude: true
+grand_parent: Home
 ---
 
 # What is Refactoring
+
 More info [here](https://lispcast.com/stop-refactoring-and-start-factoring/)
 
-In computer programming (and [[§ Web Development]], code refactoring is the process of restructuring your code, *changing the factoring,* **without changing the external behavior of the program.** It is intended to improve the design, structure, and implementation of the softwares non-functional attributes, while preserving its functionality.
+In computer programming (and [[Web Development]], code refactoring is the process of restructuring your code, _changing the factoring,_ **without changing the external behavior of the program.** It is intended to improve the design, structure, and implementation of the softwares non-functional attributes, while preserving its functionality.
 
 **Refactoring is a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior by restructureing software code.**
 
@@ -16,4 +17,6 @@ The advantages of refactoring include improved code readability and reduced comp
 
 Typically a coder would apply a series of standardised basic micro-changesto the source code. Many development environments provide automated support for performing the mechanical aspects of basic refactorings. If done well, code refactoring may help software developers discover and fix hidden or dormant bugs or vulnerabilities in the system by simplifying the underlying logic and eliminating unnecessary levels of complexity. **If done poorly, it may fail the requirement that external functionality not be changed, introduce new bugs, or both.**
 
-**By continuously improving the design of code, we make it easier and easier to work with.** This is in sharp contrast to what typically happens: little refactoring and a great deal of attention paid to expediently adding new features. **If you get into the hygienic habit of refactoring continuously, you'll find that it is easier to extend and maintain code** and should be part of your [[§ Web Design]] philosophy.
+**By continuously improving the design of code, we make it easier and easier to work with.** This is in sharp contrast to what typically happens: little refactoring and a great deal of attention paid to expediently adding new features. **If you get into the hygienic habit of refactoring continuously, you'll find that it is easier to extend and maintain code** and should be part of your [[Web Design]] philosophy.
+
+---

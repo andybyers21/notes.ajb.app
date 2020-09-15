@@ -6,32 +6,23 @@ nav_exclude: true
 ---
 
 # Being Unshakable (in regards to investing)
+
 **The single biggest threat to your financial well-being is your own brain.** You can’t win by sitting on the bench. You have to be in the game. To put it another way, fear isn’t rewarded. Courage is. If you fail to master your own psychology, you may ultimately become the victim of a costly form of financial self-sabotage. If you live in fear, you’ve lost the game before it even begins. How can you achieve anything if you’re too scared to take a risk?
 
-**Psychology either makes you or breaks you, so it’s imperative to have a robust system that enables you to stay on target.** [[§ Wealth Creation]] is 80% Psychology & 20% Mechanics
+**Psychology either makes you or breaks you, so it’s imperative to have a robust system that enables you to stay on target.** [[Wealth Creation]] is 80% Psychology & 20% Mechanics
 
 **Focus on not losing instead of winning.**
 
-Nobody can consistently predict consistently whether [[Stock Markets]] will rise or fall. It’s delusional to think that you or I could successfully “time the market” by jumping in and out at the right moments. 
+Nobody can consistently predict consistently whether [[Stock Markets]] will rise or fall. It’s delusional to think that you or I could successfully “time the market” by jumping in and out at the right moments.
+
 > "It would be great to get out of the stock market at the high and back in at the low, but in 65 years in the business, I not only have never met anybody that knew how to do it, I’ve never met anybody who had met anybody that knew how to do it.” -- _Jack Bogle_
 
 Newsletter writers, pundits and predictors are usually full of shit. They require the drama to create views. The last thing you and I want is to make fear-based financial decisions so we have to remove as much emotion as possible from the game. **You don’t have to predict the future to win. You have to focus on what you can control and ignore what you can’t.**
 
 When you’re truly unshakeable, you have unwavering confidence even amidst the storm. It’s not that nothing upsets you. You have the emotional fortitude to get in it and stay in it for the long term.
 
->“The key to making money in equities is not to get scared out of them.” -- _PETER LYNCH, who returned 29% a year as a famed fund manager at Fidelity Investments_
+> “The key to making money in equities is not to get scared out of them.” -- _PETER LYNCH, who returned 29% a year as a famed fund manager at Fidelity Investments_
 
 But how are you going to get there? First, you’ve got to save and invest, **become an owner, not just a consumer.** Pay yourself first by taking a percentage of your income and having it deducted automatically from your paycheck or bank account. This will build your Freedom Fund: the source of lifetime income that will allow you to never have to work again.
 
-**”The ability to invest without fear is critically important.”**## Backlinks
-* [[Investment Goals]]
-	* Create a list of simple rules that spell out where you’re trying to go as an investor, what you have to watch out for, and how you plan to navigate the journey securely, so that when things get emotional, you stay the course and keep [[Being Unshakable (in regards to investing)]]. 
-
-## Backlinks
-* [[Stock Markets]]
-	* [[Being Unshakable (in regards to investing)]]
-* [[Investment Goals]]
-	* Create a list of simple rules that spell out where you’re trying to go as an investor, what you have to watch out for, and how you plan to navigate the journey securely, so that when things get emotional, you stay the course and keep [[Being Unshakable (in regards to investing)]]. 
-* [[Being Unshakable (in regards to investing)]]
-	* Create a list of simple rules that spell out where you’re trying to go as an investor, what you have to watch out for, and how you plan to navigate the journey securely, so that when things get emotional, you stay the course and keep [[Being Unshakable (in regards to investing)]]. 
-
+**”The ability to invest without fear is critically important.”**

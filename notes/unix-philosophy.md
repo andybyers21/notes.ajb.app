@@ -2,7 +2,7 @@
 layout: note
 title: The Unix Philosophy
 parent: Coding Fundamentals
-nav_exclude: true
+grand_parent: Home
 ---
 
 # The Unix Philosophy
@@ -16,7 +16,9 @@ A number of maxims have gained currency among the builders and users of the Unix
 3. Design and build software, even operating systems, to be tried early, ideally within weeks. Don’t hesitate to throw away the clumsy parts and rebuild them.
 4. Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you’ve finished using them.
 
-## Backlinks
-* [[Object Oriented Programming]]
-	* An object could be defined as a self contained program ([[The Unix Philosophy]]) At their core, programs are algorithms + data structures. Objects should communicate with each other in a defined way to create complex operations. 
+---
 
+## Backlinks
+
+- [[Object Oriented Programming]]
+  - An object could be defined as a self contained program ([[The Unix Philosophy]]) At their core, programs are algorithms + data structures. Objects should communicate with each other in a defined way to create complex operations.
