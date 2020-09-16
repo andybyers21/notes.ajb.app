@@ -90,8 +90,3 @@ Console.WriteLine($"Hello {name.ToUpper()}!");
 ```
 
 ---
-
-## Backlinks
-* [[C-Sharp]]
-	* [[Lists]]
-

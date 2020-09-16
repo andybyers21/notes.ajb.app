@@ -12,7 +12,3 @@ You can nest elements within elements like so: `<p>My cat is <strong>very</stron
 The elements have to open and close correctly so that they are clearly inside or outside one another. If they overlap your web browser will try to make a best guess attempt at what you were trying to say, which can lead to unexpected results. So don't do it!
 
 ---
-## Backlinks
-* [[HTML]]
-	* [[Nesting Elements]]
-

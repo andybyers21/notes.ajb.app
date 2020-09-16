@@ -27,28 +27,3 @@ def fizzbuzz(x, y):
 The Python interpreter has a number of functions and types built into it that are always available.
 
 - [View them here](https://docs.python.org/3/library/functions.html)
-## Backlinks
-* [[Classes and Objects]]
-	* **Everything in python is an object.** (Ref: [[Object Oriented Programming]]) Objects are an encapsulation of variables, [[Functions]] etc into a single entity. **Objects get their variables and functions from classes. Classes are a template of your objects.** Note: Classes cannot be empty, every class must have at least one object. (*use `pass` if your class is empty*).
-* [[Namespaces]]
-	* **Enclosing**, defined within [[Functions]].
-* [[Modules]]
-	* A python module can contain a set of variables, [[Functions]] and [[Classes and Objects]]. **A module is a mini-program in itself.**
-* [[Python Naming Conventions]]
-	* Variables should follow the same conventions as [[Functions]]
-
-## Backlinks
-* [[Functions]]
-	* **Everything in python is an object.** (Ref: [[Object Oriented Programming]]) Objects are an encapsulation of variables, [[Functions]] etc into a single entity. **Objects get their variables and functions from classes. Classes are a template of your objects.** Note: Classes cannot be empty, every class must have at least one object. (*use `pass` if your class is empty*).
-	* **Enclosing**, defined within [[Functions]].
-	* A python module can contain a set of variables, [[Functions]] and [[Classes and Objects]]. **A module is a mini-program in itself.**
-	* Variables should follow the same conventions as [[Functions]]
-* [[Classes and Objects]]
-	* **Everything in python is an object.** (Ref: [[Object Oriented Programming]]) Objects are an encapsulation of variables, [[Functions]] etc into a single entity. **Objects get their variables and functions from classes. Classes are a template of your objects.** Note: Classes cannot be empty, every class must have at least one object. (*use `pass` if your class is empty*).
-* [[Namespaces]]
-	* **Enclosing**, defined within [[Functions]].
-* [[Modules]]
-	* A python module can contain a set of variables, [[Functions]] and [[Classes and Objects]]. **A module is a mini-program in itself.**
-* [[Python Naming Conventions]]
-	* Variables should follow the same conventions as [[Functions]]
-

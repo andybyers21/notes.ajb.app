@@ -98,8 +98,3 @@ var listOfItems = GetList();
 ```
 
 ---
-
-## Backlinks
-* [[C-Sharp]]
-	* [[Var Data Type and Anonymous Type]]
-

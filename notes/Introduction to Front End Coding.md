@@ -6,23 +6,15 @@ nav_exclude: true
 ---
 
 # Introduction to Front End Coding
+
 Front end coding lives primarily in your browser. When you search or click a link your browser receives [[HTML]] files from the server, which will in turn tell the browser to retreive the [[CSS]], [[JavaScript]] or whatever other files it requires. You browser will the figure out how to put it all together based on the instructions from the HTML.
 
 [[The differences between development and design]]
 
-The front end developer handles all of the possible interactions that a user might make. **Front end developers need to be highly conscious of who their end users are** as they are building the gateway to pages and ultimately products for them. **It is a mix of programming and layout that powers the visuals and interactions of a user experience.** 
+The front end developer handles all of the possible interactions that a user might make. **Front end developers need to be highly conscious of who their end users are** as they are building the gateway to pages and ultimately products for them. **It is a mix of programming and layout that powers the visuals and interactions of a user experience.**
 
 # Front-end Coding Language Basics
+
 HTML, CSS and JavaScript are sometimes described as front end languages ([[Front End vs Back End Coding]]). They are the **component files** that make up a websites content. Commonly known as code files. (Other component files are known as **assets** which is a collective name for things like music, video, images and other documents such as PDF's).
 
-These code files are the building blocks of the web. Together they make **the public-facing part of a website that a user sees**. (Developers working primarily with these languages are often called ‘front-end developers’). A website will usually have separate CSS and HTML files. 
-
-
-
-
-
-
-## Backlinks
-* [[Front End vs Back End Coding]]
-	* [[Introduction to Front End Coding]]
-
+These code files are the building blocks of the web. Together they make **the public-facing part of a website that a user sees**. (Developers working primarily with these languages are often called ‘front-end developers’). A website will usually have separate CSS and HTML files.

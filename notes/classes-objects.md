@@ -30,12 +30,3 @@ object.variable
 ```py
 new_object.function()
 ```
-## Backlinks
-* [[Functions]]
-	* [[Classes and Objects]]
-	* A python module can contain a set of variables, [[Functions]] and [[Classes and Objects]]. **A module is a mini-program in itself.**
-* [[Modules]]
-	* A python module can contain a set of variables, [[Functions]] and [[Classes and Objects]]. **A module is a mini-program in itself.**
-* [[Constructors and Self]]
-	* Remember, a class is a template for an object (Ref; [[Classes and Objects]]). You can create many objects, known as instances, from your class. Every time you create an object from a class it will create new [[Namespaces]] for that instance. A constructor is responsible for calculating that memory allocated to that instance (`()` is your constructor) which will call the `__init__` method for you. The constructor is called automatically every time you create a new instance.
-

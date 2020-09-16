@@ -32,7 +32,3 @@ from module_name import *
 to import all objects
 
 **When you import a module into python code it will only initialize once.** No matter how many times you use it.
-## Backlinks
-* [[Functions]]
-	* [[Modules]]
-

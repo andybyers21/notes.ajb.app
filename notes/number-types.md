@@ -78,15 +78,3 @@ Floating point types cannot be unsigned (this is due to CPU operation rather tha
 (Ref: [[Numbers]]).
 
 ---
-
-## Backlinks
-* [[Numbers]]
-	* (Ref: [[Number Types]])
-* [[Simple Types]]
-	* In addition to [[Number Types]] there are three more basic types:
-	* Many other types exist in C-Sharp. However those are all made up of the above simple types in combination with [[Number Types]]
-* [[Var Data Type and Anonymous Type]]
-	* When using var you need to give the compiler enough information in the assigned value to determine the correct type to be assigned. [[Number Types]] should be given the correct literal suffix so that the compiler can understand.
-* [[C-Sharp]]
-	* [[Number Types]]
-

@@ -32,8 +32,3 @@ Converts the string representation of a date and time to its `DateTime` equivale
 - _The Parse and TryParse methods ignore white space at the beginning and at the end of the string. But all other characters must be characters that form the appropriate type. (e.g. int, long, ulong, float, decimal for numeric types). Any white space within the string that forms the number will cause an error._
 
 ---
-
-## Backlinks
-* [[C-Sharp]]
-	* [[Parsing]]
-

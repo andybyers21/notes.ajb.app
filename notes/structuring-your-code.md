@@ -21,8 +21,3 @@ Data,
 Functions
 
 ---
-
-## Backlinks
-* [[C-Sharp]]
-	* [[Structuring Your Code]]
-

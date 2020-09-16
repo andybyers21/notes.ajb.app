@@ -14,8 +14,3 @@ Debugging start with default values until passed.
 - Bools default to `false`.
 
 ---
-
-## Backlinks
-* [[C-Sharp]]
-	* [[Default Values]]
-

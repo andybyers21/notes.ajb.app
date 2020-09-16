@@ -10,10 +10,3 @@ grand_parent: Home
 Data elements that enforce rules, e.g validation
 
 ---
-
-## Backlinks
-* [[Structuring Your Code]]
-	* [[Properties]]
-* [[C-Sharp]]
-	* [[Properties]]
-

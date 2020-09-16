@@ -38,7 +38,3 @@ As a writer, it is your responsibility to find your readers, not your readers’
 Get your writing done today,
 
 ---
-## Backlinks
-* [[Audience building]]
-	* [[Own Your Distribution]]
-

@@ -27,10 +27,3 @@ Lines of code can be indented to make it more astetic and readable by a coder bu
 **_[[HTML]] and [[CSS]] describe the content and appearance of a page, as well as links to other resources._**
 
 ---
-
-## Backlinks
-* [[HTML]]
-	* [[Div Tags]]
-* [[CSS Basics]]
-	* In HTML a *class* is an attribute that can be set on an elements [[Div Tags]]. For example `<p class='intro lead'>This is the intro text.</p>` would point to the rule `p` and also `p intro` and `p lead`. You can use anything you like as a class name and can use numerous class's
-

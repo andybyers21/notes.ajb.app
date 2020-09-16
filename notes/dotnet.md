@@ -47,8 +47,3 @@ $ dotnet run
 Runs the application in terminal
 
 ---
-
-## Backlinks
-* [[C-Sharp]]
-	* [[.NET]]
-

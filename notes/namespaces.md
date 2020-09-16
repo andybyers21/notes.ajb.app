@@ -22,11 +22,3 @@ Python organises symbolic names and objects into namespaces. **A namespace is a 
 4. **Local**, Defined at the innermost scope (nested functions for example).
 
 Python will start at the local scope and work it's way out to find what it's looking for.
-## Backlinks
-* [[Functions]]
-	* [[Namespaces]]
-* [[Modules]]
-	* When you need to use code from another module in your app. Alternatively import module code within [[Namespaces]]:
-* [[Constructors and Self]]
-	* Remember, a class is a template for an object (Ref; [[Classes and Objects]]). You can create many objects, known as instances, from your class. Every time you create an object from a class it will create new [[Namespaces]] for that instance. A constructor is responsible for calculating that memory allocated to that instance (`()` is your constructor) which will call the `__init__` method for you. The constructor is called automatically every time you create a new instance.
-

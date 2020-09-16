@@ -61,7 +61,3 @@ False
 ```
 
 Memory is allocated to tuples in larger blocks with a low overhead, because they are immutable. Tuples will use less memory than a dynamic list. **A list has a variable size, a tuple is allocated a fixed size.**
-## Backlinks
-* [[Dictionaries]]
-	* Dictionaries are similar to arrays. They use **keys** and **values** to manage data (rather than indexes). Each value can be accessed by calling it's key. A value can be any object (strings, ints, lists etc). **Only immutable object can be written to a dictionary. Use tuples, not lists.** (Ref: [[Tuples and Lists]])
-

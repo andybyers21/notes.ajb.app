@@ -39,12 +39,3 @@ TimeSpan myTime;
 ```
 
 ---
-
-## Backlinks
-* [[Literals]]
-	* All [[Simple Types]], by default, have the [[Methods]] `.ToString()` which returns the fully qualified name of the type of the Object.
-* [[Var Data Type and Anonymous Type]]
-	* `var` is used to declare an implicitly typed *local* variable, basically this means that the computer has to figure out what type of variable it is at completion time. It can make your code smaller, more structured and standardized, and easier to maintain by allowing you to replace explicit [[Simple Types]] (`int, bool, string` etc.) with a universal keyword.
-* [[C-Sharp]]
-	* [[Simple Types]]
-

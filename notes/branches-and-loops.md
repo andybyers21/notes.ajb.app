@@ -110,8 +110,3 @@ Console.Write(sum);
 ```
 
 ---
-
-## Backlinks
-* [[C-Sharp]]
-	* [[Branches & Loops]]
-

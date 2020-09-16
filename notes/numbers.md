@@ -47,12 +47,3 @@ Console.WriteLine(area); // 19.6349540849362
 - (Ref: [[Number Types]])
 
 ---
-
-## Backlinks
-* [[Number Types]]
-	* (Ref: [[Numbers]]).
-* [[Default Values]]
-	* Thee default value of all [[Numbers]] is `0`.
-* [[C-Sharp]]
-	* [[Numbers]]
-

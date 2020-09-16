@@ -29,8 +29,3 @@ String literals can be multiline which removes the need for line breaks `\n` and
 (WIP)
 
 ---
-
-## Backlinks
-* [[C-Sharp]]
-	* [[Literals]]
-

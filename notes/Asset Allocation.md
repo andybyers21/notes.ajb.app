@@ -6,6 +6,7 @@ nav_exclude: true
 ---
 
 # Asset Allocation
+
 Nobody can ever know what the market will do so design an asset allocation that, even if your wrong, you’ll still be okay. **By owning about 15 uncorrelated investments, you can reduce your overall risk by about 80%** and you’ll increase the return-to-risk ratio by a factor of five. So, **your return is five times greater by reducing that risk.**
 
 Asset allocation is simply a matter of establishing the right mix of different types of investments, diversifying among them in such a way that you reduce your risks and maximize your rewards.
@@ -16,39 +17,4 @@ Different asset classes don’t usually move in tandem and **success is largely 
 
 There’s almost always an asset class or a country or a market that’s getting clobbered, presenting you with equally enticing opportunities for [[Asymmetric Risk Reward]].
 
-**See also: [[A Customised Approach to Asset Allocation]]**## Backlinks
-* [[A Customised Approach to Asset Allocation]]
-	* [[Asset Allocation]] will be the biggest factor in determining your investment returns. So, deciding on the right balance of stocks, [[Bonds]], and alternatives is the most important investment decision you’ll ever make. **Make sure you diversify globally across multiple asset classes. Never bet your future on one country or one asset class.**
-* [[Why Holding Cash is a Bad Investment]]
-	* Holding cash is a poor [[Asset Allocation]] strategy. Does not provide you with [[Diversified Returns]] and does not [[Compound Interest]] over time. 
-* [[What are Index Funds]]
-	* Index funds take a “passive” approach to [[Asset Allocation]] that eliminates almost all trading activity. nstead of trading in and out of the market, they simply buy and hold every stock in an index
-* [[What is Inflation]]
-	* When your [[Asset Allocation]] allows holding tangible assets, like property or stocked commodities, you may like to see some inflation as that raises the value of your assets.
-* [[Don't sell out. Rebalance]]
-	* Over the course of the year, the market value of each security within your portfolio earned a different return, resulting in a weighting change. You find that the weighting of each asset class in your portfolio has changed. Rrebalancing entails bringing your portfolio back to your original [[Asset Allocation]] on a regular basis.
-
-## Backlinks
-* [[Asset Allocation]]
-	* [[Asset Allocation]] will be the biggest factor in determining your investment returns. So, deciding on the right balance of stocks, [[Bonds]], and alternatives is the most important investment decision you’ll ever make. **Make sure you diversify globally across multiple asset classes. Never bet your future on one country or one asset class.**
-	* Holding cash is a poor [[Asset Allocation]] strategy. Does not provide you with [[Diversified Returns]] and does not [[Compound Interest]] over time. 
-	* Index funds take a “passive” approach to [[Asset Allocation]] that eliminates almost all trading activity. nstead of trading in and out of the market, they simply buy and hold every stock in an index
-	* When your [[Asset Allocation]] allows holding tangible assets, like property or stocked commodities, you may like to see some inflation as that raises the value of your assets.
-	* Over the course of the year, the market value of each security within your portfolio earned a different return, resulting in a weighting change. You find that the weighting of each asset class in your portfolio has changed. Rrebalancing entails bringing your portfolio back to your original [[Asset Allocation]] on a regular basis.
-* [[Bonds]]
-	* [[Asset Allocation]]
-	* [[Asset Allocation]] will be the biggest factor in determining your investment returns. So, deciding on the right balance of stocks, [[Bonds]], and alternatives is the most important investment decision you’ll ever make. **Make sure you diversify globally across multiple asset classes. Never bet your future on one country or one asset class.**
-* [[A Customised Approach to Asset Allocation]]
-	* [[Asset Allocation]] will be the biggest factor in determining your investment returns. So, deciding on the right balance of stocks, [[Bonds]], and alternatives is the most important investment decision you’ll ever make. **Make sure you diversify globally across multiple asset classes. Never bet your future on one country or one asset class.**
-* [[Don't sell out. Rebalance]]
-	* Over the course of the year, the market value of each security within your portfolio earned a different return, resulting in a weighting change. You find that the weighting of each asset class in your portfolio has changed. Rrebalancing entails bringing your portfolio back to your original [[Asset Allocation]] on a regular basis.
-	* [[Asset Allocation]]
-* [[What is Inflation]]
-	* When your [[Asset Allocation]] allows holding tangible assets, like property or stocked commodities, you may like to see some inflation as that raises the value of your assets.
-	* [[Asset Allocation]]
-* [[What are Index Funds]]
-	* Index funds take a “passive” approach to [[Asset Allocation]] that eliminates almost all trading activity. nstead of trading in and out of the market, they simply buy and hold every stock in an index
-	* [[Asset Allocation]]
-* [[Why Holding Cash is a Bad Investment]]
-	* Holding cash is a poor [[Asset Allocation]] strategy. Does not provide you with [[Diversified Returns]] and does not [[Compound Interest]] over time. 
-
+**See also: [[A Customised Approach to Asset Allocation]]**

@@ -6,21 +6,7 @@ nav_exclude: true
 ---
 
 # Git and GitHub
-Git is free and open source software. GitHub is a for profit website. In addition to the functions of Git, GitHub offers:
-	- Web based GUI
-	- Desktop and mobile apps
-	- Access control
-	- Bug tracking 
-	- Task management 
-	- Project wikis
 
-[[Git Glossary]]## Backlinks
-* [[Git Glossary]]
-	* [[Git and GitHub]]
+Git is free and open source software. GitHub is a for profit website. In addition to the functions of Git, GitHub offers: - Web based GUI - Desktop and mobile apps - Access control - Bug tracking - Task management - Project wikis
 
-## Backlinks
-* [[Git Glossary]]
-	* [[Git and GitHub]]
-* [[Git and GitHub]]
-	* [[Git and GitHub]]
-
+[[Git Glossary]]

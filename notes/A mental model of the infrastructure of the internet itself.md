@@ -6,23 +6,11 @@ nav_exclude: true
 ---
 
 # A mental model of the infrastructure of the internet itself.
+
 At its most basic, the Internet is a large network of computers which communicate together.
 
 ## "Internet" and "the Web"
-Although the terms are used interchangeably there is a difference. The internet is the technical infrastructure that connects all of the computers on the web. Among these computers are [[Clients & Servers]]. [[Servers]] send messages to your browser. 
 
-The internet is the infrastructure whereas the web is the service built on the infrastructure. There are several other services built on the internet such as email and chat services. ## Backlinks
-* [[Clients & Servers]]
-	* [[A mental model of the infrastructure of the internet itself.]]
-* [[Servers]]
-	* [[A mental model of the infrastructure of the internet itself.]]
+Although the terms are used interchangeably there is a difference. The internet is the technical infrastructure that connects all of the computers on the web. Among these computers are [[Clients & Servers]]. [[Servers]] send messages to your browser.
 
-## Backlinks
-* [[A mental model of the infrastructure of the internet itself.]]
-	* [[A mental model of the infrastructure of the internet itself.]]
-	* [[A mental model of the infrastructure of the internet itself.]]
-* [[Clients & Servers]]
-	* [[A mental model of the infrastructure of the internet itself.]]
-* [[Servers]]
-	* [[A mental model of the infrastructure of the internet itself.]]
-
+The internet is the infrastructure whereas the web is the service built on the infrastructure. There are several other services built on the internet such as email and chat services.

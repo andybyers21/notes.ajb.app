@@ -17,12 +17,3 @@ has_toc: false
 - [[Bullet Point Relationship Lines]]
 
 ---
-
-## Backlinks
-* [[Introduction to Front End Coding]]
-	* Front end coding lives primarily in your browser. When you search or click a link your browser receives [[HTML]] files from the server, which will in turn tell the browser to retreive the [[CSS]], [[JavaScript]] or whatever other files it requires. You browser will the figure out how to put it all together based on the instructions from the HTML.
-* [[Div Tags]]
-	* ***[[HTML]] and [[CSS]] describe the content and appearance of a page, as well as links to other resources.***
-* [[HTML Templates]]
-	* Similarly [[CSS]] will be written once and point to HTML on a number of different site templates.
-
