@@ -11,13 +11,6 @@ has_toc: false
 
 - [[Site ToDo's]]
 - [[YAML Tags]]
-## Backlinks
-* [[Site ToDo's]]
-	* [[Site Info]]
+- [[Version History]]
 
-## Backlinks
-* [[Site Info]]
-	* [[Site Info]]
-* [[Site ToDo's]]
-	* [[Site Info]]
-
+---
