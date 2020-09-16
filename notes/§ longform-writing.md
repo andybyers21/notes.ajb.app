@@ -16,7 +16,3 @@ Here you will find links to some of my more developed essays which are categoriz
 - [[Creating a Contact Management Strategy For Growth]]
 
 ---
-## Backlinks
-* [[Creating a Contact Management Strategy For Growth]]
-	* [[Longform Writing]]
-

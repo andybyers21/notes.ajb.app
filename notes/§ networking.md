@@ -8,4 +8,4 @@ has_toc: false
 
 # Networking (& Contact Management)
 
-- [Creating a Contact Management Strategy For Growth](../networking/contact-management-strategy-for-growth)
+- [[Creating a Contact Management Strategy For Growth]]

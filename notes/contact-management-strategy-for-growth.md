@@ -2,7 +2,7 @@
 layout: note
 title: Creating a Contact Management Strategy For Growth
 parent: Networking
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Creating a Contact Management Strategy For Growth
@@ -89,3 +89,5 @@ You'll probably have different levels of connections, people you connect with at
 If you have a question about something it's important to have someone on hand who you can ask. If something looks suspicious add everyone involved on an email and ask. This is what makes connectors transparent and in control of their network and the more you do, you'll solidify those lose connections through communication.
 
 Whenever you feel like you are settling into the same old circles, force yourself to shake things up and look for new, unseen connections. Try to grow your circle as much as possible by connecting the dots between the people in your life. No matter how efficient your strategy is, there’s always room for improvement. But the thing about connecting the dots is, your network will grow both in depth and breadth, organically over time with a minimal amount of input from you. After all, what's so hard about a simple "hello."
+
+---
