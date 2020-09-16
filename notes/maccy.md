@@ -2,7 +2,7 @@
 layout: note
 title: Maccy Clipboard Manager
 parent: OS and Software Help
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Maccy Clipboard Manager
@@ -21,3 +21,5 @@ Maccy is a lightweight, open source clipboard manager for macOS which does one j
 8. To pin the history item so that it remains on top of the list, press OPTION (⌥) + P. The item will be moved to the top with a random but permanent keyboard shortcut. To unpin it, press OPTION (⌥) + P again.
 9. To clear all unpinned items, select _Clear_ in the menu, or press OPTION (⌥) + COMMAND (⌘) + DELETE (⌫). To clear all items including pinned, select _Clear_ in the menu with OPTION (⌥) pressed, or press SHIFT (⇧) + OPTION (⌥) + COMMAND (⌘) + DELETE (⌫).
 10. To customize the behavior, check “Preferences…” window.
+
+---
