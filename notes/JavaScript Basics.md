@@ -2,7 +2,7 @@
 layout: note
 title: JavaScript Basics
 parent: JavaScript
-nav_exclude: true
+grand_parent: Home
 ---
 
 # JavaScript Basics
@@ -24,3 +24,5 @@ JavaScript can be routed to from your HTML doc as follows.
 (Where `main.js` is your JavaScript file)
 
 _It's worth noting that these features are common to all programming languages. If you master these fundamentals, you have a head start on coding in other languages too!_
+
+---

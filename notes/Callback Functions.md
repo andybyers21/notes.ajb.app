@@ -2,7 +2,7 @@
 layout: note
 title: Callback Functions
 parent: JavaScript
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Callback functions
@@ -74,3 +74,5 @@ Such code appears in our scripts very naturally, it’s in the spirit of JavaScr
 - Regular values like strings or numbers represent the data.
 - A function can be perceived as an action.
 - We can pass it between variables and run when we want.
+
+---

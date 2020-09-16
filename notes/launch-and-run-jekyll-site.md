@@ -9,23 +9,14 @@ nav_exclude: true
 
 ```shell
 bundle exec jekyll serve --watch
-``` 
-To start running your website locally. You’d visit *localhost:4000* in a browser to see your local site.
+```
+
+To start running your website locally. You’d visit _localhost:4000_ in a browser to see your local site.
 
 Pass the `--watch` flag to auto-rebuild your Jekyll site when a file changes. (pre-installed with Jekyll 2.1 or greater).
 
-Hit *control + C* at the command line to stop running the website locally.
+Hit _control + C_ at the command line to stop running the website locally.
 
-While the site is running, after making changes to website files: save the files and refresh the webpage to see the changes —except for the *_config.yml file*, for which you must stop running the website and restart running the website to see changes.
+While the site is running, after making changes to website files: save the files and refresh the webpage to see the changes —except for the _\_config.yml file_, for which you must stop running the website and restart running the website to see changes.
 
-Typing or pasting in `bundle exec jekyll serve --watch` a lot? Instead, you can type the ↑ (up arrow) at the command line to scroll through recently typed commands; just press enter after the command you want to use appears.## Backlinks
-* [[Common Jekyll Commands]]
-	* `jekyll serve` or `jekyll s` [[Launch and Run Jekyll Site Locally]].
-
-## Backlinks
-* [[Common Jekyll Commands]]
-	* `jekyll serve` or `jekyll s` [[Launch and Run Jekyll Site Locally]].
-	* [[Launch and Run Jekyll Site Locally]]
-* [[Launch and Run Jekyll Site Locally]]
-	* `jekyll serve` or `jekyll s` [[Launch and Run Jekyll Site Locally]].
-
+Typing or pasting in `bundle exec jekyll serve --watch` a lot? Instead, you can type the ↑ (up arrow) at the command line to scroll through recently typed commands; just press enter after the command you want to use appears.

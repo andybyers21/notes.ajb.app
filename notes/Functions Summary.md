@@ -2,19 +2,18 @@
 layout: note
 title: JavaScript Functions
 parent: JavaScript
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Functions Summary
 
-- [JavaScript Functions](../javascript/JavaScript Functions)
-  - [Anonymous Functions](../javascript/Anonymous Functions)
-  - [Function Parameters](../javascript/Function Parameters)
-  - [Function Scope and Conflicts](../javascript/Function Scope and Conflicts)
-  - [Function Return Values](../javascript/Function Return Values)
-  - [Default Values in Functions](../javascript/Default Values in Functions)
-- [Functions Summary](../javascript/Functions Summary)
-- [Function Expressions](../javascript/Function Expressions)
+- [[JavaScript Functions]]
+  - [[Anonymous Functions]]
+  - [[Function Parameters]]
+  - [[Function Scope and Conflicts]]
+  - [[Function Return Values]]
+  - [[Default Values in Functions]]
+- [[Function Expressions]]
   - [[Callback Functions]]
 
 Functions are the main building blocks of scripts. A function declaration looks like this:
@@ -39,3 +38,5 @@ It is always easier to understand a function which gets parameters, works with t
 - A name should clearly describe what the function does. When we see a function call in the code, a good name instantly gives us an understanding what it does and returns.
 - A function is an action, so function names are usually verbal.
 - There exist many well-known function prefixes like create…, show…, get…, check… and so on. Use them to hint what a function does.
+
+---

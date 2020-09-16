@@ -2,7 +2,7 @@
 layout: note
 title: Function Parameters
 parent: JavaScript
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Function Parameters
@@ -58,3 +58,5 @@ showMessage(from, 'Hello'); // *Ann*: Hello
 // the value of "from" is the same, the function modified a local copy
 alert(from); // Ann
 ```
+
+---

@@ -2,7 +2,7 @@
 layout: note
 title: JS Hexadecimal
 parent: JavaScript
-nav_exclude: true
+grand_parent: Home
 ---
 
 # JS Hexadecimal
@@ -19,3 +19,5 @@ twoDecimalPlaces;
 ```
 
 **Do not create Number objects. It slows down execution speed. The new keyword complicates the code. This can produce some unexpected results**
+
+---

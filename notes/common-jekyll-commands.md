@@ -7,7 +7,6 @@ nav_exclude: true
 
 # Common Jekyll Commands
 
-
 The jekyll program has several commands but the structure is always:
 
 ```shell
@@ -20,7 +19,7 @@ $ jekyll command [argument] [option] [argument_to_option]
 
 `jekyll new PATH --blank` Creates a new blank Jekyll site scaffold at specified path.
 
-`jekyll build` or `jekyll b` Performs a one off build your site to ./_site (by default).
+`jekyll build` or `jekyll b` Performs a one off build your site to ./\_site (by default).
 
 `jekyll serve` or `jekyll s` [[Launch and Run Jekyll Site Locally]].
 
@@ -32,13 +31,4 @@ $ jekyll command [argument] [option] [argument_to_option]
 
 `jekyll doctor` Outputs any deprecation or configuration issues.
 
-**Typically you’ll use jekyll serve while developing locally and jekyll build when you need to generate the site for production.**## Backlinks
-* [[Launch and Run Jekyll Site Locally]]
-	* [[Common Jekyll Commands]]
-
-## Backlinks
-* [[Common Jekyll Commands]]
-	* [[Common Jekyll Commands]]
-* [[Launch and Run Jekyll Site Locally]]
-	* [[Common Jekyll Commands]]
-
+**Typically you’ll use jekyll serve while developing locally and jekyll build when you need to generate the site for production.**

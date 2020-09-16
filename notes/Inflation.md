@@ -6,6 +6,7 @@ nav_exclude: true
 ---
 
 # What is Inflation
+
 As prices rise, a single unit of currency loses it's value as it buys fewer goods and services. This loss of purchasing power impacts the general cost of living which ultimately leads to a deceleration in economic growth. Inflation is the rate at which the general level of prices for goods and services is rising and, consequently, the purchasing power of currency is falling. The most commonly used inflation indexes are the Consumer Price Index (CPI) and the Wholesale Price Index (WPI).
 
 Standard inflation allows companies to pass the increased costs of their own raw materials on to customers, but high inflation wreaks havoc-forcing customers to slash their purchases, depressing activity throughout the economy.
@@ -18,16 +19,4 @@ On a macro level, an optimum level of inflation is required to promote spending 
 
 To guard against inflation, a common advice is to invest in [[Stock Markets]], but stocks failed to keep up with inflation about one-fifth of the time.
 
-* To combat inflation, additionally look into REITs, and government bonds.## Backlinks
-* [[Stock Markets]]
-	* [[What is Inflation]]
-* [[Asset Allocation]]
-	* [[What is Inflation]]
-
-## Backlinks
-* [[Asset Allocation]]
-	* [[What is Inflation]]
-* [[What is Inflation]]
-	* [[What is Inflation]]
-	* [[What is Inflation]]
-
+- To combat inflation, additionally look into REITs, and government bonds.

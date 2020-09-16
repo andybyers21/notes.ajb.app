@@ -12,17 +12,17 @@ has_toc: false
 
 ## JavaScript Basics
 
-- [JavaScript Basics](../javascript/JavaScript Basics)
-- [The JavaScript Comma](../javascript/The JavaScript Comma)
-- [JavaScript Comments](../javascript/JavaScript Comments)
-- [JavaScript Events](../javascript/JavaScript Events)
+- [[JavaScript Basics]]
+- [[The JavaScript Comma]]
+- [[JavaScript Comments]]
+- [[JavaScript Events]]
 
 ## JavaScript Variables
 
-- [Variables in JavaScript](../javascript/Variables in JavaScript)
-  - [Variables in the Real World - JS](../javascript/Variables in the Real World - JS)
-  - [Constant Variables](../javascript/Constant Variables)
-- [The Difference Between Var and Let](../javascript/The Difference Between Var and Let)
+- [[Variables in JavaScript]]
+  - [[Variables in the Real World]]
+  - [[Constant Variables]]
+- [[The Difference Between Var and Let]]
 
 ## Data Types in JavaScript
 
@@ -35,8 +35,8 @@ message = 123456;
 
 ### Numbers and Arithmetic
 
-- [JS Hexadecimal](../javascript/JS Hexadecimal)
-- [Numbers and Arithmetic in JavaScript](../javascript/Numbers and Arithmetic in JavaScript)
+- [[JS Hexadecimal]]
+- [[Numbers & Arithmetic in JavaScript]]
   - [Adding Numbers and Strings]
   - [Arithmetic in JavaScript]
 - [JavaScript Precision]
@@ -80,15 +80,15 @@ In addition to text strings and numbers there are 6 more major data types to be 
 
 ## JavaScript Functions
 
-- [JavaScript Functions](../javascript/JavaScript Functions)
-  - [Anonymous Functions](../javascript/Anonymous Functions)
-  - [Function Parameters](../javascript/Function Parameters)
-  - [Function Scope and Conflicts](../javascript/Function Scope and Conflicts)
-  - [Function Return Values](../javascript/Function Return Values)
-  - [Default Values in Functions](../javascript/Default Values in Functions)
-- [Functions Summary](../javascript/Functions Summary)
-- [Function Expressions](../javascript/Function Expressions)
-  - [Callback Functions](../javascript/Callback Functions)
+- [[JavaScript Functions]]
+  - [[Anonymous Functions]]
+  - [[Function Parameters]]
+  - [[Function Scope and Conflicts]]
+  - [[Function Return Values]]
+  - [[Default Values in Functions]]
+- [[Functions Summary]]
+- [[Function Expressions]]
+  - [[Callback Functions]]
 
 ## Conditionals Operators in JavaScript
 
@@ -123,7 +123,8 @@ There are three logical operators in JavaScript. They can be applied to any valu
 - [Writing JS code]
 
 ---
-## Backlinks
-* [[Introduction to Front End Coding]]
-	* Front end coding lives primarily in your browser. When you search or click a link your browser receives [[HTML]] files from the server, which will in turn tell the browser to retreive the [[CSS]], [[JavaScript]] or whatever other files it requires. You browser will the figure out how to put it all together based on the instructions from the HTML.
 
+## Backlinks
+
+- [[Introduction to Front End Coding]]
+  - Front end coding lives primarily in your browser. When you search or click a link your browser receives [[HTML]] files from the server, which will in turn tell the browser to retreive the [[CSS]], [[JavaScript]] or whatever other files it requires. You browser will the figure out how to put it all together based on the instructions from the HTML.

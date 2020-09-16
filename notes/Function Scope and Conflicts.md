@@ -2,7 +2,7 @@
 layout: note
 title: Function Scope and Conflicts
 parent: JavaScript
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Function Scope and Conflicts
@@ -37,3 +37,5 @@ function greeting() {
 ```
 
 Both functions you want to call are called `greeting()`, but you can only ever access the first.js file's `greeting()` function (the second one is ignored). In addition, attempting to declare the name variable a second time with the let keyword in the second.js file results in an error. Keeping parts of your code locked away in functions avoids such problems, and is considered the best practice.
+
+---

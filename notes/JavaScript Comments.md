@@ -2,7 +2,7 @@
 layout: note
 title: JavaScript Comments
 parent: JavaScript
-nav_exclude: true
+grand_parent: Home
 ---
 
 # JavaScript Comments
@@ -11,7 +11,7 @@ nav_exclude: true
 
 or, if your comment spans multiple lines
 
-```
+```js
 /*
 Everything
 in
@@ -20,3 +20,5 @@ is
 a comment.
 */
 ```
+
+---

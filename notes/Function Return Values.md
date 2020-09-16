@@ -2,7 +2,7 @@
 layout: note
 title: Function Return Values
 parent: JavaScript
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Function Return Values
@@ -126,3 +126,5 @@ return some + long + expression + or + whatever * f(a) + f(b);
 ```
 
 And it will work just as we expect it to.
+
+---

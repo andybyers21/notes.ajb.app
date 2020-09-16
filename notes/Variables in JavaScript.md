@@ -2,7 +2,7 @@
 layout: note
 title: Variables in JavaScript
 parent: JavaScript
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Variables in JavaScript
@@ -113,3 +113,5 @@ _Older scripts tend to make use of `var` to define a variable. (Instead of `let`
 | Object   | This can be anything. **Everything in JavaScript is an object**, and can be stored in a variable. Keep this in mind as you learn. | `let myVariable = document.querySelector('h1');` All of the above examples too.                                              |
 
 _Variables are necessary to do anything interesting in programming. If values couldn't change, then you couldn't do anything dynamic, like personalize a greeting message or change an image in an image gallery._
+
+---

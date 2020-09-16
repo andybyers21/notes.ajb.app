@@ -2,7 +2,7 @@
 layout: note
 title: JavaScript Functions
 parent: JavaScript
-nav_exclude: true
+grand_parent: Home
 ---
 
 # JavaScript Functions
@@ -137,3 +137,5 @@ showMessage();
 
 alert(userName); // John, unchanged, the function did not access the outer variable
 ```
+
+---

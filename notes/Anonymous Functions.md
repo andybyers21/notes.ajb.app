@@ -2,7 +2,7 @@
 layout: note
 title: Anonymous Functions
 parent: JavaScript
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Anonymous Functions
@@ -63,3 +63,5 @@ myButton.onclick = function () {
   // inside here as I want
 };
 ```
+
+---

@@ -2,10 +2,10 @@
 layout: note
 title: Variables in the Real World
 parent: JavaScript
-nav_exclude: true
+grand_parent: Home
 ---
 
-# Variables in the Real World, JS
+# Variables in the Real World
 
 The easiest way to visualize a variable is as a box with data inside and a sticker on the outside. For instance, the variable "message" can be imagined as a box labeled "message" with the value "Hello!" in it. YOu can put whatever value you like in a box and also change it out later in the code when required.
 
@@ -55,3 +55,5 @@ There are only two limitations to variable naming in JavaScript:
 When the name contains multiple words, camelCase is commonly used. That is: words go one after another, each word except first starting with a capital letter: `myVeryLongName`. There is a list of [reserved words](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords), which cannot be used as variable names because they are used by the language itself, names such as `let`, `class`, `return`, and `function` will return a syntax error.
 
 A variable should always be named before using it. (Although it is technically possible to create a variable by by assignment only it's not good problems and will probably cause you an issue down the road).
+
+---
