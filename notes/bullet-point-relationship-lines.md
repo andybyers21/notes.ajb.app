@@ -5,7 +5,7 @@ parent: CSS
 grand_parent: Home
 ---
 
-# Bullet Point Relationship Lines CSS
+# Bullet Point Relationship Lines
 
 ```css
 .cm-hmd-list-indent .cm-tab,

@@ -5,7 +5,7 @@ parent: Wealth Creation
 grand_parent: Home
 ---
 
-# What are Index Funds
+# Index Funds
 
 _Index funds are simple. Rather than try to time the market or outguess other professional money managers about the prospects of individual stocks, index funds simply buy and hold all of the stocks in a broad market index such as the S&P 500._
 

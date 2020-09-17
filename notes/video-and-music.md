@@ -5,9 +5,9 @@ parent: Web Design
 grand_parent: Home
 ---
 
-# Web Design Resources
+# Video & Music
 
-## Video & Music
+## Web Design Resources
 
 | Link                                     | Comments                          |
 | ---------------------------------------- | --------------------------------- |

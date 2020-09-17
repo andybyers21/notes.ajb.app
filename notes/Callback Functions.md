@@ -5,7 +5,7 @@ parent: JavaScript
 grand_parent: Home
 ---
 
-# Callback functions
+# Callback Functions
 
 Let’s look at more examples of passing functions as values and using function expressions.
 

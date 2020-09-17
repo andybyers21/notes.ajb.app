@@ -5,7 +5,7 @@ parent: Wealth Creation
 grand_parent: Home
 ---
 
-# What are Corrections
+# Corrections
 
 A 10% fall in the [[Stock Markets]] is called a correction. On average, there’s been a market correction every year since 1900. Corrections are just a routine part of the game. **Instead of living in fear of them, you have to accept them as regular occurrences**
 

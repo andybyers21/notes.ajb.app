@@ -5,7 +5,7 @@ parent: C-Sharp
 grand_parent: Home
 ---
 
-# Branches & Loops
+# Branches and Loops
 
 ## If...Else Statements
 

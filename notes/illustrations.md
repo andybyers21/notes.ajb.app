@@ -5,9 +5,9 @@ parent: Web Design
 grand_parent: Home
 ---
 
-# Web Design Resources
+# Illustrations
 
-## Illustrations
+## Web Design Resources
 
 | Link                                                       | Comments                                         |
 | ---------------------------------------------------------- | ------------------------------------------------ |

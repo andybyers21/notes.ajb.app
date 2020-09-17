@@ -5,7 +5,7 @@ parent: Wealth Creation
 grand_parent: Home
 ---
 
-# What are Family Offices
+# Family Offices
 
 Family offices are private wealth management advisory firms that serve high net worth individuals. They differ from traditional wealth management shops in that they offer full service solution to managing the financial and investment side of an individual or family. In addition to investment advice they will offer budgeting, insurance, charitable giving, family-owned businesses, wealth transfer, and tax services. These advisory firms are usually referrred to as multi-family offices.
 

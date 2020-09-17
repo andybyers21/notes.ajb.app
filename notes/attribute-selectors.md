@@ -5,7 +5,7 @@ parent: CSS
 grand_parent: Home
 ---
 
-# CSS Attribute Selectors
+# Attribute Selectors
 
 CSS has the ability to target HTML elements based on any one of their attributes.
 

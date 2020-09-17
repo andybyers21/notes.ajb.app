@@ -5,7 +5,9 @@ parent: CSS
 grand_parent: Home
 ---
 
-# Improve Compatibility with Browser Fallbacks
+# Browser Fallbacks
+
+## Improve Compatibility with Browser Fallbacks
 
 When working with CSS you will likely run into browser compatibility issues at some point. This is why it's important to provide browser fallbacks to avoid potential problems.
 

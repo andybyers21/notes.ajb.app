@@ -5,7 +5,7 @@ parent: Wealth Creation
 grand_parent: Home
 ---
 
-# What is Inflation
+# Inflation
 
 As prices rise, a single unit of currency loses it's value as it buys fewer goods and services. This loss of purchasing power impacts the general cost of living which ultimately leads to a deceleration in economic growth. Inflation is the rate at which the general level of prices for goods and services is rising and, consequently, the purchasing power of currency is falling. The most commonly used inflation indexes are the Consumer Price Index (CPI) and the Wholesale Price Index (WPI).
 

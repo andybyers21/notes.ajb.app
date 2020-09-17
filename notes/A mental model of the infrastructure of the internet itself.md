@@ -5,7 +5,7 @@ parent: Web Infrastructure
 grand_parent: Home
 ---
 
-# A mental model of the infrastructure of the internet itself.
+# A Mental Model of the Infrastructure of the Internet
 
 At its most basic, the Internet is a large network of computers which communicate together.
 

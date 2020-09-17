@@ -5,9 +5,9 @@ parent: Python
 grand_parent: Home
 ---
 
-_This page needs to be reformatted_
-
 # Built-in Constants
+
+_This page needs to be reformatted_
 
 A small number of constants live in the built-in namespace. They are:
 

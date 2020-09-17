@@ -5,7 +5,7 @@ parent: Wealth Creation
 grand_parent: Home
 ---
 
-# What are Mutual Funds
+# Mutual Funds
 
 A mutual fund is a public fund available for nyone to buy into. In most cases, they are actively managed by a team who assembles a portfolio of stocks, bonds, or other assets classes and continually trades their holdings in _hopes to beat the market._
 

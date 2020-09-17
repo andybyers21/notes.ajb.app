@@ -6,7 +6,7 @@ has_children: true
 has_toc: false
 ---
 
-# Audience building
+# Audience Building
 
 - [[Audience is a Super Power]]
   - [[Own Your Distribution]]

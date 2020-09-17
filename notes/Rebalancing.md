@@ -5,7 +5,9 @@ parent: Wealth Creation
 grand_parent: Home
 ---
 
-# Don't sell out. Rebalance
+# Rebalancing
+
+## Don't sell out. Rebalance
 
 Over the course of the year, the market value of each security within your portfolio earned a different return, resulting in a weighting change. You find that the weighting of each asset class in your portfolio has changed. Rebalancing entails bringing your portfolio back to your original [[Asset Allocation]] on a regular basis.
 

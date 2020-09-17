@@ -5,7 +5,7 @@ parent: JavaScript
 grand_parent: Home
 ---
 
-# Functions Summary
+# JavaScript Functions
 
 - [[JavaScript Functions]]
   - [[Anonymous Functions]]

@@ -5,9 +5,9 @@ parent: Web Design
 grand_parent: Home
 ---
 
-# Web Design Resources
+# Curated Lists
 
-## Curated Lists
+## Web Design Resources
 
 | Link                                                                                                            | Comments                                              |
 | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |

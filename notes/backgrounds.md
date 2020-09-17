@@ -5,9 +5,9 @@ parent: Web Design
 grand_parent: Home
 ---
 
-# Web Design Resources
+# Backgrounds & Banner Templates
 
-## Backgrounds & Banner Templates
+## Web Design Resources
 
 | Link                                                        | Comments                                                                                                                                                            |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

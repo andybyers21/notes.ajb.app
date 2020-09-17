@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Strings
+title: Handling strings in C-Sharp
 parent: C-Sharp
 grand_parent: Home
 ---

@@ -5,7 +5,7 @@ parent: Jekyll
 grand_parent: Home
 ---
 
-# Jekyll Updates
+# Update Jekyll
 
 **Stay Up to Date**
 

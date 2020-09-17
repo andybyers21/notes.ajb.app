@@ -5,7 +5,7 @@ parent: Wealth Creation
 grand_parent: Home
 ---
 
-# What are Hedge Funds
+# Hedge Funds
 
 Hedge funds are private funds, usually only available only to high-net-worth investors (usually via a [[Family Office]]. The managers have complete flexibility to bet on both directions of the market (up or down). They charge hefty fees (typically a minimum of 2%) and share in the profits (typically 20% of profits go to the manager).
 

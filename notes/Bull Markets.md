@@ -5,7 +5,7 @@ parent: Wealth Creation
 grand_parent: Home
 ---
 
-# What are Bull Markets
+# Bull Markets
 
 A [[Stock Markets]] bull market means that prices are progressively rising, going up aggressively, usually in the longer term.
 

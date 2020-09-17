@@ -5,7 +5,7 @@ parent: JavaScript
 grand_parent: Home
 ---
 
-# The JavaScript Comma,
+# The JavaScript Comma
 
 The comma `,` operator is sometimes used to write shorter code. It allows us to several expressions, dividing them with a comma `,` each is evaluated but only the last is returned. For example:
 

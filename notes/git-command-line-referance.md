@@ -5,7 +5,7 @@ parent: Version Control
 grand_parent: Home
 ---
 
-# Git Command Line References (Cheatsheet)
+# Git Command Line References
 
 This is a reference list of the most commonly used Git commands. Try to familiarize yourself with the commands so that you can eventually remember them all:
 

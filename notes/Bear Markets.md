@@ -5,7 +5,7 @@ parent: Wealth Creation
 grand_parent: Home
 ---
 
-# What are Bear Markets
+# Bear Markets
 
 [[Stock Markets]] can be wildly volatile along the way. It’s not unusual for the market to fall 20% to 50% every few years. On average, the market is down about one in every four years. A bear market means prices are dropping at a rate of over 20% over the short term. Historically, bear markets have happened every three to five years on average but the gap between bear markets and bull markets ([[Bull Markets]]) is getting longer in modern times
 

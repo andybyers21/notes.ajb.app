@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Refactoring
+title: What is Refactoring
 parent: Coding Fundamentals
 grand_parent: Home
 ---

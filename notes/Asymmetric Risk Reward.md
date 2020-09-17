@@ -5,7 +5,7 @@ parent: Wealth Creation
 grand_parent: Home
 ---
 
-# Create Asymmetric Risk Reward
+# Asymmetric Risk Reward
 
 According to conventional wisdom, you need to take big risks to achieve big returns. But the best investors don’t fall for the high-risk, high-return myth. Instead, they hunt for investment opportunities that offer asymmetric risk/reward: a fancy way of saying that the rewards should vastly outweigh the risks. In other words, always seek to risk as little as possible to make as much as possible.
 

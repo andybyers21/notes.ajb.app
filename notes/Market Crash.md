@@ -5,7 +5,7 @@ parent: Wealth Creation
 grand_parent: Home
 ---
 
-# What is a Market Crash
+# Market Crash
 
 [[Stock Markets]] crashes happen more often than you might. The key to surviving them is being prepared. They occur after significant and rapid declines in the stock market over a short period of time (potentially as short as one day in some cases). Any one-day decline of 10% or more in a single day can be described as a market crash.
 

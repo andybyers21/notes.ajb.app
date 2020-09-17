@@ -5,7 +5,7 @@ parent: Wealth Creation
 grand_parent: Home
 ---
 
-# Why Holding Cash is a Bad Investment
+# Holding Cash is a Bad Investment
 
 If you want to be certain that you’ll never lose money in the [[Stock Markets]], you can keep your savings in cash—but then you’ll never stand a chance of achieving financial freedom. As [[Warren Buffet Knowledge]] says, “We pay a high price for certainty". Simply saving money doesn’t generate future wealth.
 
