@@ -7,6 +7,8 @@ This is the data for my Evergreen notes vault hosted at [notes.ajb.app](https://
 It's built on the excellent [Just the Docs](https://pmarsceill.github.io/just-the-docs/) framework by [
 Patrick Marsceill](https://github.com/pmarsceill). Search is made possible by [Lunr.js](https://lunrjs.com/).
 
-Notes are written in markdown format and I can easily create links to related thoughts using **[[Wikilinks]]**. 
+Backlinks maintained with Andy Matuschak's [note-link-janitor](https://github.com/andymatuschak/note-link-janitor)
 
-Feel free to use the source code as you like. Its hosted under [the MIT license](https://opensource.org/licenses/MIT). If you do use it, let me know what you come up with. 
+Notes are written in markdown format and I can easily create links to related thoughts using **[[Wikilinks]]**.
+
+Feel free to use the source code as you like. Its hosted under [the MIT license](https://opensource.org/licenses/MIT). If you do use it, let me know what you come up with.
