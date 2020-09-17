@@ -20,7 +20,7 @@ var makeString = 22.ToString();
 
 ## Template Literals
 
-Template literals make complex [[Strings]] easier to maintain by using string interpolation. Simply put, filling in the blanks in a string by using elements in an object.
+Template literals make complex [[Handling strings in C-Sharp]] easier to maintain by using string interpolation. Simply put, filling in the blanks in a string by using elements in an object.
 
 String literals can be multiline which removes the need for line breaks `\n` and can also concatenate. `"${a + b}";`
 

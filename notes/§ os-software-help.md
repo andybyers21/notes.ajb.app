@@ -23,4 +23,8 @@ has_toc: false
 
 - [[Always Show Full URLs in Google Chrome]]
 
+## HomeBrew
+
+- [[Homebrew Common Commands]]
+
 ---

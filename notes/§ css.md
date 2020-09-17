@@ -9,7 +9,7 @@ has_toc: false
 # CSS
 
 - [[CSS Basics]]
-- [[Improve Compatibility with Browser Fallbacks]]
+- Improve Compatibility with [[Browser Fallbacks]]
 - [[Attribute Selectors]]
 
 ## Snippets

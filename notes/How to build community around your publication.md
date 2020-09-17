@@ -2,7 +2,6 @@
 layout: note
 title: How to Build Community Around Your Publication
 parent: Audience Building
-nav_exclude: true
 grand_parent: Home
 ---
 

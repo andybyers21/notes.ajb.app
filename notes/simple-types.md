@@ -24,7 +24,7 @@ string myString; // An array of char's.
 // Strings should be written in "double quotes"
 ```
 
-- (Further info on [[Strings]] here).
+- (Further info on [[Handling strings in C-Sharp]] here).
 
 Many other types exist in C-Sharp. However those are all made up of the above simple types in combination with [[Number Types]]
 

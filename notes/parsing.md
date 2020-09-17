@@ -9,7 +9,7 @@ grand_parent: Home
 
 Parsing is taking information from a source and interpreting in in another way. For example, taking a string and parsing it to an integer so you can apply it to a mathematical function.
 
-**The parse [[Methods]] is specific in that it only converts [[Strings]] to other types.** (Use the `ToString()` method to convert other types to strings). The purpose of `.Parse` is to make a string representation of other types.
+**The parse [[Methods]] is specific in that it only converts Strings to other types.** (Use the `ToString()` method to convert other types to strings). (See: [[Handling strings in C-Sharp]]). The purpose of `.Parse` is to make a string representation of other types.
 
 For example:
 

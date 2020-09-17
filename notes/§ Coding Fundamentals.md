@@ -17,7 +17,7 @@ has_toc: false
 
 ## Practices
 
-- [[Refactoring]]
+- [[What is Refactoring]]
 - [[Object Oriented Programming]]
 
 ---

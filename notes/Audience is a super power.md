@@ -2,7 +2,6 @@
 layout: note
 title: Audience is a Super Power
 parent: Audience Building
-nav_exclude: true
 grand_parent: Home
 ---
 

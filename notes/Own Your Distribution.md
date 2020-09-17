@@ -2,7 +2,6 @@
 layout: note
 title: Own Your Distribution
 parent: Audience Building
-nav_exclude: true
 grand_parent: Home
 ---
 

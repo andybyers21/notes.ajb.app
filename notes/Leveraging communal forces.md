@@ -2,7 +2,6 @@
 layout: note
 title: Leveraging Communal Forces
 parent: Audience Building
-nav_exclude: true
 grand_parent: Home
 ---
 

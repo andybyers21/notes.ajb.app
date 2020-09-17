@@ -86,7 +86,7 @@ In addition to text strings and numbers there are 6 more major data types to be 
   - [[Function Scope and Conflicts]]
   - [[Function Return Values]]
   - [[Default Values in Functions]]
-- [[Functions Summary]]
+- **[[JavaScript Functions]] Summary**
 - [[Function Expressions]]
   - [[Callback Functions]]
 

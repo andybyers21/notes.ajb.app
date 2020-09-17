@@ -15,7 +15,7 @@ A place to store my notes on C-Sharp as I learn the syntax
 - [[Simple Types]]
 - [[Numbers]]
   - [[Number Types]]
-- [[Strings]]
+- [[Handling strings in C-Sharp]]
 - [[Var Data Type and Anonymous Type]]
 - [[Default Values]]
 
@@ -30,7 +30,7 @@ A place to store my notes on C-Sharp as I learn the syntax
 
 ## Branches & Loops
 
-- [[Branches & Loops]]
+- [[Branches and Loops]]
 - If-else Statements
 
 ## OOP

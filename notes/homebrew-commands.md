@@ -2,7 +2,7 @@
 layout: note
 title: Homebrew Common Commands
 parent: OS and Software Help
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Homebrew Common Commands
@@ -39,3 +39,5 @@ nav_exclude: true
 | **Cask is a homebrew extension to install GUI packages** |
 | `brew cask install <package>`                            | Install the cask packages |
 | `brew cask list`                                         | List installed applications |
+
+---
