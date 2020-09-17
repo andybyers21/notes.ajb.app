@@ -42,5 +42,3 @@ has_toc: false
 ## GUI's
 
 - [[Tkinter]]
-
----

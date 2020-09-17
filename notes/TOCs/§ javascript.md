@@ -121,5 +121,3 @@ There are three logical operators in JavaScript. They can be applied to any valu
 ### Writing code in JavaScript
 
 - [Writing JS code]
-
----

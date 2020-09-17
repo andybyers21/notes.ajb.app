@@ -19,5 +19,3 @@ has_toc: false
 
 - [[What is Refactoring]]
 - [[Object Oriented Programming]]
-
----

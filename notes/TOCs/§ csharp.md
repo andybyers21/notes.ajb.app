@@ -47,5 +47,3 @@ A place to store my notes on C-Sharp as I learn the syntax
 
 - [[.NET]]
 - [[ASP.NET]]
-
----

@@ -24,5 +24,3 @@ has_toc: false
 - [[CSS Effects]]
 - [[Color Pallets]]
 - [[Curated Lists]]
-
----

@@ -14,5 +14,3 @@ Here you will find links to some of my more developed essays which are categoriz
 ## Networking (& Contact Management)
 
 - [[Creating a Contact Management Strategy For Growth]]
-
----

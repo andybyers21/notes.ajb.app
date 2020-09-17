@@ -15,5 +15,3 @@ has_toc: false
 ## Snippets
 
 - [[Bullet Point Relationship Lines]]
-
----

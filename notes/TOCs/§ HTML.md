@@ -27,6 +27,3 @@ has_toc: false
 
 - [[Image Elements]]
 - [[Native Image Lazy Loading]]
-
----
-

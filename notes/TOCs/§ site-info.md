@@ -29,5 +29,3 @@ has_toc: false
 - Notes are written in markdown format and related thoughts linked with **[[Wikilinks]]**.
 
 - Hosted under [the MIT license](https://opensource.org/licenses/MIT).
-
----

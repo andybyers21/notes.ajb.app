@@ -12,5 +12,3 @@ has_toc: false
   - [[Own Your Distribution]]
 - [[How to Build Community Around Your Publication]]
 - [[Leveraging Communal Forces]]
-
----

@@ -26,5 +26,3 @@ has_toc: false
 ## HomeBrew
 
 - [[Homebrew Common Commands]]
-
----

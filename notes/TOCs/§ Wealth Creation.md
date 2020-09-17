@@ -47,5 +47,3 @@ has_toc: false
 - [[Rebalancing]]
 - [[Diversified Returns]]
 - [[Holding Cash is a Bad Investment]]
-
----
