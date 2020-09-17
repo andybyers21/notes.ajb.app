@@ -2,12 +2,15 @@
 layout: note
 title: Color Pallets
 parent: Web Design
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Web Design Resources
+
 ## Color Pallets
 
-|Link  | Comments
-|-----------------|---------------------
+| Link                                                            | Comments |
+| --------------------------------------------------------------- | -------- |
 | [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) |
+
+---

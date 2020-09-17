@@ -2,7 +2,7 @@
 layout: note
 title: Clients & Servers
 parent: Web Infrastructure
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Clients & Servers
@@ -16,3 +16,5 @@ Clients are the end users devices that are connected to the internet. (e.g. your
 ## Servers
 
 Servers are computers that store the websites, pages and app data. When a client wants to access it a copy of the content on the server it is downloaded from the server onto your device and displayed in your browser.
+
+---

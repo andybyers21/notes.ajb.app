@@ -2,7 +2,7 @@
 layout: note
 title: Git Glossary
 parent: Version Control
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Git Glossary
@@ -16,3 +16,5 @@ nav_exclude: true
 - **fork:** a copy of a repository on GitHub owned by a different user
 - **pull request:** a place to compare and discuss the differences introduced on a branch with reviews, comments, integrated tests, and more
 - **HEAD:** representing your current working directory, the HEAD pointer can be moved to different branches, tags, or commits when using git checkout
+
+---

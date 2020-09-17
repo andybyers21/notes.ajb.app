@@ -2,7 +2,7 @@
 layout: note
 title: Bonds
 parent: Wealth Creation
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Bonds
@@ -14,3 +14,5 @@ Corporate bonds are typically seen as riskier (see: [[Asymmetric Risk Reward]]) 
 In general, bonds are considered to be more conservative investments than stocks and also typically pay regular interest payments to investors. As a result, bond prices vary inversely with interest rates, falling when rates go up and vice-versa. Because bonds pay a steady interest stream, called the coupon, owners of bonds have to pay regular income taxes on the funds received. For this reason, bonds are best kept in a tax sheltered account, like an IRA, to gain tax advantages not present in a standard brokerage account.
 
 They are generally much safer than stocks because the borrower is legally required to repay you. If you hold a bond to maturity, you’ll receive all of your original loan back, plus the interest payments—unless the bond issuer goes bankrupt.
+
+---

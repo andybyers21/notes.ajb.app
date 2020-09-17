@@ -2,7 +2,7 @@
 layout: note
 title: Stock Markets
 parent: Wealth Creation
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Stock Markets

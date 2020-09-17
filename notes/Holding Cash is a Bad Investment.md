@@ -2,7 +2,7 @@
 layout: note
 title: Holding Cash is a Bad Investment
 parent: Wealth Creation
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Why Holding Cash is a Bad Investment
@@ -14,3 +14,5 @@ Holding cash is a poor [[Asset Allocation]] strategy. Does not provide you with 
 **Cash doesn’t earn a return, so it will underperform stocks over time** The challenge is that you earn nothing these days if you keep your money in cash. Even worse the value of cash will go down over time. As the market inflates, [[Inflation]].
 
 At least bonds provide some income. As I see it, bonds are now the cleanest dirty clothing in the laundry pile.
+
+---

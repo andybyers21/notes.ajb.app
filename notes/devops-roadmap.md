@@ -2,9 +2,11 @@
 layout: note
 title: DevOps Roadmap
 parent: Web Development Concepts
-nav_exclude: true
+grand_parent: Home
 ---
 
 # DevOps Roadmap
 
 ![DevOps Roadmap](./attachments/roadmap-devops.png)
+
+---

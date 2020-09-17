@@ -2,7 +2,7 @@
 layout: note
 title: Bear Markets
 parent: Wealth Creation
-nav_exclude: true
+grand_parent: Home
 ---
 
 # What are Bear Markets
@@ -21,3 +21,5 @@ Bear markets are likely to continue happening every few years, whether we like i
 > _--Jack Bogle_
 
 **_Bear Markets Become Bull Markets, and Pessimism Becomes Optimism_**
+
+---

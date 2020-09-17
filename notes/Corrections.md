@@ -2,7 +2,7 @@
 layout: note
 title: Corrections
 parent: Wealth Creation
-nav_exclude: true
+grand_parent: Home
 ---
 
 # What are Corrections

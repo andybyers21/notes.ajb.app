@@ -2,7 +2,7 @@
 layout: note
 title: Alternative Investments
 parent: Wealth Creation
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Alternative Investments
@@ -13,8 +13,10 @@ Most alternative assets are fairly illiquid, especially compared to their conven
 
 Many alternative investments have high minimum buy-in and fee structures, especially when compared to [[Index Funds]], [[Bonds]] and [[Mutual Funds]]. These investments also have less opportunity to publish verifiable performance data and advertise to potential investors.
 
-Transaction costs can vary wildly depending on the traded asset, for example gold has fairly low transaction costs, low tax, no selelr fees. But fine art will have a high buyer/ seller cost such as auction house fees. Assets such as real estate and classic cars will also have maintainice and/or repair costs attached in order to realise the full value.
+Transaction costs can vary wildly depending on the traded asset, for example gold has fairly low transaction costs, low tax, no seller fees. But fine art will have a high buyer/ seller cost such as auction house fees. Assets such as real estate and classic cars will also have maintainice and/or repair costs attached in order to realise the full value.
 
 Gold produces very little income and is not a critical resource. Warren Buffett said, “Gold gets dug out of the ground in Africa, or someplace. Then we melt it down, dig another hole, bury it again, and pay people to stand around guarding it. It has no utility. Anyone watching from Mars would be scratching their head.”
 
 While it is possible to profit from investing directly in residential property, most of us can’t afford to diversify by owning a slew of houses or commercial property. However, it is possible to invest in publicly traded **Real Estate Investment Trusts (REITs)**. They provide a no-hassle, low-cost way to diversify broadly, both geographically and across different types of property without the associated costs of owning physical property.
+
+---

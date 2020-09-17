@@ -2,7 +2,7 @@
 layout: note
 title: Types of Networks
 parent: Web Infrastructure
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Types of Networks

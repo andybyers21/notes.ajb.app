@@ -2,7 +2,7 @@
 layout: note
 title: Introduction to Front End Coding
 parent: Web Development Concepts
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Introduction to Front End Coding
@@ -18,3 +18,5 @@ The front end developer handles all of the possible interactions that a user mig
 HTML, CSS and JavaScript are sometimes described as front end languages ([[Front End vs Back End Coding]]). They are the **component files** that make up a websites content. Commonly known as code files. (Other component files are known as **assets** which is a collective name for things like music, video, images and other documents such as PDF's).
 
 These code files are the building blocks of the web. Together they make **the public-facing part of a website that a user sees**. (Developers working primarily with these languages are often called ‘front-end developers’). A website will usually have separate CSS and HTML files.
+
+---

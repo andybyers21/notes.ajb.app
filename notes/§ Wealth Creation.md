@@ -12,38 +12,40 @@ has_toc: false
 
 ## Investment Principles
 
-- [Investment Goals](../wealth-creation/investment-goals)
-- [Being Unshakable (in regards to investing)](../wealth-creation/Being Unshakable (in regards to investing))
-- Create [Asymmetric Risk Reward](../wealth-creation/Asymmetric Risk Reward)
-- Use your [Family Office](../wealth-creation/Family Office) to your advantage
-- [Compound Interest](../wealth-creation/Compound Interest)
-- What is [Inflation](../wealth-creation/Inflation)
+- [[Investment Goals]]
+- [[Being Unshakable (in regards to investing)]]
+- Create [[Asymmetric Risk Reward]]
+- Use your [[Family Office]]
+- [[Compound Interest]]
+- What is [[Inflation]]
 
 ## Stock Markets
 
-- [Stock Markets](../wealth-creation/Stock Markets)
-  - What is a [Market Crash](../wealth-creation/Market Crash)
+- [[Stock Markets]]
+  - What is a [[Market Crash]]
 
 ### Market Trends
 
-- What are [Bull Markets](../wealth-creation/Bull Markets)
-- What are [Bear Markets](../wealth-creation/Bear Markets)
-- What are [Corrections](../wealth-creation/Corrections)
+- What are [[Bull Markets]]
+- What are [[Bear Markets]]
+- What are [[Corrections]]
 
 ## Asset Classes
 
-- What are [Hedge Funds](../wealth-creation/Hedge Funds)
-- What are [Index Funds](../wealth-creation/Index Funds)
-- What are [Mutual Funds](../wealth-creation/Mutual Funds)
-- What are [Bonds](../wealth-creation/Bonds)
-- What are [Alternative Investments](../wealth-creation/Alternative Investments)
+- What are [[Hedge Funds]]
+- What are [[Index Funds]]
+- What are [[Mutual Funds]]
+- What are [[Bonds]]
+- What are [[Alternative Investments]]
 
 **The vast majority of actively managed mutual funds overcharge for underperformance, which is why you’re so much better off with inexpensive index funds that you can hold for many years.**
 
 ### Asset Allocation
 
-- [Asset Allocation](../wealth-creation/Asset Allocation)
-  - [A Customized Approach to Asset Allocation](../wealth-creation/A Customised Approach to Asset Allocation)
-- [Rebalancing](../wealth-creation/rebalancing)
-- [Diversified Returns](../wealth-creation/Diversified Returns)
-- [Holding Cash is a Bad Investment](../wealth-creation/Holding Cash is a Bad Investment)
+- [[Asset Allocation]]
+  - [[A Customized Approach to Asset Allocation]]
+- [[Rebalancing]]
+- [[Diversified Returns]]
+- [[Holding Cash is a Bad Investment]]
+
+---

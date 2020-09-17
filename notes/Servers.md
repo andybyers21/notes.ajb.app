@@ -2,7 +2,7 @@
 layout: note
 title: Servers
 parent: Web Infrastructure
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Servers

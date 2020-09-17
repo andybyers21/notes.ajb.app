@@ -2,7 +2,7 @@
 layout: note
 title: Investment Goals
 parent: Wealth Creation
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Investment Goals
@@ -20,3 +20,5 @@ The core of your portfolio should be invested in [[Index Funds]] that simply mat
 Create a list of simple rules that spell out where you’re trying to go as an investor, what you have to watch out for, and how you plan to navigate the journey securely, so that when things get emotional, you stay the course and keep [[Being Unshakable (in regards to investing)]].
 
 Share your flight plan with someone you trust. Ideally, a sophisticated financial advisor. He or she can help you stick with the program by making sure you don’t violate your own rules with impulsive survival-brain decisions.
+
+---

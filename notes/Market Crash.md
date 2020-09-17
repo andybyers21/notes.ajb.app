@@ -2,7 +2,7 @@
 layout: note
 title: Market Crash
 parent: Wealth Creation
-nav_exclude: true
+grand_parent: Home
 ---
 
 # What is a Market Crash
@@ -20,3 +20,5 @@ Stock market crashes lead to severe negative outcomes such as:
 - Business suffer a significant loss to the bottom line
 
 Throughout a crash continue to invest heavily in the stock market. Take profits from strong asset classes such as [[Bonds]] and invest the proceeds in weaker asset classes such as US small-cap and large-cap stocks, international stocks, and emerging-markets. Instead of betting on individual companies, buy index fundsto gain instant [[Diversified Returns]] at a low cost across massively undervalued markets.
+
+---

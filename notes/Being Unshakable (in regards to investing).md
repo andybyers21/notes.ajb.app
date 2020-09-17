@@ -2,7 +2,7 @@
 layout: note
 title: Being Unshakable (in regards to investing)
 parent: Wealth Creation
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Being Unshakable (in regards to investing)
@@ -26,3 +26,5 @@ When you’re truly unshakeable, you have unwavering confidence even amidst the 
 But how are you going to get there? First, you’ve got to save and invest, **become an owner, not just a consumer.** Pay yourself first by taking a percentage of your income and having it deducted automatically from your paycheck or bank account. This will build your Freedom Fund: the source of lifetime income that will allow you to never have to work again.
 
 **”The ability to invest without fear is critically important.”**
+
+---

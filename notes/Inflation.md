@@ -2,7 +2,7 @@
 layout: note
 title: Inflation
 parent: Wealth Creation
-nav_exclude: true
+grand_parent: Home
 ---
 
 # What is Inflation
@@ -20,3 +20,5 @@ On a macro level, an optimum level of inflation is required to promote spending 
 To guard against inflation, a common advice is to invest in [[Stock Markets]], but stocks failed to keep up with inflation about one-fifth of the time.
 
 - To combat inflation, additionally look into REITs, and government bonds.
+
+---

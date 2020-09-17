@@ -1,11 +1,11 @@
 ---
 layout: note
-title: A Customised Approach to Asset Allocation
+title: A Customized Approach to Asset Allocation
 parent: Wealth Creation
-nav_exclude: true
+grand_parent: Home
 ---
 
-# A Customised Approach to Asset Allocation
+# A Customized Approach to Asset Allocation
 
 In reality, the type of assets you own should be matched to what you personally need to accomplish. The design of your portfolio must be based on your specific needs. Another priority is to create a customized game plan that minimizes your fees and tax liabilities. **A one-size-fits-all approach to asset allocation can be disastrous.**
 
@@ -22,3 +22,5 @@ In reality, the type of assets you own should be matched to what you personally 
 5. **Explore**. The core of your portfolio should be invested in index funds that simply match the market’s return. But at the margins, it can make sense to explore additional strategies that offer a reasonable chance of outperformance. **Look outside of just the [[Stock Markets]] for investment opportunities**
 
 6. **[[Rebalancing]]** Bring your portfolio back to your original asset allocation on a regular basis. At least once a year.
+
+---

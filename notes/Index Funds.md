@@ -2,7 +2,7 @@
 layout: note
 title: Index Funds
 parent: Wealth Creation
-nav_exclude: true
+grand_parent: Home
 ---
 
 # What are Index Funds
@@ -20,3 +20,5 @@ Index funds allow you to invest, **at minimal cost,** in a portfolio designed fo
 In a study performed by researchers Richard Bauer and Julie Dahlquist (over more than a million market-timing sequences from 1926 to 1999) they found that holding the market (via an index fund) outperformed more than 80% of market-timing strategies.
 
 Index funds can be highly profitble in a [[Bear Markets]] (or [[Corrections]]) to give you instant [[Diversified Returns]] (at a low cost) across massively undervalued markets.
+
+---
