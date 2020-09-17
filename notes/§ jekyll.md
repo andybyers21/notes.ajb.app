@@ -16,3 +16,5 @@ has_toc: false
 
 - [Official Jekyll Documentation](https://jekyllrb.com/docs/)
   - [GitHub repo's here](https://github.com/jekyll)
+
+---

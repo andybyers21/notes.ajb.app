@@ -28,7 +28,3 @@ The field of formal semantics encompasses the following:
 - It has close links with other areas of computer science such as programming language design, type theory, compilers and interpreters, program verification and model checking.
 
 ---
-## Backlinks
-* [[Computer Science]]
-	* [[Semantics]]
-

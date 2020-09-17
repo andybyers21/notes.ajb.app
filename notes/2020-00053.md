@@ -16,7 +16,3 @@ Some elements contain no content and are called empty elements. For example the 
 This contains two attributes but there is no closing `</img>`. This is because an image element does not wrap content to affect it. It's purpose is to embed an image in this spot in the html.
 
 ---
-## Backlinks
-* [[HTML]]
-	* [[Empty Elements]]
-
