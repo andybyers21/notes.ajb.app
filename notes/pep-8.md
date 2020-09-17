@@ -1,11 +1,11 @@
 ---
 layout: note
-title: PEP 8
+title: PEP-8
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
-# PEP 8
+# PEP-8
 
 ## The Python Style Guide
 
@@ -36,3 +36,5 @@ One of the key insights is that _code is read much more often than it is written
 | 12  | [Sample reStructuredText PEP Template](https://www.python.org/dev/peps/pep-0012/)       |
 | 387 | [Backwards Compatibility Policy](https://www.python.org/dev/peps/pep-0387/)             |
 | 609 | [PyPA Governance](https://www.python.org/dev/peps/pep-0609/)                            |
+
+---

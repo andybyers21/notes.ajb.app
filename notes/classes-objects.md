@@ -2,7 +2,7 @@
 layout: note
 title: Classes and Objects
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Classes and Objects
@@ -30,3 +30,5 @@ object.variable
 ```py
 new_object.function()
 ```
+
+---

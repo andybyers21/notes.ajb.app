@@ -1,11 +1,13 @@
 ---
 layout: note
-title: In interactive mode, the last printed expression is assigned to the variable `_`
+title: Underscores in Interactive Mode
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
-# In interactive mode, the last printed expression is assigned to the variable `_`
+# Underscores in Interactive Mode
+
+## In interactive mode, the last printed expression is assigned to the variable `_`
 
 This means that when you are using Python as a desk calculator, it is somewhat easier to continue calculations, for example:
 
@@ -19,3 +21,5 @@ This means that when you are using Python as a desk calculator, it is somewhat e
 >>> round(_, 2)
 113.06
 ```
+
+---

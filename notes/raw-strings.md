@@ -2,7 +2,7 @@
 layout: note
 title: Raw Strings
 parent: JavaScript
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Raw Strings
@@ -16,3 +16,5 @@ ame
 >>> print(r'C:\some\name')  # note the r before the quote.
 C:\some\name
 ```
+
+---

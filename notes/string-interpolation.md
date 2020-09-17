@@ -2,7 +2,7 @@
 layout: note
 title: String Interpolation
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
 # String Interpolation
@@ -39,3 +39,5 @@ age = 37
 string = f"Hello my name is {name} {surname}, I am {age} years old"
 # Hello my name is Andy Byers, I am 37 years old
 ```
+
+---

@@ -2,7 +2,7 @@
 layout: note
 title: Modules
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Modules
@@ -32,3 +32,5 @@ from module_name import *
 to import all objects
 
 **When you import a module into python code it will only initialize once.** No matter how many times you use it.
+
+---

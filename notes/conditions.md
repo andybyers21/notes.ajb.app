@@ -2,7 +2,7 @@
 layout: note
 title: Conditions
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Conditions
@@ -26,3 +26,5 @@ if statement is true:
 - **`==` matches values.**
 
 - **`is` matches instances.**
+
+---

@@ -8,37 +8,39 @@ has_toc: false
 
 # Python
 
-- [An Overview of the Python Language](../python/python-overview)
-- [PEP 8, The Python Style Guide](../python/pep-8)
-  - [Python Naming Conventions](../python/naming-conventions)
+- [[An Overview of the Python Language]]
+- [[PEP-8]], The Python Style Guide
+  - [[Python Naming Conventions]]
 
 ## Python Basics
 
-- [String Interpolation](../python/string-interpolation)
-- [String Operations](../python/string-operations)
-- [Conditions](../python/conditions)
-- [Loops](../python/loops)
-- [Functions](../python/functions)
-- [Classes and Objects](../python/classes-objects)
-  - A note on [Self](../python/self)
-- [Tuples and Lists](../python/tuples-lists)
-- [Dictionaries](../python/dictionaries)
+- [[String Interpolation]]
+- [[String Operations]]
+- [[Conditions]]
+- [[Loops]]
+- [[Functions]]
+- [[Classes and Objects]]
+  - A note on [[Constructors and Self]]
+- [[Tuples and Lists]]
+- [[Dictionaries]]
 
 ## Python, Batteries Included
 
-- [[Built In Constants]]
+- [[Built-in Constants]]
 
 ## Handy Tips
 
-- [In interactive mode, the last printed expression is assigned to the variable `_`.](../python/calculator-underscores)
-- [Raw Strings](../python/raw-strings)
+- [[Underscores in Interactive Mode]]
+- [[Raw Strings]]
 
 ## Structuring Your Programs
 
-- [Modules](../python/modules)
-- [Namespaces](../python/namespaces)
-- [Packages](../python/packages)
+- [[Modules]]
+- [[Namespaces]]
+- [[Packages]]
 
 ## GUI's
 
-- [Tkinter](../python/tkinter)
+- [[Tkinter]]
+
+---

@@ -2,7 +2,7 @@
 layout: note
 title: An Overview of the Python Language
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
 # An Overview of the Python Language
@@ -16,3 +16,5 @@ Python has a broad standard library which is very portable and cross-platform co
 - It provides very high-level dynamic data types and supports dynamic type checking.
 - It supports automatic garbage collection.
 - It can be **easily integrated with C, C++, COM, ActiveX, CORBA, and Java.**
+
+---

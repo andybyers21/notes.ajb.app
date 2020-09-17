@@ -2,7 +2,7 @@
 layout: note
 title: Constructors and Self
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Constructors and Self
@@ -66,3 +66,5 @@ When you call `update()`, the function within the class (the template) does not 
 _Whenever you see the word `self` in a class definition, self is referring to the particular instance you are working in._ When defined, `self` is passed automatically as the first argument of an instance. Any other arguments you pass will take up position 2 on so on.
 
 **If you don't include `self` as the first parameterin any method definitions in a class then those methods wil only be avaliable through the class namespace - they won't have access to any instance attributes.**
+
+---

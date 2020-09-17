@@ -2,7 +2,7 @@
 layout: note
 title: Loops
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Loops
@@ -11,3 +11,5 @@ nav_exclude: true
 `in`
 `for`
 `while`
+
+---

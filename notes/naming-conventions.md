@@ -2,7 +2,7 @@
 layout: note
 title: Python Naming Conventions
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Python Naming Conventions
@@ -58,3 +58,5 @@ Use a leading underscore only for non-public methods and instance variables.
 ### Constants
 
 Constants are usually defined on a module level and written in \***\*ALL_CAPS\*\*** (with underscores separating words). Examples include MAX_OVERFLOW and TOTAL.
+
+---

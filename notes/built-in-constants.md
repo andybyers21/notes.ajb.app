@@ -2,7 +2,7 @@
 layout: note
 title: Built-in Constants
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
 _This page needs to be reformatted_
@@ -59,3 +59,5 @@ The site module (which is imported automatically during startup, except if the -
 **license**
 
 - Object that when printed, prints the message “Type license() to see the full license text”, and when called, displays the full license text in a pager-like fashion (one screen at a time).
+
+---

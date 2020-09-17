@@ -2,7 +2,7 @@
 layout: note
 title: String Operations
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
 # String Operations
@@ -66,3 +66,5 @@ string[4:14]
 string.split("m")
 # ['this is ', 'y string']
 ```
+
+---

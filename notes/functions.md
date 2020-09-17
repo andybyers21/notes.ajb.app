@@ -2,7 +2,7 @@
 layout: note
 title: Functions
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Functions
@@ -27,3 +27,5 @@ def fizzbuzz(x, y):
 The Python interpreter has a number of functions and types built into it that are always available.
 
 - [View them here](https://docs.python.org/3/library/functions.html)
+
+---

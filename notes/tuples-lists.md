@@ -2,7 +2,7 @@
 layout: note
 title: Tuples and Lists
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Tuples and Lists
@@ -61,3 +61,5 @@ False
 ```
 
 Memory is allocated to tuples in larger blocks with a low overhead, because they are immutable. Tuples will use less memory than a dynamic list. **A list has a variable size, a tuple is allocated a fixed size.**
+
+---

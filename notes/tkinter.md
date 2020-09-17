@@ -2,7 +2,7 @@
 layout: note
 title: Tkinter
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Tkinter
@@ -47,3 +47,5 @@ window.mainloop()
 ```
 
 Is the code to place an app on your screen.
+
+---

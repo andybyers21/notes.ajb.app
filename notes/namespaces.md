@@ -2,7 +2,7 @@
 layout: note
 title: Namespaces
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Namespaces
@@ -22,3 +22,5 @@ Python organises symbolic names and objects into namespaces. **A namespace is a 
 4. **Local**, Defined at the innermost scope (nested functions for example).
 
 Python will start at the local scope and work it's way out to find what it's looking for.
+
+---

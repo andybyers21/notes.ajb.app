@@ -2,7 +2,7 @@
 layout: note
 title: Packages
 parent: Python
-nav_exclude: true
+grand_parent: Home
 ---
 
 # Packages
@@ -27,3 +27,5 @@ import foo from bar
 ```
 
 This way we've imported the module first so don't need to specify the prefix every time we call it.
+
+---
