@@ -123,3 +123,7 @@ There are three logical operators in JavaScript. They can be applied to any valu
 - [Writing JS code]
 
 ---
+## Backlinks
+* [[Introduction to Front End Coding]]
+	* Front end coding lives primarily in your browser. When you search or click a link your browser receives [[HTML]] files from the server, which will in turn tell the browser to retreive the [[CSS]], [[JavaScript]] or whatever other files it requires. You browser will the figure out how to put it all together based on the instructions from the HTML.
+

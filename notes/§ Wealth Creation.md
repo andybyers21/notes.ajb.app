@@ -49,3 +49,7 @@ has_toc: false
 - [[Holding Cash is a Bad Investment]]
 
 ---
+## Backlinks
+* [[Being Unshakable (in regards to investing)]]
+	* **Psychology either makes you or breaks you, so it’s imperative to have a robust system that enables you to stay on target.** [[Wealth Creation]] is 80% Psychology & 20% Mechanics
+
