@@ -35,6 +35,7 @@ has_toc: false
   - [[Clients & Servers]]
 
 - [[Types of Networks]]
+- [[HTTP Status Codes]]
 
 ## API's
 
