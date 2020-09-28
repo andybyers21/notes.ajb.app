@@ -8,8 +8,6 @@ has_toc: false
 
 # JavaScript
 
-\__currently working on transferring notes over from obsidian.md_
-
 ## JavaScript Basics
 
 - [[JavaScript Basics]]
