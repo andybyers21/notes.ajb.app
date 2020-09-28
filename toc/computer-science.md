@@ -16,8 +16,14 @@ has_toc: false
 - [[What is Refactoring]]
 - [[Object Oriented Programming]]
 
+- [[Boolean]]
 - [[Transclusion]]
 - [[Semantics]]
+
+## Practices
+
+- [[A Variable Should Have Clear and Obvious Naming]]
+- [[Naming a Function]]
 
 ## Web Infrastructure
 
