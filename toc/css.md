@@ -11,6 +11,8 @@ has_toc: false
 - [[CSS Basics]]
 - Improve Compatibility with [[Browser Fallbacks]]
 - [[Attribute Selectors]]
+- [[CSS pseudo-classes]]
+- [[Viewport Dimensions]]
 
 ## Snippets
 

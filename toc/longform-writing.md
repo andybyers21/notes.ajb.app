@@ -17,4 +17,4 @@ Here you will find links to some of my more developed essays which are categoriz
 
 ## Productivity
 
-- [[5 Ways to Work Smarter, Not Harder]]
+- [[5 Ways to Work Smarter - Not Harder]]

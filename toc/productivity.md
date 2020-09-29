@@ -18,4 +18,4 @@ has_toc: false
 
 - What are the [[Conditions of Flow]]?
 
-- [[5 Ways to Work Smarter, Not Harder]] - ([[Longform Writing]], blog post published May 5th 2020)
+- [[5 Ways to Work Smarter - Not Harder]] - ([[Longform Writing]], blog post published May 5th 2020)
