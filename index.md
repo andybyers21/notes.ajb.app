@@ -10,9 +10,7 @@ has_toc: false
 
 I'm a software developer from the UK with goals around building knowledge management for the web. You can view my portfolio at [ajb.app](https://ajb.app)
 
-## About These Notes
-
-I built this site as a vault for my ongoing note taking. The topics are broad and cover things like self-education, [Computer Science](toc/computer-science) personal knowledge management (PKM), [Productivity](toc/productivity), entrepreneurship, strategy, marketing, [Wealth Creation](toc/wealth-creation), and whatever other rabbit holes I find myself in. I’ve committed to sharing my findings with the world. _If you’re willing to let people access your life, they’ll find what they need to help you succeed._
+I built this site as a vault for my ongoing note taking. The topics are broad and cover things like self-education, [Computer Science & Web Concepts](toc/computer-science) personal knowledge management (PKM), [Productivity](toc/productivity), entrepreneurship, strategy, marketing, [Wealth Creation](toc/wealth-creation), and whatever other rabbit holes I find myself in. I’ve committed to sharing my findings with the world. _If you’re willing to let people access your life, they’ll find what they need to help you succeed._
 
 ## This page is my personal research environment and an experiment in learning in public.
 
