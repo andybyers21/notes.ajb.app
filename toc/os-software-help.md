@@ -10,6 +10,7 @@ has_toc: false
 
 ## MacBook
 
+- [[Show hidden files and folders on Catalina]]
 - How to [[Reset SMC On a Non-T2 Based MacBook]]
 - [[iPad Disconnection Issues]] (iPad constantly disconnecting and reconnecting when linked to your Mac?)
 - [[How to replace the default email app on a Mac]]
@@ -26,3 +27,7 @@ has_toc: false
 ## HomeBrew
 
 - [[Homebrew Common Commands]]
+
+## UNIX
+
+- [[Cron Jobs]]
