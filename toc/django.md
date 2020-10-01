@@ -9,3 +9,5 @@ has_toc: false
 # Django
 
 - [[Hiding Django's Secret Key]]
+
+- [[Structuring a Django Project]]

@@ -24,6 +24,7 @@ has_toc: false
 
 - [[A Variable Should Have Clear and Obvious Naming]]
 - [[Naming a Function]]
+- [[Structuring Your Python Project]]
 
 ## Web Infrastructure
 

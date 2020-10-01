@@ -9,8 +9,6 @@ has_toc: false
 # Python
 
 - [[An Overview of the Python Language]]
-- [[PEP-8]], The Python Style Guide
-  - [[Python Naming Conventions]]
 
 ## Python Basics
 
@@ -24,6 +22,22 @@ has_toc: false
 - [[Tuples and Lists]]
 - [[Dictionaries]]
 
+## Python Style Guide
+
+- [[PEP-8]], **The Python Style Guide**
+- [[Python Naming Conventions]]
+
+### Structuring Your Programs
+
+- [[Structuring Your Python Project]]
+
+  - [[Structuring a Django Project]]
+
+- [[Modules]]
+- [[Namespaces]]
+- [[Packages]]
+- [[Decorators]]
+
 ## Python, Batteries Included
 
 - [[Built-in Constants]]
@@ -33,11 +47,9 @@ has_toc: false
 - [[Underscores in Interactive Mode]]
 - [[Raw Strings]]
 
-## Structuring Your Programs
+### Resources
 
-- [[Modules]]
-- [[Namespaces]]
-- [[Packages]]
+- [[The Hitchhiker’s Guide to Python]]
 
 ## GUI's
 
