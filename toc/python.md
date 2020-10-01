@@ -46,6 +46,7 @@ has_toc: false
 
 - [[Underscores in Interactive Mode]]
 - [[Raw Strings]]
+- [[os.path]]
 
 ### Resources
 
