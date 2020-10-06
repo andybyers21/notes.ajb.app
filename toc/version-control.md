@@ -26,4 +26,4 @@ has_toc: false
 
 ## Mods
 
-- **[[Git add-commit Shortcut]]**
+- [[Git Custom Shortcuts]]
