@@ -67,6 +67,10 @@ has_toc: false
 
   - [[DevOps Roadmap]]
 
+## Data Engineering
+
+- [[Data Engineer Roadmap]]
+
 ## Tools
 
 - [[Cron Jobs]]
