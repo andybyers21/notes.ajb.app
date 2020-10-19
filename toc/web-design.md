@@ -13,14 +13,12 @@ has_toc: false
 
 ## Web Design Resources
 
-### Where to find free, good quality illustrations/images or icons for your websites?
-
-- [[Illustrations]]
-- [[Backgrounds & Banner Templates]]
 - [[Animations]]
-- [[Images]]
-- [[Icons]]
-- [[Video & Music]]
-- [[CSS Effects]]
+- [[Backgrounds & Banner Templates]]
 - [[Color Pallets]]
+- [[CSS Effects]]
 - [[Curated Lists]]
+- [[Icons]]
+- [[Illustrations]]
+- [[Images]]
+- [[Video & Music]]
