@@ -20,6 +20,7 @@ has_toc: false
 - [[Classes and Objects]]
   - A note on [[Constructors and Self]]
 - [[Tuples and Lists]]
+  - [[Python List Manipulation]]
 - [[Dictionaries]]
 
 ## Python Style Guide
@@ -41,12 +42,12 @@ has_toc: false
 ## Python, Batteries Included
 
 - [[Built-in Constants]]
+- [[OS module]]
 
 ## Handy Tips
 
 - [[Underscores in Interactive Mode]]
 - [[Raw Strings]]
-- [[os.path]]
 
 ### Resources
 
