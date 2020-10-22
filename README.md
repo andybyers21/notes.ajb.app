@@ -1,6 +1,14 @@
 # notes.ajb.app
 
-This is the data for my Evergreen notes vault hosted at [notes.ajb.app](https://notes.ajb.app/). It is automatically transformed by [Jekyll](https://jekyllrb.com/) into a static site whenever I push this repo to GitHub and deployed to the web by [Netlify](https://app.netlify.com/).
+This page is my personal research environment and an experiment in learning in public.
+
+I built this site as a vault for my ongoing note taking. The topics are broad and cover things like self-education, computer science & web concepts, personal knowledge management (PKM), productivity, entrepreneurship, strategy, marketing, wealth creation, note taking and whatever other rabbit holes I find myself in.
+
+I’ve committed to sharing my findings with the world. If you’re willing to let people access your life, they’ll find what they need to help you succeed.
+
+---
+
+It's hosted at [notes.ajb.app](https://notes.ajb.app/). It is automatically transformed by [Jekyll](https://jekyllrb.com/) into a static site whenever I push this repo to GitHub and deployed to the web by [Netlify](https://app.netlify.com/).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/43f05955-0f84-4186-bbd5-14175f0919fa/deploy-status)](https://app.netlify.com/sites/affectionate-goldstine-d6699d/deploys)
 
