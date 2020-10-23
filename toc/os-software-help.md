@@ -14,6 +14,7 @@ has_toc: false
 - How to [[Reset SMC On a Non-T2 Based MacBook]]
 - [[iPad Disconnection Issues]] (iPad constantly disconnecting and reconnecting when linked to your Mac?)
 - [[How to replace the default email app on a Mac]]
+- [[Mac Startup Key Combinations]]
 
 ## Macbook Apps
 
