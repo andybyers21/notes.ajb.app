@@ -12,6 +12,7 @@ has_toc: false
 - [[Site ToDo's]]
 - [[YAML Tags]] (Templates)
 - [[Version History]]
+- [[Note Link Janitor]]
 
 # Personal
 
@@ -23,7 +24,7 @@ has_toc: false
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/43f05955-0f84-4186-bbd5-14175f0919fa/deploy-status)](https://app.netlify.com/sites/affectionate-goldstine-d6699d/deploys)
 
-- Backlinks maintained with Andy Matuschak's [note link janitor](https://github.com/andymatuschak/note-link-janitor)
+- Backlinks maintained with Andy Matuschak's [[Note Link Janitor]]
 
 - Built on the [Just the Docs](https://pmarsceill.github.io/just-the-docs/) framework by [
   Patrick Marsceill](https://github.com/pmarsceill).
