@@ -13,6 +13,10 @@ has_toc: false
 - [[YAML Tags]] (Templates)
 - [[Version History]]
 
+# Personal
+
+- [[Personal Learning Path (Backend) - 20/11/2020]]
+
 ---
 
 - Notes are automatically transformed by [Jekyll](https://jekyllrb.com/) into a static site whenever I push this repo to GitHub and deployed to the web by [Netlify](https://app.netlify.com/).
