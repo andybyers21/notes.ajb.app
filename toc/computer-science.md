@@ -28,6 +28,7 @@ has_toc: false
 
 ## Web Infrastructure
 
+- [[HTTP]]
 - [[A Mental Model of the Infrastructure of the Internet]]
 - [[What happens when you visit a web page]]
 - [[What happens when you search for content on the web?]]
