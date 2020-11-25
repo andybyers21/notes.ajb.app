@@ -26,6 +26,8 @@ has_toc: false
 - [[Naming a Function]]
 - [[Structuring Your Python Project]]
 
+---
+
 ## Web Infrastructure
 
 - [[HTTP]]
@@ -45,10 +47,16 @@ has_toc: false
 - [[Types of Networks]]
 - [[HTTP Status Codes]]
 
-## API's
+### Databases
+
+- [[SQL vs NoSQL]]
+
+### API's
 
 - [[API's]]
   - [[RESTful Web Services]]
+
+---
 
 ## Web Development Concepts
 
