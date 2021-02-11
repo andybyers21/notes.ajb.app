@@ -1,0 +1,4 @@
+# Young people are adverse to investing in [[Stock Markets]] and they are making a costly mistake.
+#tk/wealth
+- - - -
+“Millennials are making the same mistake a previous generation made decades ago—a generation that was scarred by the catastrophe of the Great Depression. Those folks’ fear of stocks was all too understandable. From 1929 to 1932, the Dow Jones Industrial Average went down what today would be the equivalent of 17,000 points! That’s a plunge of almost 90%. The 1930s was plagued by high unemployment. Then came World War II. No wonder most Americans vowed never to go near a stock. Yet after WWII, the United States entered a great period of prosperity. Stock prices went up manyfold. Sadly, all too many people stayed out or overinvested in seemingly safe bonds; they could hardly know that the debt market was starting what turned out to be a 35-year bear market. Investors lost staggering sums to the inflation that pummeled the bonds’ principle.”

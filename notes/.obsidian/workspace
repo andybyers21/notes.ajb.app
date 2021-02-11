@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "1107a881e7c15ac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bfee8da686c0b60",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4f39340eac2e2ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c9548df826c5808",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e95ca313df9eedcb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "46bc503a8bd2d75a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212
+  },
+  "right": {
+    "id": "c765e60596484e9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbe584a01d215d3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd2f83cbe668ab32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "000191.md",
+    "000193.md",
+    "000186.md",
+    "000040.md",
+    "000038.md",
+    "000202.md",
+    "000185.md",
+    "000192.md",
+    "000194.md",
+    "000195.md"
+  ]
+}
