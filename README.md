@@ -10,8 +10,6 @@ I’ve committed to sharing my findings with the world. If you’re willing to l
 
 It's hosted at [notes.ajb.app](https://notes.ajb.app/). It is automatically transformed by [Jekyll](https://jekyllrb.com/) into a static site whenever I push this repo to GitHub and deployed to the web by [Netlify](https://app.netlify.com/).
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/43f05955-0f84-4186-bbd5-14175f0919fa/deploy-status)](https://app.netlify.com/sites/affectionate-goldstine-d6699d/deploys)
-
 It's built on the excellent [Just the Docs](https://pmarsceill.github.io/just-the-docs/) framework by [
 Patrick Marsceill](https://github.com/pmarsceill). Search is made possible by [Lunr.js](https://lunrjs.com/).
 
