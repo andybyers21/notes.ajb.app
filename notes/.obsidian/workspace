@@ -6,10 +6,12 @@
       {
         "id": "4bfee8da686c0b60",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "000024.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,9 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -81,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "4bfee8da686c0b60",
   "lastOpenFiles": [
+    "000024.md",
+    "000019.md",
+    "000002.md",
     "000191.md",
     "000193.md",
     "000186.md",
     "000040.md",
     "000038.md",
     "000202.md",
-    "000185.md",
-    "000192.md",
-    "000194.md",
-    "000195.md"
+    "000185.md"
   ]
 }
